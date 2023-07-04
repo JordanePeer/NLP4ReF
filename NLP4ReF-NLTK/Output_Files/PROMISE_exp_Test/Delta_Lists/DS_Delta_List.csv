@@ -1,0 +1,71 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The reliability of the overall program depends on the reliability of the separate components. The main pillar of reliability of the system is the backup of the database which is continuously maintained and updated to reflect the most recent changes.,FT,DS
+2,The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes.,SE,DS
+3,The audit report shall be displayed to the user.,F,DS
+4,The audit report shall include the total number of recycled parts used in the estimate.,F,DS
+5,The product shall be able to delete room equipment.,F,DS
+6,The system shall adhere to data retention and deletion regulations including the ability to anonymize or delete user data upon request,L,DS
+7,The vehicle data shall include vehicle year make and model,F,DS
+8,The system shall provide data archival capabilities for long-term storage,O,DS
+9,All registered customer information shall be stored and maintained in the database  even after the customer cancels their account.,SE,DS
+10,The product shall retain the customer\92s buying preferences and information.,US,DS
+11,The system must be quickly accessible by both managers and chefs.,US,DS
+12,Daily usage statistics should be logged  and accessible by the administrator.,SE,DS
+13,Sensitive data will be encrypted before being sent over insecure connections like the internet.,SE,DS
+14,A primary database will be used to store cached data for active users.,O,DS
+15,It must be able to change and update information on the server.,O,DS
+16,The product shall record different meeting types.,F,DS
+17,Keep track of all the payment transactions made by the customers and update the payment information.,F,DS
+18,It should give a drill-down view of all data in the medical record after logging in.,LF,DS
+19,The product shall ensure that the database\92s data corresponds to the data entered by the user.  Each conference room reservation in the system will contain the same information as was entered by the user.,SE,DS
+20,All credit card information will be secured on the server  and only accessible by authorized Izogn administrators.  Information will be encrypted in the database.,SE,DS
+21,Unauthorised users can only read data without modifying anything.,SE,DS
+22,Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.,O,DS
+23,The data storage system shall implement mechanisms to securely delete or anonymize data when it is no longer needed.,SE,DS
+24,User passwords will be stored in the database in an encrypted format.,SE,DS
+25,The system should be able to manage all the information incoming from the database and the catalogue.,O,DS
+26,The audit report shall include the number of available recycled parts from the original search results.,F,DS
+27,All the passwords that are generated or accepted must be stored in database in an encrypted form.,SE,DS
+28,The System shall be able to automatically backup business data and restore them on demand.,O,DS
+29,Customized information is displayed.,SE,DS
+30,It must only update the parts that have changed when connecting to the server.,O,DS
+31,The recycled parts audit report shall be returned to the user within 10 seconds.  The audit report shall be returned within 10 seconds.,F,DS
+32,The system shall accommodate large data items without fault.,FT,DS
+33,The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.,SC,DS
+34,The audit report shall be available to other adjusters at later points in time.,A,DS
+35,The product shall be able to store new room equipment.,F,DS
+36,The system should maintain correct schedules of labs and the documentation of all the lab equipment.,F,DS
+37,The system shall store sensor data in a centralized database with a response time of less than 100 milliseconds,PE,DS
+38,The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.,SE,DS
+39,The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users,MN,DS
+40,The system should be able to encrypt all data stored on the network,F,DS
+41,The system provides storage of all databases on redundant computers with automatic switchover.,O,DS
+42,All streaming movie sales will be logged in the database  and accessible by the administrator.,F,DS
+43,The audit report shall include the total score of the audit which sums the indivual line items.,F,DS
+44,The washing process must use a non binding  neutral data format  such as xml  when receiving and processing lead data.,O,DS
+45,All customer information will be stored on a secure database  accessible only to authorized personnel.,SE,DS
+46,The product shall record updated meeting agendas.,F,DS
+47,The audit report shall include the percentage of available recycled parts used in the estimate ,F,DS
+48,The product shall record all the equipment that has been reserved.,F,DS
+49,One insurance company shall not be able to view another insurance companys claim data.,SE,DS
+50,If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30,US,DS
+51,System will use secured database,O,DS
+52,The product shall record the transportation status of equipment reserved.,F,DS
+53,"The RFS system should be able to easily interface with the BDW environment  in order to load the data. \95	7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year. The data will be as of October month-end. 	Test files (7) shall be loaded up to 5 times throughout the year  from the BDW.",O,DS
+54,A secondary database will be used to store historical statistics and data.,O,DS
+55,The product shall prevent its data from incorrect data being introduced.,SE,DS
+56,The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.,MN,DS
+57,The data storage system shall enforce access controls and permissions to restrict data access based on user roles or privileges.,SE,DS
+58,The system should be able to filter and prioritize data based on user-defined criteria,US,DS
+59,The product shall store new conference rooms.,F,DS
+60,Keep track of each product item's stocks for selling purpose.,F,DS
+61,It must store the most recent copy of information in its application data folder.,F,DS
+62,The product shall record meeting entries.,F,DS
+63,The system should have to keep the location where the doughnut will be send.,O,DS 
+64,The system should keep the customer email.,F,DS 
+65,Each account must securely store all of its data.,SE,DS 
+66,Each account must have a separate identifying account number.,F,DS 
+67,Full data backups must be created daily.,SE,DS 
+68,The system should keep the customer contact number.,F,DS 
+69,The System shall utilize currently owned computer equipment.,O,DS
+70,The same hardware supporting the current website will be used to support the new system.,O,DS

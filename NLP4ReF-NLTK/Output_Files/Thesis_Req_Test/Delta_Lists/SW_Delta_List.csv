@@ -1,0 +1,17 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system should use the company colors and logos.,SE,SW
+2,The system shall have a well-defined software architecture with clear separation of concerns to facilitate maintainability,MN,SW
+3,The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.,F,SW
+4,The software architecture should be modular and scalable allowing for easy integration of new features and functionalities as the system evolves,SC,SW
+5,The product shall be easy for customers with novice skills on the  Internet to purchase and watch streaming movies.  Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.,US,SW
+6,The system shall locate the preferred repair facility with the highest ratings for the input criteria,F,SW
+7,The software should provide flexible APIs and SDKs for developers to integrate with different IoT platforms and services,PO,SW
+8,The system will use a single password per user to login to the E-Store System.,SE,SW
+9,The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.,US,SW
+10,The system shall support automated unit testing and test coverage analysis to ensure code quality and facilitate maintenance,MN,SW
+11,The software shall be regularly updated to ensure compatibility with the latest operating systems and dependencies,A,SW
+12,The system shall allow the initiator to send and receive messages from users.,F,SW
+13,The system shall include actuators to control the temperature of heating or cooling systems,O,SW
+14,The system shall have a web-based interface for users to monitor and control IoT devices,F,SW
+15,The system shall include a mobile application for users to monitor and control IoT devices on the go,F,SW
+16,The system shall allow the mediator to send and receive messages from users.,F,SW

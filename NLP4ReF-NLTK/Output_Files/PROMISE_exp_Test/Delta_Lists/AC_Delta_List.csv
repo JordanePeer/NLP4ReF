@@ -1,0 +1,12 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system shall include an actuator for controlling the opening and closing of windows in a smart home,O,AC
+2,The actuators used in the IoT system shall comply with safety regulations to prevent harm or injury to users,L,AC
+3,When a shot is marked as a miss  the product shall simulate the sound of a shot missing its target.,LF,AC
+4,The product shall comply with regulations governing the energy efficiency of actuator devices,L,AC
+5,When the offensive player takes a shot  the product shall simulate the sound of a ship at sea.,LF,AC
+6,The actuators must be highly configurable for use with various database management systems for the end users,MN,AC
+7,The actuator shall be capable of adjusting its position within 5 milliseconds,PE,AC
+8,When a ship is sunk  the product shall simulate the sound of a sinking ship.,LF,AC
+9,The system should warn ECA users about the malfunction of the system.,FT,AC
+10,The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.,A,AC
+11,The product shall simulate the look of ships at sea.,LF,AC

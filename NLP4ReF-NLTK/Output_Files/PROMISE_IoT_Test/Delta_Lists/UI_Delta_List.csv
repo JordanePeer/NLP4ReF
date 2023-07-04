@@ -1,0 +1,482 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system should provide a consistent and intuitive user interface,LF,UI
+2,The system shall display the customer support contact numbers on the screen.,F,UI
+3,The user interface shall support multi-language localization for global accessibility,F,UI
+4,The system shall provide a digital image for each product in the product catalog.,US,UI
+5,The system should have a user-friendly interface for configuring and managing devices,LF,UI
+6,The user interface should support different accessibility options for users with disabilities,PO,UI
+7,The font will be larger enough for easy reading.,F,UI
+8,System shall let customers register on the website as a \93pay as you go\94 user in under 5 minutes.,PE,UI
+9,The user interface of the IoT system shall comply with accessibility standards for equal access and usability,L,UI
+10,The system shall authenticate user credentials to view the profile.,F,UI
+11,A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.,US,UI
+12,The system should provide logs and alerts for system events and errors,MN,UI
+13,The system should support personalization and customization options in the user interface to cater to individual user preferences,SC,UI
+14,The system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes.,US,UI
+15,The user shall be able to connect 24/7,A,UI
+16,The user interface should use clear and easily understandable language,US,UI
+17,The user interface shall provide contextual help and tooltips to guide users through complex operations and facilitate self-service maintenance,MN,UI
+18,The system should have a user visually appealing design that is consistent across all devices,LF,UI
+19,The system shall be able to issue a specific amount of money to the user.,F,UI
+20,The system shall be able to display a printable summary for individual clinical labs  which will include (but not be limited to) class name  class number  lab section  listing of students enrolled  instructor  day(s)  time  and location.,F,UI
+21,The system shall allow user to specify custom meeting locations.,F,UI
+22,The look and feel of the system shall conform to the user interface standards of the smart device.,LF,UI
+23,The system should provide an intuitive and responsive user interface for all devices,LF,UI
+24,The system shall provide use of icons and toolbars.,US,UI
+25,The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.,US,UI
+26,The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.,US,UI
+27,The system shall enable user to select the shipping method during payment process.,F,UI
+28,The product will be able to delete conference rooms.,F,UI
+29,The current repair facility ratings shall be displayed to the user.,F,UI
+30,The user shall select to save the preferred repair facility ratings.,F,UI
+31,The system shall notify the user about any changes made to the order.,F,UI
+32,The system should have a responsive and intuitive user interface,LF,UI
+33,The system shall display the orders that are eligible to change.,F,UI
+34,The system shall display both the active and completed order history in the customer profile.,F,UI
+35,The IoT system shall meet regulatory requirements for incident response and data breach notification,L,UI
+36,The software should offer an intuitive and user-friendly drag-and-drop interface for configuration,LF,UI
+37,The system shall offer a display of all the Events in the exercise.,F,UI
+38,The system shall allow the user to modify the date exclusion set of an already submitted meeting response.,F,UI
+39,The system should have a user-friendly interface that allows for easy configuration and management of security settings,US,UI
+40,A user must be logged on to be able to view or edit any medical information.,F,UI
+41,The user interface shall support multi-modal interaction including touch voice and gesture input,PE,UI
+42,The website shall be available for use 24 hours per day  365 days per year.,A,UI
+43,The intranet pages should display appropriately in all resolutions  from 800x600 and higher. The display of all the pages will be correct in 95% of the resolutions  prior to implementation. The remaining 5% will be corrected within a week of notification of the incorrect display.,LF,UI
+44,The product shall comply with regulations governing the use of artificial intelligence algorithms and decision-making processes,L,UI
+45,The system should provide the user with an option to set up automated workflows for specific tasks,F,UI
+46,The menus of the system must be easily navigable by the users with buttons that are easy to understand.,MN,UI
+47,The user interface shall have a responsive search functionality to quickly retrieve and access relevant information,A,UI
+48,When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the user\92s connection.),PE,UI
+49,The system should offer a dark mode option for reduced eye strain in low-light environments,LF,UI
+50,The user interface shall provide a visual representation of sensor data through charts and graphs,F,UI
+51,"The user interface shall implement mechanisms to protect against UI redressing attacks, such as UI spoofing or UI tampering.",SE,UI
+52,The system should have a consistent interface across all devices,LF,UI
+53,The user interface should have a responsive design that adapts to different screen sizes and orientations,US,UI
+54,The product shall comply with corporate color scheme,LF,UI
+55,The website design should be modern  clean  and concise  ensuring a seamless and user-friendly browsing experience,LF,UI
+56,The user interface shall have responsive design principles to adapt to different devices and screen sizes without compromising usability,FT,UI
+57,The product shall be easy for a realtor to learn.,US,UI
+58,"The user interface shall implement secure password policies, such as password complexity requirements and password expiration.",SE,UI
+59,The user interface shall have a responsive design for optimal viewing on different screen sizes,PE,UI
+60,Every user of the system shall be authenticated and authorized.,SE,UI
+61,The system shall allow the user to change the password.,F,UI
+62,The product shall display a map of the company building showing conference room locations.,LF,UI
+63,Customer must logout of the site after purchasing products.,F,UI
+64,The user interface should have clear and concise error messages to assist users in troubleshooting,US,UI
+65,The user interface should have customizable dashboard layouts to prioritize important information,LF,UI
+66,If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100,US,UI
+67,The user interface shall provide a dashboard with customizable widgets for displaying sensor data,F,UI
+68,The system should provide real-time notifications and alerts for critical events,A,UI
+69,The bottom 3/4 of the table will hold events that occur according to its relevance to current time.,F,UI
+70,The user interface should support multiple input methods including touch voice and keyboard,LF,UI
+71,The product shall display the grids within a circle as a view from a periscope.,LF,UI
+72,The system shall be displayable on any work computer a CCR user may have. The system interface shall be formatted to display at 800 by 600 pixel resolution.,LF,UI
+73,The product shall allow the user to select a chosen language from one of the target market countries.,US,UI
+74,The product shall comply with regulations regarding the use of specific types of sensors in certain industries,LF,UI
+75,The system shall allow modification of the display.,F,UI
+76,The system's devices and actuators should comply with standard and regulatory requirements,L,UI
+77,The user interface shall have backup display options or alternative interfaces in case of display failures,FT,UI
+78,The user interface shall have a mechanism for users to provide feedback and report availability issues directly within the interface,A,UI
+79,The user interface should support intuitive drag-and-drop or gesture-based interactions for ease of use,LF,UI
+80,While streaming a movie  buffering should only occur if there is latency in the user\92s connection.,PE,UI
+81,The user interface shall provide a search function to easily find and locate specific devices or sensor data,F,UI
+82,The system shall meet regulatory requirements for personal user's electronic signatures and authentication,L,UI
+83,The system shall allow user to enter the contact number for support personnel to call.,F,UI
+84,The display shall have two regions:  left 2/3 of the display is graphical  right 1/3 of the display is a data table,F,UI
+85,The user interface should offer customizable themes and color schemes to cater to individual preferences,LF,UI
+86,The system shall display only 10 matching result on the current screen.,F,UI
+87,The preferred repair facility shall be returned to the user.,F,UI
+88,The user interface should provide customizable dashboards or widgets for personalized data visualization,LF,UI
+89,The user interface should offer scalability in terms of supporting different devices and screen sizes including mobile devices and desktop computers,LF,UI
+90,The system should provide a customizable and intuitive user interface,LF,UI
+91,The system shall allow user to view detailed sitemap.,F,UI
+92,The system should provide users with the ability to adjust the user interface based on their preferences,LF,UI
+93,The system shall be intuitive and self explanatory.,US,UI
+94, The system shall allow the user to modify the location preference set of an already submitted meeting response.,F,UI
+95,The customer's web browser shall never display a customer's credit card number after retrieving from the database.  It shall always be shown with just the last 4 digits of the credit card number.,SE,UI
+96,The system should provide the user with an option to customize the look and feel of the user interface,LF,UI
+97,The system shall optionally allow user to print the invoice.,F,UI
+98,It should not take more than 90 seconds for a registered user to place an order.,US,UI
+99,Responses to queries shall take no longer than 7 seconds to load onto the screen after the user submits the query.,PE,UI
+100,The system shall display all the available financing options.,F,UI
+101,The system shall allow the user to register for an account from any page in the system.,F,UI
+102,The system should have a visually appealing indicator  for the user  to show the status of connectivity with other devices,LF,UI
+103,The user interface should have a consistent and intuitive layout across different screens,LF,UI
+104,The user interface shall have standard menus buttons for navigation,LF,UI
+105,The interface must summarize the data in a fashion that\92s appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface,LF,UI
+106,A tablet shall require a user to log in using a username and password.,SE,UI
+107,The product shall display room equipment according to search parameters.,F,UI
+108,The system should provide customizable themes and color schemes to allow users to personalize the interface according to their preferences,LF,UI
+109,The system should support multi-language interfaces to cater to a diverse user base,MN,UI
+110,The system shall display the current tracking information about the order.,F,UI
+111,The user interface shall support gesture-based controls for intuitive device interaction,PE,UI
+112,The system should provide clear and descriptive labels for all interface elements,LF,UI
+113,The system's back-end servers shall never display a customer's password.  The customer's password may be reset but never shown.,SE,UI
+114,The system shall allow user to enter the customer and product information for the support.,F,UI
+115,The system shall allow user to confirm the completion of current configuration.,F,UI
+116,The campus map shall have a pause/resume button. The pause and resume button will allow the user to scroll and select other buildings without being interrupted by the automatic search and announce feature.,LF,UI
+117,The system's color scheme and fonts should be consistent across all screens and interfaces,LF,UI
+118,viewing a movie details the website will display the movies description actor and director entered in by the administrator.,F,UI
+119,The system should provide support for users with disabilities,SC,UI
+120,The appearance of the product shall appear professional,LF,UI
+121,View the personal details of the customer.,F,UI
+122,2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.,US,UI
+123,The top 1/4 of the table will hold events that are to occur sequentially.,F,UI
+124,The system should provide user-friendly documentation and support resources,LF,UI
+125,Any page of the application should not take more than 6 seconds to load on a DSL broadband connection.,PE,UI
+126,The website should have an African feel  but should not alienate non-Africans.  The website should use animation on pages which are describing the services  to grab the users attention and encourage them to sign up.,LF,UI
+127,The user interface shall provide a responsive and intuitive design with a maximum loading time of 2 seconds,PE,UI
+128,The Operational Interface shall have a Mean Time Between Failures of no less than 7 days.,FT,UI
+129,The system shall allow user to register for newsletters and surveys in the profile.,F,UI
+130,The user interface shall have a clear and intuitive layout to minimize user confusion and enhance availability,A,UI
+131,System shall let customers cancel their account  process shall take no longer than 2 minutes.  Database will mark the account as inactive  and user will not be able to log into the website.,PE,UI
+132,All the functions of the system must be available to the user every time the system is turned on.,A,UI
+133,The system shall support user interface theming and branding to align with the branding guidelines of different organizations or users,MN,UI
+134,The system must have a user's ability to remotely manage and control IoT devices,O,UI
+135,The system should require the user to state time when should the doughnut be delivered,F,UI
+136,The system should provide visually appealing data visualization and graphical representations to enhance the user's understanding of the collected data,LF,UI
+137,Selected or specified patient's information is loaded.,F,UI
+138,The product shall comply with regulations governing the use of voice recognition natural language processing and user authentication,L,UI
+139,Enable new users to register to the tech support system.,F,UI
+140,The user interface should support accessibility features  such as screen readers and high contrast modes  for users with disabilities,PO,UI
+141,"The user interface shall enforce secure user authentication mechanisms, such as strong passwords or multi-factor authentication.",SE,UI
+142,The product shall display each type of ship in a grid using an image of the specific type of ship.,LF,UI
+143,The user interface shall provide a calendar view for scheduling and managing automated tasks,F,UI
+144,The system shall provide clear and transparent terms of service and privacy policies to comply with user protection regulations,L,UI
+145,The system should provide a consistent and intuitive user experience,LF,UI
+146,Navigation to each selected tab.,LF,UI
+147,The system should provide intuitive and user-friendly data analysis and reporting features,LF,UI
+148,The system shall allow user to create profile and set his credential.,F,UI
+149,Enable a logged in user to ask questions.,F,UI
+150,The user interface should be intuitive and user-friendly supporting both graphical and voice-based interactions,PO,UI
+151,The system shall allow a user to define the time segments,F,UI
+152,100% of saved user preferences shall be restored when system comes back online.,F,UI
+153,The response shall be fast enough to avoid interrupting the user\92s flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.,PE,UI
+154,If a user account is revoked  it can only be re-instantiated by the System Administrator.,SE,UI
+155,The system shall allow the user to modify the date preference set of an already submitted meeting response.,F,UI
+156,The user interface shall provide real-time feedback on system health and status to keep users informed about potential faults,FT,UI
+157,The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.,A,UI
+158,The system shall display clear property images in the search results,F,UI
+159,The system shall enable user to add one or more component to the configuration.,F,UI
+160,The system should provide users with the ability to adjust the user interface based on the environment,LF,UI
+161,The system shall provide data visualization tools,O,UI
+162,The user interface should be designed to handle a larger number of concurrent users without sacrificing responsiveness and usability,SC,UI
+163,The user interface should provide real-time notifications and alerts to keep users informed about critical events and system status,LF,UI
+164,The system will display a blank set of ratings if there are not ratings yet defined.,F,UI
+165,The user interface should scale to accommodate real-time updates and notifications from a growing number of IoT devices,SC,UI
+166,Every registered user will have access to the product\92s support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.,US,UI
+167,The user interface should support multi-language and internationalization capabilities to cater to a global user base,SC,UI
+168,"The online registration system is ""self-service style"" system that shall initially address the student registration needs.",F,UI
+169,The system shall enable the user to enter their reviews and ratings.,F,UI
+170,The system shall display all the products that can be configured.,F,UI
+171,The user interface shall support real-time data streaming for live monitoring,PE,UI
+172,System shall let existing customers log into the website with their email address and password in under 5 seconds.,PE,UI
+173,The user interface should allow customization of dashboards and widgets based on user preferences and roles,LF,UI
+174,The user interface shall provide a calendar view for scheduling and managing automation tasks and events,F,UI
+175,The user interface should provide localization and internationalization support for different languages and cultures,PO,UI
+176,The user interface should provide visual cues and feedback for user actions,LF,UI
+177,The table side of the display shall be split into 2 regions: sequential and temporal.,F,UI
+178,The system should support multi-user interfaces allowing multiple users to interact simultaneously,SC,UI
+179,Logout must be automatic after 1 hour of inactivity.,SE,UI
+180,95% of users will not need to read the user manual to be able to use the application.,US,UI
+181,The system shall meet privacy regulations regarding the collection and handling of user interface interaction data,L,UI
+182,The system should offer options for user-customizable themes and color schemes,LF,UI
+183,The product shall have an intuitive user interface.,US,UI
+184,The system must provide clear and concise error messages to users,US,UI
+185,The user shall be available to stream cameras' videos at anytime of the day,A,UI
+186,The user interface should provide customization options to allow users to personalize their interface layouts and preferences,SC,UI
+187,The user interface should have responsive design elements to adapt to different screen sizes and orientations,US,UI
+188,The system shall provide a way to return to the startup screen.,US,UI
+189,The user interface shall have backup display options in case of display failure,FT,UI
+190,The device should have a mobile app or web interface for intuitive configuration and control,US,UI
+191,The user interface should have responsive design elements to provide a consistent experience across different devices,US,UI
+192,The system should provide an easy-to-use interface for configuring device settings,US,UI
+193,The customer's web browser shall never display a customer's password.  It shall always be echoed with special characters representing typed characters.,SE,UI
+194,The user interface shall provide notifications and alerts for critical events or anomalies,A,UI
+195,The system shall query the user for the account type.,F,UI
+196,The user interface shall have a search functionality for easy data exploration and retrieval,PE,UI
+197,The system shall display all the matching products based on the search.,F,UI
+198,The system's sensors must comply with relevant legal and regulatory requirements,L,UI
+199,The system should have the ability to provide a user-friendly interface,LF,UI
+200,The UI shall provide interactive charts and graphs for data analysis,PE,UI
+201,The interface should provide visual cues or animations to guide users through different actions or processes,LF,UI
+202,The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members\92 planning purposes.,F,UI
+203,The user interface shall provide a search functionality for quickly locating specific devices or data records,F,UI
+204,The system should have a responsive design adapting to different screen sizes and orientations,LF,UI
+205,The user interface should provide clear and informative error messages for effective troubleshooting,LF,UI
+206,The system shall show the meetings to the user in ascending time order by default.,F,UI
+207,Authenticate and Login user to the web app.,F,UI
+208,The IoT devices shall conform to safety regulations for device labeling and warnings,L,UI
+209,The product shall use symbols and words that are naturally understandable by the realtor community.,US,UI
+210,The user interface should have customizable dashboards to allow users to personalize their data visualization,US,UI
+211,The user interface should support gesture-based interactions for enhanced user engagement and convenience,LF,UI
+212,The user interface should provide visual feedback on user interactions such as button presses or touch gestures,LF,UI
+213,The system shall refresh the display every 60 seconds.,F,UI
+214,The system shall be able to display a printable summary for individual nursing students  which will include (but not be limited to) student name  student ID  admission date  classes  credits  GPA  and the cohort that the student is enrolled in.,F,UI
+215,It must allow a user to logout.,F,UI
+216,The system shall enable user to enter the search text on the screen.,F,UI
+217,The product shall display conference rooms according to search parameters.,F,UI
+218,The user interface of the system should be very user friendly. ,US,UI
+219,The IoT devices shall conform to safety regulations for user interface feedback mechanisms such as haptic or visual indicators,LF,UI
+220,The system must be intuitive and simple in the way it displays all relevant data and relationships.,US,UI
+221,The system should have a mechanism for managing user consent and preferences,L,UI
+222,The product shall comply with regulations regarding the use of augmented reality or virtual reality interfaces,L,UI
+223,The system shall be able to display a menu at all times to facilitate manual order taking should the need arise.,LF,UI
+224,The user interface should be responsive and compatible with different screen sizes,US,UI
+225,Enable a logged in user to up vote and down vote answers.,F,UI
+226,The system shall display tax information for the order.,F,UI
+227,The system will fully function in major browsers.,PO,UI
+228,The system shall display the detailed information about the selected order.,F,UI
+229,The product shall be able to display calendar dates and times according to the user\92s locale.  90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.,US,UI
+230,The system shall allow user to select the payment method for order.,F,UI
+231,The RMS System shall have Windows XP look and feel and use GUI futures making its use intuitive.,LF,UI
+232,"The user interface shall enforce input validation mechanisms to prevent common web application vulnerabilities, such as cross-site scripting (XSS) or SQL injection.",SE,UI
+233,The user interface shall offer a historical data view with interactive charts and graphs for trend analysis,F,UI
+234,The IoT system shall adhere to privacy regulations to ensure the proper handling and safeguarding of user information,L,UI
+235,The IoT system's interface should provide clear and intuitive options for connecting and configuring devices,LF,UI
+236,The product shall allow for customization of start page and views preferences.,US,UI
+237,The user interface shall offer a responsive design that adapts to different screen sizes and devices,LF,UI
+238,The system should provide users with the ability to personalize the user interface,LF,UI
+239,The user interface shall have fast loading times to minimize waiting and provide a seamless user experience,A,UI
+240,The IoT system shall meet regulations governing the use of geolocation data and user tracking,L,UI
+241,The system should be operable by non-technical personnel with clear and concise instructions for operation,O,UI
+242,Only managers are able to perform search queries for reservations by user.  100% of all search queries for reservations by user shall be from logons of only management logons.,SE,UI
+243,The product shall be available to players who understand English  Spanish and French.  The product shall allow the user to select the language upon accessing the product.,US,UI
+244,The system should have a user-friendly interface for ease of use,LF,UI
+245,The system should have a mechanism to provide users with control over their data,L,UI
+246,The system will support mobile users in some way.,PO,UI
+247,The user interface shall have error handling and validation mechanisms to prevent data entry errors and ensure uninterrupted availability,A,UI
+248,The UI shall provide real-time visualization of sensor data through charts graphs and maps,PE,UI
+249,The user interface shall support multiple languages and localization to cater to a diverse user base,MN,UI
+250,The user interface shall implement secure error handling and provide meaningful error messages without disclosing sensitive information.,SE,UI
+251,The system shall allow user to select the order from the order history.,F,UI
+252,The system should offer personalization options for users to customize the interface appearance,LF,UI
+253,The user interface shall provide a configuration interface for setting up automation rules and schedules,F,UI
+254,The user interface should be designed to accommodate an increasing number of users without impacting responsiveness and usability,SC,UI
+255,The system shall display detailed product categorization to the user.,F,UI
+256,The system shall allow user to add/remove products in the shopping cart.,F,UI
+257,The user interface should provide interactive tutorials or guided tours for new users,LF,UI
+258,Provide an interface for the admin to approve posts so that posts are not visible without admin approval.,F,UI
+259,A surface computer shall not require a user to log in.,SE,UI
+260,Users shall be required to log in to the Cafeteria Ordering System for all operations except viewing a menu.,F,UI
+261,The system should have a user-friendly interface for managing security settings,LF,UI
+262,User access should be limited to the permissions granted to their role(s) Each level in the PCG hierarchy will be assigned a role and users will be assigned to these roles. Access to functionality within RFS system is dependent on the privileges/permission assigned to the role..,SE,UI
+263,The system should ensure consistency in user interface design and functionality,LF,UI
+264,The website should not contain any content that is offensive to religious or ethnic groups,LF,UI
+265,The user shall easily locate instructions while using the product.  User help can be found within 90% of the system.,US,UI
+266,The user interface should provide real-time notifications and alerts for critical events or abnormal conditions,LF,UI
+267,The system shall query the user for the amount of money.,F,UI
+268,The user interface shall enforce secure communication protocols for transmitting user interface data between components.,SE,UI
+269,The user shall search for the preferred repair facility using vehicle  vehicle location  and radius in miles,F,UI
+270,The website will provide a help section with answers and solutions to common problems.,US,UI
+271,The user interface shall implement secure logging and auditing mechanisms to track user activities and detect potential security incidents.,SE,UI
+272,The user shall select to view the preferred repair facility ratings.,F,UI
+273,The Disputes System shall provide view access capability for authorized users of the application.,F,UI
+274,The user interface should follow responsive design principles for optimal user experience across different devices and screen sizes,PO,UI
+275,The user interface should support multi-language and localization features for global deployment,PO,UI
+276,All additions of new users and modifications to user\92s access shall be recorded on the User Report.,SE,UI
+277,The system must be available for use between 7:00AM and 11:59PM all days of the year.,A,UI
+278,The user interface of the IoT system shall comply with accessibility standards to ensure equal access for all users,L,UI
+279,The system should have a clean and uncluttered interface avoiding unnecessary elements or distractions,LF,UI
+280,The system should have a user-friendly interface for device configuration and management,US,UI
+281,The user interface shall be accessible from both desktop and mobile devices,PE,UI
+282,Backspace/reset capability is implemented for typing errors.,PO,UI
+283,The sensors used in the IoT system shall comply with regulations regarding electromagnetic compatibility (EMC) to prevent interference with other devices,L,UI
+284,The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use. The interface should adhere to IBM usability standards.,US,UI
+285,The user interface shall have redundant input mechanisms to ensure fault tolerance and user interaction,FT,UI
+286,An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms.,US,UI
+287,The user interface shall be accessible and compatible with assistive technologies to ensure availability for users with disabilities,A,UI
+288,The system should ensure easy and intuitive user device setup and connectivity,US,UI
+289,A new user must be able to be added to the system within 10 minutes. 90% of new users are able to log into the system within 10 minutes.,US,UI
+290,The system shall comply with regulations governing the use of artificial intelligence and machine learning algorithms in decision-making processes,L,UI
+291,A list of all disputes cases that meet the entered search criteria must be provided to the user.  The list of cases must differentiate the type and/or status of the case by color -coding the line item in the list.  For example all open cases will be yellow and all closed cases will be gray.,F,UI
+292,The system should have a clear and user-friendly interface for managing connected devices and networks,LF,UI
+293,The user interface shall have real-time feedback on system status to inform users of faults or issues,A,UI
+294,The website design should be modern  clean  and concise.,LF,UI
+295,Each page shall contain a similar format with action items in one location and navigation buttons in a different location.,LF,UI
+296,The system should provide real-time alerts and notifications for critical events,A,UI
+297,The system shall display real-time sensor data in a visually appealing and easy-to-understand format,PE,UI
+298,Can give feedback to the 24X7 Customer Care Service center about their impression for the site and services.,F,UI
+299,The interface should have a responsive and seamless integration with voice-controlled assistants or smart speakers,LF,UI
+300,The system should provide user feedback on successful actions,LF,UI
+301,The system shall be able to display a printable summary for individual clinical sites  which will include information on labs being held at that site for the given quarter (Clinical site  general information on labs held at that location  dates and times of all labs held there).,F,UI
+302,Once a game is initiated  the product shall display an offensive grid to each player.,F,UI
+303,The system should have a user-friendly and intuitive interface for configuring device settings and viewing data,LF,UI
+304,The system shall provide browsing options to see product details.,US,UI
+305,The system shall have a comprehensive user access management system to control access rights and permissions for different user roles,MN,UI
+306,The product shall use symbols and words that are naturally understandable by users familiar with websites,US,UI
+307,System shall let customers register on the website as a \93unlimited movie subscriber\94 user in under 10 minutes.,PE,UI
+308,"The user interface shall enforce secure data validation to prevent common vulnerabilities, such as SQL injection or LDAP injection.",SE,UI
+309,The system shall display the FAQ's upon request.,F,UI
+310,The user interface shall implement mechanisms to protect user privacy and provide options for controlling data sharing or consent.,SE,UI
+311,The system should provide mechanisms for users to customize data visualization and reporting,US,UI
+312,The application must log the user out when it is exited.,SE,UI
+313,The product shall comply with environmental regulations regarding the use and disposal of sensors,L,UI
+314,The website shall make its user aware of its information practices before collection data from them via a Privacy Policy  accessible on all pages of the website.,SE,UI
+315,The user interface should follow modern design principles  incorporating minimalist aesthetics and clean typography,LF,UI
+316,The user interface shall implement mechanisms to notify users of important security updates or alerts.,SE,UI
+317,The system's interface should follow the branding standards of IBM and CCR  including the display of their logos and adherence to nomenclature,L,UI
+318,The system shall provide multi language support.,US,UI
+319,The system shall display the Events in a graph by time.,F,UI
+320,The system shall calculate tax for the order.,F,UI
+321,The user interface shall have fault-tolerant design to ensure smooth operation even in the presence of errors,FT,UI
+322,The system shall allow user to choose their preferable topping.,F,UI
+323,The user must be able to set an option to hide information based on who has tagged it.,F,UI
+324,The user interface shall allow users to customize the layout and arrangement of device controls,F,UI
+325,The user interface shall have a responsive design to provide consistent availability across different devices and screen sizes,A,UI
+326,The system should support responsive design principles to ensure the user interface adapts to different screen sizes and devices,SC,UI
+327,The interface should provide easy access to user documentation and help resources,LF,UI
+328,It should not take more than 120 seconds for a new user to register for an account.,US,UI
+329,The user interface shall support multi-user access with role-based permissions for different levels of access,A,UI
+330,The product will display an available status for unreserved conference rooms.,F,UI
+331,The product must comply with the intranet page standards and requirements of ENET Securities. 95% of the product look & feel will be approved by the Architecture group  prior to implementation. The remaining 5% will be corrected and approved within one month of product release.,LF,UI
+332,The system should offer user-friendly onboarding processes for easy setup and configuration,LF,UI
+333,The user interface shall provide contextual help and tooltips to guide users and address common questions or issues,A,UI
+334,The realtor shall be able to retrieve a map showing property locations for a specified area,F,UI
+335,The system shall allow user to enter the order information for tracking.,F,UI
+336,The user interface shall be responsive and accessible across different devices and screen sizes,A,UI
+337,Most of the system functions will be controlled using the administrative interface.,LF,UI
+338,The system should have the ability to provide notifications to users in case of security breaches,LF,UI
+339,The system shall comply with consumer/user protection regulations to ensure fair and transparent practices in marketing and sales,L,UI
+340,The system shall allow the user to view pending meetings.,F,UI
+341,The system should require the user to state time when should the doughnut be delivered.,F,UI
+342,The system shall provide handicap access.,US,UI
+343,The user interface should provide customization options and preferences to allow users to tailor their interface layouts and settings,SC,UI
+344,The text and time/date of a note that has been entered is displayed starting with most recent.,F,UI
+345,"The user interface shall have mechanisms to prevent clickjacking attacks, ensuring that the UI cannot be embedded in malicious websites.",SE,UI
+346,The application shall ask the user to confirm dropping a player or trading a player before performing the action.,US,UI
+347,The system shall provide customizable dashboards for personalized data visualization,US,UI
+348,The system shall allow user to select available promotion.,F,UI
+349,A display shall not require a user to log in.,SE,UI
+350,The system should have the ability to provide real-time data visualization,MN,UI
+351,The user interface should provide customization options to allow users to personalize their experience,PO,UI
+352,The user interface of the IoT system shall comply with accessibility standards for users with disabilities,L,UI
+353,The product shall comply with corporate User Interface Guidelines,LF,UI
+354,"The user interface shall implement secure user session management, including session timeouts and session invalidation upon logout.",SE,UI
+355,An end-user may use this system on any OS; either it is Windows or Linux.,US,UI
+356,The system should provide notifications and alerts through visually appealing and attention-grabbing elements,LF,UI
+357,The system shall display the online help upon request.,F,UI
+358,System will have different types of users and every user has access constraints.,SE,UI
+359,Enable a user to view questions and their corresponding answers.,F,UI
+360,The software should have a user-friendly interface with cross-platform compatibility for seamless user experience,PO,UI
+361,The system should have a responsive and smooth transition between different interface screens and states,LF,UI
+362,The website shall be attractive to all audiences.  The website shall appear to be fun and the colors should be bright and vibrant.,LF,UI
+363,The system should provide a user-friendly interface for data visualization,LF,UI
+364,The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.,F,UI
+365,Can view all available products and can compare them and make a choice for purchasing products.,F,UI
+366,The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.,US,UI
+367,To prevent attacks the system should generate random word and ask the user to enter it correctly for multiple tryings.,SE,UI
+368,The system shall allow the user to view past attended meetings.,F,UI
+369,The system shall display and embed in each message a date/timestamp of when the message was sent.,F,UI
+370,The system shall validate the amount is available in the user's account before releasing funds to the user.,A,UI
+371,The user interface should scale to support a large number of simultaneous user interactions without compromising responsiveness,SC,UI
+372,The system should provide easy-to-use tools for debugging and troubleshooting,MN,UI
+373,The entire website must be user-friendly and easily navigable. The website must be provided with a site map for quick access to a particular link according to the requirement specification. The user must be able to find what he/she wants from the site without any difficulty. The website must adhere to branding schemes and the layout of the web pages must be uniform throughout  ,US,UI
+374,The system shall allow user to cancel the order.,F,UI
+375,The user interface should have customizable settings to accommodate user preferences,LF,UI
+376,The system should provide a user-friendly interface for device configuration and management,US,UI
+377,The system shall allow the user to modify the equipment requirement set of an already submitted meeting response.,F,UI
+378,The user interface should be customizable to accommodate individual user preferences and accessibility needs,PO,UI
+379,The system should be able to provide alerts and notifications in case of a security breach,FT,UI
+380,The system should provide an intuitive and user-friendly interface for configuring IoT devices,LF,UI
+381,The system shall allow user to select the financing option.,F,UI
+382,The user interface shall offer a dark mode option for improved visibility in low-light environments,F,UI
+383,The product shall allow the user to view previously downloaded search results CMA reports  and appointments.,F,UI
+384,The system's devices must comply with relevant legal and regulatory requirements,L,UI
+385,The user interface shall support accessibility features to ensure fault tolerance for users with diverse needs or impairments,FT,UI
+386,The software should have a user-friendly interface with intuitive navigation,US,UI
+387,Registered User must be able to maintain his/her session information for at least 60 minutes of inactive session before the system prompts him to log out of the system. The registered user must be provided with all the options of the E-store regardless of the time when he/she logs in.,F,UI
+388,The website should use Flash to provide animation on the home page.,O,UI
+389,The user interface should support gestures and touch-based interactions for intuitive navigation,LF,UI
+390,Responses to view information shall take no longer than 5 seconds to appear on the screen.,F,UI
+391,The system shall allow the user to view their schedule.,F,UI
+392,The system should ask the user to key in the pickup date.,US,UI
+393,The system should support responsive design principles to ensure seamless user experience across different devices and screen sizes,SC,UI
+394,The user interface shall provide real-time notifications and alerts for critical events or abnormal sensor readings,A,UI
+395,The user interface shall have fault-tolerant design to handle errors and prevent system crashes,FT,UI
+396,Once a game is initiated  the product shall display a defensive grid to each player,F,UI
+397,The system shall display the most frequently searched items by the user in the profile.,F,UI
+398,The system should provide clear and informative error messages,LF,UI
+399,The user interface shall support seamless navigation between different sections and functionalities to enhance user productivity and availability,A,UI
+400,The product shall adhere to regulations regarding user interface design principles and guidelines,LF,UI
+401,The system shall use symbols and words that are naturally understandable by the user community.,US,UI
+402,The product shall be intuitive and self-explanatory. 90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.,US,UI
+403,The system should provide a user-friendly interface for device configuration,LF,UI
+404,The system shall meet privacy regulations for the collection and processing of user interface interaction data,L,UI
+405,The system shall display Events or Activities.,F,UI
+406,The system should have a visually appealing and responsive user interface,LF,UI
+407,The system shall be easy to use by the Program Administrators/Nursing Staff Members.,US,UI
+408,The product shall allow the player to position ships vertically on their grid.,F,UI
+409,The user interface shall provide clear and actionable error messages to assist users in resolving issues and minimize downtime,A,UI
+410,The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications,F,UI
+411,The user interface shall provide a user-friendly wizard for easy onboarding and initial device setup,F,UI
+412,The calculations performed by the system must comply according to the norms set by the user and should not vary unless explicitly changed by the user.,L,UI
+413,The software should have an intuitive user interface that is easy to navigate and understand,US,UI
+414,The user interface should support multi-user collaboration and role-based access control to facilitate scalable and secure user interactions,SC,UI
+415,"The user interface shall enforce secure communication protocols (e.g., HTTPS) for transmitting sensitive data between the user interface and back-end systems.",SE,UI
+416,The system shall use IBM and CCR branding standards. The interface must have one IBM logo and one CCR logo.,LF,UI
+417,The user interface should be responsive and adaptable to different screen sizes and resolutions,US,UI
+418,The system must provide clear and concise documentation for administrators,US,UI
+419,The system interface will use CCR nomenclature. The system must use the same nomenclature used in the existing WCS system and reports,LF,UI
+420,The system shall notify the user about any conflict in the current configuration.,F,UI
+421,The stystem interface should have a clean and intuitive design that enables users to easily navigate and interact with the system,LF,UI
+422,The user interface shall support user customization and preferences synchronization to maintain fault tolerance across devices,FT,UI
+423,The system shall provide real-time notifications and alerts to the user within 1 second,PE,UI
+424,System shall automatically update the main page of the website every Friday  and show the 4 latest movies that have been added to the website.,F,UI
+425,The user interface should support multi-device synchronization for consistent user experiences across different platforms,PO,UI
+426,The system shall display Events in a vertical table by time.,F,UI
+427,The user interface should provide accessibility features such as support for screen readers and adjustable font sizes,LF,UI
+428,New and Delete buttons will allow the physician/pharmacist to add a notation to the patient's file.,F,UI
+429,The application shall match the color of the schema set forth by Department of Homeland Security,LF,UI
+430,The system's user interface should comply with standard and regulatory requirements,L,UI
+431,The user interface shall support multiple languages to cater to a diverse user base,A,UI
+432,The product shall have a customizable Look and Feel.,LF,UI
+433,The user interface should have visually appealing animations and transitions for a smooth user experience,LF,UI
+434,The system should have a mechanism to provide informative device status updates,O,UI
+435,The user interface should be scalable to handle concurrent user interactions and provide real-time updates on IoT device statuses,SC,UI
+436,The system should allow for customization of the user interface,LF,UI
+437,It must allow a user to login.,F,UI
+438,The product shall use a standard navigation menu familiar to most web users.,US,UI
+439,The system shall be able to display a printable summary of the system log.,F,UI
+440,The user interface should have a responsive design that adapts to different devices and screen sizes,US,UI
+441,The user interface shall provide real-time status updates and notifications to keep users informed about system availability and events,A,UI
+442,The IoT devices shall conform to safety regulations for user interface components such as buttons and displays,L,UI
+443,Velkat staff will be available for phone support between 7am-7pm  M-F to provide technical support to the Izogn administrators.,A,UI
+444,The system shall allow user to select the order to be changed.,F,UI
+445,The system shall display confirmation messages to users within 4 seconds after the user submits information to the system.,F,UI
+446,The system should support multi-tenant architecture to provide personalized user interfaces for different user groups or organizations,SC,UI
+447,The product shall comply with regulations governing the use of voice and gesture-based user interfaces,L,UI
+448,The system shall provide charts for the Activity or Event actual versus assumed time.,F,UI
+449,The user interface should support multi-language support for global user accessibility and localization requirements,PO,UI
+450,The product shall have a consistent color scheme and fonts.,LF,UI
+451,The user interface should have clear and concise documentation or user manuals for reference,US,UI
+452,The system shall allow user to update the profile information.,F,UI
+453,The system will provide a 24 hour 800 toll free number for support to its customers.,A,UI
+454,The user shall be able to get driving directions to a selected property,F,UI
+455,The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use.,US,UI
+456,The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system.  A detailed history of the actions taken on the case  including the date and the user that performed the action must be maintained for auditing purposes.,F,UI
+457,Each page shall contain a navigation menu which shows the index into which the current page is contained.,LF,UI
+458,The system should provide tools for monitoring and analyzing user performance,PE,UI
+459,The system should allow for easy device configuration and management,MN,UI
+460,The UI shall provide a user-friendly configuration interface for device setup and customization,PE,UI
+461,The system should provide mechanisms for users to customize notifications and alerts,LF,UI
+462,The user interface shall implement mechanisms to protect against brute-force or automated login attempts.,SE,UI
+463,The UI components shall be optimized for different screen sizes and resolutions,PE,UI
+464,The system should provide visual cues or representations to indicate the available storage capacity and usage for the user,LF,UI
+465,The system must be easy to use by both managers and chefs such that they do not need to read an extensive amount of manuals.,US,UI
+466,The system should be simple to use,LF,UI
+467,All of the users shall be able to use the system after one day of training.,US,UI
+468,The user interface shall support customizable settings and preferences to accommodate individual user requirements,A,UI
+469,The user interface shall support session persistence to allow users to resume their activities without interruption after logging in,A,UI
+470,The product shall allow a user to identify himself or herself as a player.,F,UI
+471,The interface should have a unified look and feel across different devices and platforms,LF,UI
+472,The user interface shall support voice commands for hands-free operation,A,UI
+473,The system shall display different shipping options provided by shipping department.,F,UI
+474,The system shall show a tabbed display (or equivalent functionality) with the campus map on one tab and info on the most recently announced building on the other.,LF,UI
+475,The user interface shall enforce session management mechanisms to prevent session hijacking or fixation attacks.,SE,UI
+476,Can only visit the site without registration.,F,UI
+477,Each entry is shown in full.,F,UI
+478,The system should provide a user-friendly interface for monitoring device performance,MN,UI
+479,The interface shall have a simple look. In the interface and usability survey  90% of beta testers must report that the interface is adequately simple.,LF,UI
+480,Contact with the vendors and give permission to sell their product under the site after testing the product's quality.,F,UI
+481,The system should provide customizable dashboards and visualization options to accommodate diverse user preferences and requirements,SC,UI

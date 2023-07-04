@@ -1,0 +1,13 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system must be able to monitor the health and status of IoT devices in real-time,MN,SE
+2,The system should be energy-efficient to reduce power consumption,A,SE
+3,The streaming server will have anti-virus software to prevent infection of malicious viruses.,SE,SE
+4,The system should be able to handle an increasing number of sensor devices without degradation in data collection and processing,SC,SE
+5,The system will develop a security system that will reduce to the minimum the possibility of corruption from systems and/or humans.,SE,SE
+6,The system should be able to limit the frequency and duration of data transmissions to conserve energy,PE,SE
+7,The streaming server will support 50 simultaneous streaming connections.,SC,SE
+8,The system should be able to monitor the health of all devices in the network and alert the user of any issues,MN,SE
+9,The system shall support real-time streaming of sensor data to a central repository,O,SE
+10,System use shall not cause any harm to human users.,SE,SE
+11,The sensor modules should be compact and lightweight for easy deployment and installation,US,SE
+12,The system use SSL (secured socket layer) in all transactions that include any confidential customer information.,SE,SE

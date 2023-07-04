@@ -1,0 +1,5 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system should have the ability to provide notifications to users in case of security breaches,LF,UI
+2,The stystem interface should have a clean and intuitive design that enables users to easily navigate and interact with the system,LF,UI
+3,The system should provide visually appealing data visualization and graphical representations to enhance the user's understanding of the collected data,LF,UI
+4,The user interface should scale to accommodate real-time updates and notifications from a growing number of IoT devices,SC,UI

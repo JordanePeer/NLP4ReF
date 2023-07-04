@@ -1,0 +1,10 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The connectivity infrastructure should have built-in redundancy and failover capabilities to ensure high availability and fault tolerance,SC,CO
+2,The IoT communication system shall comply with data protection and privacy regulations to ensure the secure transmission and storage of data,L,CO
+3,The system should have the ability to handle multiple users and access levels,SC,CO
+4,The connectivity solution should be scalable to support an increasing amount of data traffic and network bandwidth demands,SC,CO
+5,The communication system should be able to scale easily to accommodate a growing number of devices and users,SC,CO
+6,The system should provide users with a secure and private communication channel,FT,CO
+7,The available server must be reliable and the network connectivity in the supermarket should be proper for smooth flow of all operations and data.,O,CO
+8,The communication system should have a mechanism for scaling to accommodate a large number of devices,SC,CO
+9,The IoT devices should be capable of operating in offline or intermittent network connectivity scenarios,PO,CO

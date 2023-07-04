@@ -1,0 +1,24 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The software should provide customizable alerts and notifications for important events or thresholds,US,SW
+2,The system should ensure that all software and hardware components used in the network are up-to-date and secure,MN,SW
+3,The system should be able to analyze data in real-time to identify any trends or patterns,F,SW
+4,The system shall provide proactive notifications to users in case of planned maintenance or downtime,A,SW
+5,When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.,PE,SW
+6,The software system shall have version control and rollback capabilities to revert to a stable state in case of software failures,FT,SW
+7,The software should provide comprehensive APIs and SDKs for seamless integration with third-party applications,PO,SW
+8,The software architecture should be designed to support distributed processing and parallel computing for scalable analysis of IoT data,SC,SW
+9,The software should have multi-user support with role-based access control to ensure data privacy and security,US,SW
+10,The system should be easy enough to maintain that someone else could do it with a manual and a few hours of training,MN,SW
+11,The actuators should have a compact and unobtrusive design to minimize their visual impact,LF,SW
+12,The system shall be compatible with IIS6.0 and above or  Apache 2.0 and above.,PO,SW
+13,The software shall support machine learning algorithms for predictive analysis of sensor data,O,SW
+14,The system shall provide a machine learning module for anomaly detection and predictive maintenance based on sensor data,F,SW
+15,The system shall provide an automated software update mechanism with rollback capabilities in case of issues during updates,MN,SW
+16,The IoT software should be platform-independent and compatible with major operating systems such as Windows  Linux  and macOS,PO,SW
+17,The software solution should support modular and extensible components to facilitate scalability and ease of system integration,SC,SW
+18,The software should offer data visualization and reporting capabilities for users to understand and act upon the collected data,PO,SW
+19,The software system needs a robust security mechanism in place so that unauthorized users are not allowed access to parts of the system.,SE,SW
+20,The software architecture should be designed to support distributed computing for scalable and parallel processing of IoT data,SC,SW
+21,The software should provide flexible APIs and SDKs for developers to integrate with different IoT platforms and services,PO,SW
+22,The system shall meet software quality and safety standards to minimize the risk of errors or malfunctions,L,SW
+23,The software should support real-time analytics and machine learning algorithms for proactive decision-making,PO,SW

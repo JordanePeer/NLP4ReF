@@ -1,0 +1,639 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,Detailed documentation of the code and SRS will enable easy maintenance of the Flea Market.,MN,SW
+2,The software should support role-based access control to ensure appropriate data access privileges,US,SW
+3,The Disputes System must provide the ability to view existing dispute cases.,F,SW
+4,The software shall have a load balancing mechanism to distribute traffic across multiple servers for optimal performance and availability,A,SW
+5,A class shall be either a non-clinical class or a clinical class.,F,SW
+6,The product shall adhere to regulations regarding radio frequency spectrum allocation and usage,O,SW
+7,The software shall have mechanisms to securely update or patch software components to address known security vulnerabilities.,SE,SW
+8, Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds.,F,SW
+9,Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier  program of study  preferred sequence of classes and quarters that a cohort will be taking specific classes.,F,SW
+10,The physician/pharmacist must have a valid user login to access the system.,SE,SW
+11,The system shall automatically log out all customers after a period of inactivity.,SE,SW
+12,The software interface should have a customizable layout to accommodate user preferences,LF,SW
+13,Changes made to the Manage My ID website can be adopted without altering the iOS application.,MN,SW
+14,The system shall be compatible with the Microsoft Windows Operating System.,PO,SW
+15,The software shall have built-in logging and auditing capabilities to track and analyze system events for troubleshooting and security purposes,A,SW
+16,When the hit results in sinking a ship  the product shall mark the ship as sunk on the defensive grid of the defensive player.,F,SW
+17,The system shall provide secure access control and user authentication mechanisms,PE,SW
+18,The system shall permit only cafeteria staff members who are on the list of authorized Menu Managers to create or edit menus.,F,SW
+19,For each class within a sequence for a cohort  Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.,F,SW
+20,The IoT sensors shall remain operational during power outages for at least 6 hours,F,SW
+21,The software interface should have a modern and visually pleasing design,LF,SW
+22,The system should be able to analyze data in real-time to identify any trends or patterns,F,SW
+23,The application should be portable with iOS and Android.,MN,SW
+24,The system should have the ability to be controlled and monitored remotely by the software,O,SW
+25,The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.,SC,SW
+26,The product shall prevent the input of malicious data.  The product and/or adjacent hardware/software systems\92 data shall remain 100% uncorrupted each time malicious data is input into the product.,SE,SW
+27,The product shall have the ability to receive automatic software updates as new threats emerge. 100% of customers will be able to receive automatic software updates transmitted to the installed product.,SE,SW
+28,The software should have a comprehensive reporting and analytics module for data-driven insights,PO,SW
+29,System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs.,PE,SW
+30,The system shall support automated unit testing and test coverage analysis to ensure code quality and facilitate maintenance,MN,SW
+31, Each time a conference room is reserved  the conference room schedule shall be updated to reflect the time and date of the reservation.,F,SW
+32,The product will notify employees of meeting invitations.,F,SW
+33,The system shall be intuitive to the Program Administrators/Nursing Staff Members.,US,SW
+34,All users of the system shall login using some form of unique identification.,SE,SW
+35,The product shall maintain the status of each player for a turn  either offensive or defensive.,F,SW
+36,The software should be able to leverage cloud-based infrastructure for elastic scaling and resource provisioning as needed,SC,SW
+37,The system shall allow a Program Administrator/Nursing Staff Member to move a student from one clinical lab section to another clinical lab section corresponding to the same clinical class.,F,SW
+38,The system shall meet cybersecurity regulations to ensure the protection of user data and system integrity,L,SW
+39,The System shall allow entering  storing and modifying product formulas.,F,SW
+40,The system software should have a licensing mechanism in place to prevent unauthorized usage,L,SW
+41,The system shall include actuators to unlock the doors,O,SW
+42,The lead washing process will operate within the established physical web service structure.,O,SW
+43,The system shall include actuators to turn on the water extinctor ,O,SW
+44,The software architecture should be modular and scalable allowing for easy integration of new features and functionalities as the system evolves,SC,SW
+45,The product shall be used in office environments.,PE,SW
+46,Be intuitive even to first time users,LF,SW
+47,The product must comply with Sarbanes-Oxley.,L,SW
+48,Product shall allow entering  storing and modifying product menus used by POS terminals.,US,SW
+49,The leads washing functionality shall receive a period list of available reps from the enterprise system.,F,SW
+50,The system may be throttled or slowed down on heavy loads to ensure service for everybody. By throttling is meant that certain functionality may be unavailable during heavy server load.,PE,SW
+51,Actuators must undergo regular security audits to identify vulnerabilities.,SE,SW
+52,All authorized users  once authenticated must be able to logon to the Disputes System,SE,SW
+53,The system should need to be entirely self-supporting since the users would be using it only to register courses.,F,SW
+54,The system should have the ability to perform load balancing to ensure optimal performance,PE,SW
+55,Only users who have been authorized for home access to the corporate Intranet may use the COS from non-company locations.,SE,SW
+56,The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.,F,SW
+57,The software should be portable across different hardware and software platforms,PO,SW
+58,The product shall prevent the player from overlapping ships on their grid.,F,SW
+59,A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.,F,SW
+60,The software shall undergo security code reviews and static analysis to identify and fix potential security issues.,SE,SW
+61,The system shall support remote software updates with a success rate of at least 95%,PE,SW
+62,"The system shall be evoked by typing ""pine"" into a command or shell prompt.",O,SW
+63,The system must provide adequate documentation for end-users and administrators,MN,SW
+64,The system shall request a user response to initiator or mediator messages.,F,SW
+65,90% of untrained realtors shall be able to install the product on their device without printed instructions,US,SW
+66,The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the product\92s software code.,MN,SW
+67,The system shall implement machine learning algorithms for predictive analytics,O,SW
+68,Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student  including student ID  student name phone number e-mail status (full time or part time) and program of study.,F,SW
+69,Program Administrators/Nursing Staff Members shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.,F,SW
+70,The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user\92s access level. The report will be reviewed for auditing purposes.,SE,SW
+71,The system shall include actuators to control the flow of water or gas in plumbing systems,F,SW
+72,The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.,US,SW
+73,We must be able to interface with the following browsers: IE 5.X  6.0  Netscape 6.x  7.x  8.x and Firefox 1.0.,O,SW
+74,The leads washing functionality will verify the users authentication and rights to make parameter updates.,F,SW
+75,The system should be able to perform real-time data processing to identify any abnormal patterns or behavior,F,SW
+76,The system shall have a high system availability of at least 9999% uptime,A,SW
+77,The product shall produce search results in an acceptable time,PE,SW
+78,The software shall have built-in error handling to prevent unexpected crashes or downtime,A,SW
+79,The software should provide comprehensive APIs and SDKs for seamless integration with third-party applications,PO,SW
+80,The system should support load balancing and workload distribution across multiple actuators to optimize resource utilization,SC,SW
+81,The software should have robust error handling and reporting mechanisms,US,SW
+82,The product shall update existing conference rooms.,F,SW
+83,The system should be able to provide secure over-the-air updates for connected devices and actuators,MN,SW
+84,The software architecture should be designed to support distributed computing for scalable and parallel processing of IoT data,SC,SW
+85,The product shall allow an organizer to invite other employees to meetings.,F,SW
+86,Movies shall be encoded and streamed via Windows Media Player 9.0.,F,SW
+87,A waiter password used for tablet login must be changed every three months.,SE,SW
+88,The system shall not leave any cookies on the customer's computer containing any of the user's confidential information.,SE,SW
+89,The system shall include robotic actuators for automated assembly line processes in manufacturing,F,SW
+90,The system shall provide an automated reporting module for generating customized reports on sensor data,F,SW
+91,The system SW should have a failover mechanism to ensure uninterrupted operation in the event of a failure,FT,SW
+92,ABS shall handle all expected and unexpected errors in ways that prevent loss in information and long downtime period.,FT,SW
+93,The software shall implement mechanisms to protect against cross-site scripting (XSS) and cross-site request forgery (CSRF) attacks.,F,SW
+94,Staff members shall be able to complete a set of tasks in a timely manner.,PE,SW
+95,Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.,PE,SW
+96,Out of 1000 accesses to the system the system is available 999 times.,A,SW
+97,98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. Microsoft Internet Explorer Web Controls,O,SW
+98,Only users with Update access must be able to initiate dispute requests.,SE,SW
+99,The system's sensors should provide diagnostics and debugging tools,MN,SW
+100,Realtor shall be able to generate a CMA report based on property criteria,F,SW
+101,The system should provide mechanisms for automatic scaling based on workload and resource utilization to ensure optimal performance,SC,SW
+102,The preferred repair facility ratings shall be saved by the system.,F,SW
+103,Responsible for managing stocks of each product items.,F,SW
+104,The system shall provide comprehensive logging and error reporting mechanisms to facilitate debugging and maintenance,MN,SW
+105,System shall let the administrator add/remove categories on the website in under 5 minutes.,PE,SW
+106,The software system shall provide graceful degradation in case of component failures,FT,SW
+107,The system shall allow a text search that users may use to find mail messages.,F,SW
+108,The system should have low latency for real-time data processing and decision making,PE,SW
+109,The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds,PE,SW
+110,The software should support real-time analytics and machine learning algorithms for proactive decision-making,PO,SW
+111,The Disputes application must conform to the legal requirements as specified by Regulation E and Regulation Z that govern credit card disputes processing.,L,SW
+112,The system shall provide a machine learning module for anomaly detection and predictive maintenance based on sensor data,F,SW
+113,The software shall be available for download from a cloud server,A,SW
+114,The application should be able to support 100 concurrent users without any performance degradation.,PE,SW
+115,The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions.  The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user.,F,SW
+116,The software used in the IoT system shall comply with intellectual property laws and regulations to ensure proper licensing and usage,L,SW
+117,The system shall locate the preferred repair facility with the highest ratings for the input criteria,F,SW
+118,"The meeting scheduler system may suggest a ""virtual meeting"" for available ""time slots"" if no location is available or feasible for the meeting.",F,SW
+119,The system shall allow the administrator to remove physical locations.,F,SW
+120,The software code shall follow a clear and consistent coding style to improve readability and maintainability,MN,SW
+121,New branches/complexes/districts/regions and revenue/expense accounts added to the BDW must be reflected in the RFS system,MN,SW
+122,The system shall generate an audit report based on the available recycled parts and the collision estimate.,F,SW
+123,The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.,US,SW
+124,Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students\92 personal information.,SE,SW
+125,Website must interface with the CyberSource API to process credit card transactions.,O,SW
+126,Only registered customers can purchase streaming movies.,US,SW
+127,Website shall request  and authorize credit card payment before allowing a user to stream a movie.,F,SW
+128,The product shall be translated into foreign languages other than the target market countries\92 languages in future releases.  For each emerging target market  it shall take no more than 5 days to configure the product for that market\92s language.,US,SW
+129,The software shall enforce secure communication protocols for inter-component communication and data exchange.,SE,SW
+130,The system shall reveal private information only in compliance with the organization\92s information policy.,SE,SW
+131,The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.,PE,SW
+132,The software solution should provide mechanisms for automatic load balancing and workload distribution to ensure optimal resource utilization,SC,SW
+133,The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data.  The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.,FT,SW
+134,The system shall provide a mechanism to easily calibrate and recalibrate sensors to maintain accurate readings,MN,SW
+135,The system should use the company colors and logos.,SE,SW
+136,If the leads score falls within the high average score then it will be process by the ARA functionality.,F,SW
+137,The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.,SE,SW
+138,The softwares shall undergo monthly performance testing and optimization to maintain high availability,A,SW
+139,All source code and development related documents shall be controlled under a version control system.,MN,SW
+140,The product shall ensure that only supervisors can advertise empty time slots.The product must ensure that supervisors are allowed to access advertise empty time slots.,SE,SW
+141,The system shall allow the mediator to negotiate a location / equipment.,F,SW
+142,The product shall allow a player to initiate a game by selecting another available player from the list of players.,F,SW
+143,The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.,LF,SW
+144,All changes  updates  and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation,MN,SW
+145,The system's back-end servers shall only be accessible to authenticated administrators.,PE,SW
+146,All actions that modify an existing dispute case must be recorded in the case history.,L,SW
+147,Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes,F,SW
+148,Only authorized users shall have access to students\92 personal information.,SE,SW
+149,Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.,SE,SW
+150,The product shall run on the existing hardware for all environments.,O,SW
+151,PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.,F,SW
+152,The software system shall have fault detection and recovery mechanisms to ensure system stability,FT,SW
+153,The product shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.,SC,SW
+154,The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.,F,SW
+155,The product shall generate a CMA report in an acceptable time.,PE,SW
+156,The system shall support rule-based automation for triggering specific actions,O,SW
+157,The system shall notify the use about the financing request.,F,SW
+158,The system shall flag tablets that fail to send timely keep-alive messages as non-operational and disassociate the assigned waiter from the tablet.,FT,SW
+159,Only the System Administrator shall be able to reset a revoked user logon account,SE,SW
+160,The product shall free of computer viruses.,SE,SW
+161,Changes to revenue and expense formulae must be applied to the RFS system every year prior to the budgeting process start,MN,SW
+162,The software should have a self-diagnostic feature to detect and resolve hardware and software issues,MN,SW
+163,The system shall include machine learning algorithms for predictive maintenance,F,SW
+164,The software shall implement secure configuration management to ensure that default configurations are not used in production environments and that secure settings are enforced.,SE,SW
+165,A cohort shall be associated to one Program of Study offered by the department.,F,SW
+166,The system should have the ability to diagnose and troubleshoot device issues remotely,MN,SW
+167,The system should be easy enough to maintain that someone else could do it with a manual and a few hours training.,MN,SW
+168,The system should allow for horizontal scaling of devices to accommodate increasing loads,SC,SW
+169,When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.,PE,SW
+170,The RFS system should be available 24/7  especially during the budgeting period. The RFS system shall be available 90% of the time all year  and 98% during the budgeting period. 2% of the time  the system will become available within 1 hour of the time that the situation is reported.,A,SW
+171,The Commissioner will be the only authorized user per league to adjust league settings.,SE,SW
+172,Test environments should be built for the application to allow testing of the applications different functions.,MN,SW
+173,The System shall granularly control access rights to all major subsystems.  It should be possible to assign access rights to all subsystems independently.,SE,SW
+174,The system will notify affected parties when changes occur affecting specific students  including but not limited to changing a student\92s status from full time to part time and moving a student to a different clinical section.,F,SW
+175,The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.,F,SW
+176,Changes to revenue and expense formulae must be applied to the RFS system  every year  prior to the budgeting process start. Revenue and expense formulae will be updated within one week of their receipt  after which 2 weeks will be allotted to testing of the budget calculations  to be conducted jointly by the project development team and PCG Finance.,MN,SW
+177,System shall allow users to update their billing and contact information via the \93My Account\94 section of the website.,F,SW
+178,100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.,US,SW
+179,The System shall allow for a minimum of  6 users to work at the same time.,PE,SW
+180,The product shall maintain a list of players.,F,SW
+181,Can consult with the Administrator regarding product's quality and advertisements.,F,SW
+182,The software should have a user-friendly setup wizard or onboarding process for easy device configuration,US,SW
+183,The software should support over-the-air updates for remote software upgrades and bug fixes,PO,SW
+184,Movies can only be streamed if the customer has purchased a movie  and is within the 2-day time period to stream the movie.,PE,SW
+185,The System shall allow on demand generation of all Inventory Quantity Adjustment documents since certain point of time.,F,SW
+186,The search radius shall be between 1 and 30 miles,F,SW
+187,The system shall be built such that it is as secure as possible from malicious interference.,SE,SW
+188,The software shall enforce proper error handling and logging mechanisms to provide meaningful error messages without revealing sensitive information.,SE,SW
+189,The WCS system shall not allow automatic logins by any user. Cookies containing WCS login information about a user will not be stored on a user\92s computer.,SE,SW
+190,The product must run using Internet Explorer and Netscape Navigator,MN,SW
+191,For each turn  the product shall identify one player as offensive status and one player as defensive status.,F,SW
+192,Changes made to the Manage My ID website can be adopted without altering the iOS application,MN,SW
+193,The software shall implement mechanisms to log and monitor user activities for auditing and accountability purposes.,SE,SW
+194,Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season,MN,SW
+195,The Disputes System must allow the user to create three unique types of ticket retrieval requests.  The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio. A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt.,F,SW
+196,The product shall be robust.The product shall have fault avoidance based on standards adoption.,FT,SW
+197,The software should support cross-platform compatibility including major operating systems like Windows Linux and macOS,PO,SW
+198,The IoT devices shall conform to regulations regarding software version control and change management,L,SW
+199,The system shall include actuators to control the speed of fans or blowers,O,SW
+200,The software system needs a robust security mechanism in place so that unauthorized users are not allowed access to parts of the system.,SE,SW
+201,Actuators shall have self-testing capabilities to ensure their proper functionality and performance,MN,SW
+202,"The software shall implement secure input validation to prevent common vulnerabilities, such as buffer overflows, injection attacks, or command injection.",SE,SW
+203,The system shall include actuators to control the opening and closing of doors,O,SW
+204,"Everyone (stakeholders and guests) can have access to the system and the catalogue. Every client must have secure and private access to his/her data. The  and the service man can have access to every part of the system. All these accesses (except the ""guest tour"" access) require identification through ID and password.",SE,SW
+205,The product will be available for licensing as a one-server  two-five servers  or five-or-more servers license.,O,SW
+206,The system shall include actuators to control the position of doors or gates,O,SW
+207,The software shall provide real-time data analytics for immediate insights and decision-making,PE,SW
+208,The customer shall be able to easily integrate new building maps with the product throughout the product's lifecycle,MN,SW
+209,Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Lab Section  including the clinical site name the department/section for the lab  the class instructor day and time of lab and contact information.,F,SW
+210,The application shall have a downtime of at most 10 minutes per year.,A,SW
+211,The software system shall support rollback and version control to revert to a previous stable state in case of software faults,FT,SW
+212,The system shall support automated code analysis and static code quality checks to ensure adherence to coding standards,MN,SW
+213,Secure software development practices should be followed to prevent common security flaws.,SE,SW
+214,The estimator shall not apply recycled parts to the collision estimate if no available parts are returned.,F,SW
+215,The product must be developed with the J2SE/J2EE programming language libraries,US,SW
+216,system shall be able to handle all of the user requests/usage during business hours.,SC,SW
+217,The Disputes System must provide a confirmation to the user upon the creation of a chargeback request. The confirmation must contain the following information; the dispute case number  the type of chargeback requested (pending or immediate)  and the date that the merchant response is due.,F,SW
+218,The product shall adhere to the corporate Architecture guidelines,O,SW
+219,The product shall be able to process 10 000 transactions per hour within two years of its launch.  This number will increase to 20 000 by Release 2.,SC,SW
+220,The product shall be updated on a regular basis,MN,SW
+221,The software interface should provide comprehensive logging and error reporting functionalities,LF,SW
+222,The system should have the ability to perform remote maintenance and updates,MN,SW
+223,The system should have the ability to integrate with legacy systems,F,SW
+224,The software shall support seamless integration with third-party services and APIs to enhance functionality and availability,A,SW
+225,The Disputes application must maintain a detailed history of every action that a user takes on a dispute case.  This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.,L,SW
+226,New System version releases shall be released at the beginning of each NFL season,MN,SW
+227,The system shall allow the mediator to solve a date conflict.,F,SW
+228,"The meeting scheduler system may provide the ""meeting initiator"" a summary of the scan of ""potential meeting participants"" showing available ""time slots"" and schedule conflicts as a means of informing the ""meeting initiator"" of the overall results of the system.",F,SW
+229,The system shall notify customers of changes to its information policy.,SE,SW
+230,The software shall have a recovery mechanism to automatically restart in case of a system crash,A,SW
+231,The system shall not leave any cookies on the customer's computer containing the user's password.,SE,SW
+232,The product is expected to run on Windows CE and Palm operating systems.,MN,SW
+233,Izogn Administrator must be able to add new products to the website within 2 minutes.,PE,SW
+234,The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.,F,SW
+235,The system shall provide an API for integrating with third-party applications and services,PE,SW
+236,The website will allow customers to search for movies by title  actor  or director.,F,SW
+237,The product shall provide players no access to information that might reveal the identity of another player,PE,SW
+238,The system shall link Events back to either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications.,F,SW
+239,All information must be viewable on the website.,F,SW
+240,The MTBF (if any) should not be less than 2 months.,F,SW
+241,The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information; the dispute case number  the type of retrieval requested (copy  original or portfolio)  and the date that the merchant response is due.,F,SW
+242,The system shall provide anomaly detection algorithms to identify abnormal behavior based on sensor data,O,SW
+243,The product shall assign the organizers contact information to each meeting they create.,F,SW
+244,The system should have a mechanism to securely erase data from end-of-life devices,SE,SW
+245,The system shall support backward compatibility to ensure that software updates do not disrupt existing integrations or workflows,MN,SW
+246,The software shall be regularly updated to ensure compatibility with the latest operating systems and dependencies,A,SW
+247,The Disputes System must provide Search functionality.  The search method must include the ability to search by (1) the dispute case number  (2) the merchant account number  (3) the cardmember account number and (4) the issuer number.  In addition to the above criteria  the search functionality must further allow the user to limit the results of the search by a date range  the type of dispute (ticket retrieval request or chargeback notification)  the case status (open  closed or all) and the dispute reason code.,F,SW
+248,The system should have the ability to perform self-healing to recover from failures,FT,SW
+249,The system shall allow a Program Administrator or Nursing staff member to remove a student from a clinical lab section.,F,SW
+250,Only administrators can activate a pre-paid card.,SE,SW
+251,The software shall be available for download from third-party app stores,A,SW
+252,The product shall prevent a player from viewing the offensive or defensive grids of the other player.,F,SW
+253,"The software shall employ secure cryptography libraries and algorithms to protect sensitive data, such as encryption of passwords or sensitive communications.",SE,SW
+254,The product shall comply with insurance regulations regarding claims processing.,L,SW
+255,The system shall allow the initiator to cancel any meetings which they initiated.,F,SW
+256,The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.,O,SW
+257,The product shall conform to the Americans with Disabilities Act.,US,SW
+258,The system search feature should support the use of regular expressions in search.,F,SW
+259,The system should have the ability to update software remotely to address security vulnerabilities,MN,SW
+260,The product must be designed using Design Patterns and coding best practices.  90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.,MN,SW
+261,Actuators must authenticate and authorize commands received from authorized sources only.,SE,SW
+262,The system shall only be accessed by authorized Corporate Community Grants (CCR) employees. Users must be authenticated using their IBM intranet user name and password.,SE,SW
+263,The software shall have a disaster recovery plan to quickly restore service in case of major disruptions,A,SW
+264,If the shot was marked as a miss  the product shall change the status of the defensive player to offensive,F,SW
+265,The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.,US,SW
+266,Students added to a cohort shall be eligible for the cohort\92s Program of Study.,F,SW
+267,The leads washing functionality will compile both contact and academic scoring information for a total score.,F,SW
+268,The system should offer integration capabilities with external data processing frameworks and machine learning libraries for scalable analytics,SC,SW
+269,The system should have failover mechanisms to ensure continuous operation in the event of a failure,FT,SW
+270,The IoT system shall regularly check for software updates and apply them without disrupting their availability,A,SW
+271,If the leads score falls within the medium average then it will be set for manual verification by an Enrollment Coordinator through the eleads system.,F,SW
+272,Only authorized personnel can access customer records in the database.,SE,SW
+273,The software shall enforce secure authentication and authorization mechanisms for user access and control.,SE,SW
+274,IzognMovies shall meet the licensing requirements set forth by the appropriate organizations in order to stream African movies.,L,SW
+275,The system shall utilise periodic 30-second keep-alive messages between tablets and the server to monitor tablet operational status.,O,SW
+276,The software shall implement mechanisms to detect and prevent unauthorized modification or tampering.,SE,SW
+277,Reports must be easy to generate. Reports must be generated within one button click and exported within one button click (after selecting the report),US,SW
+278,The software should support containerization technologies  such as Docker or Kubernetes  for easy deployment and scalability,PO,SW
+279,A staff member shall have the ability to manage the progress of a part time student  which includes modifying their sequence of classes and timeline of classes.,F,SW
+280,The software shall process sensor data and generate real-time analytics within 1 second,PE,SW
+281,The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.,MN,SW
+282,Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.,F,SW
+283,For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process  a case activity will be generated.  Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case.,F,SW
+284,The system should handle increasing computational requirements as the number of connected devices and data complexity grow,SC,SW
+285,Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.,F,SW
+286,The software should provide mechanisms to diagnose and debug device issues,MN,SW
+287,When both players have positioned their 5 ships on their defensive grids  the product shall define the status of each player for the first turn.,F,SW
+288,The system should support voice-controlled interfaces for hands-free operation,F,SW
+289,The system should be able to provide secure remote management of devices,MN,SW
+290,The system shall provide proactive notifications to users in case of planned maintenance or downtime,A,SW
+291,The software system shall have redundancy in critical software components for fault tolerance,FT,SW
+292,The meeting scheduler system may be able to include an agenda for a meeting proposal.,F,SW
+293,All source code shall adhere to an agreed-upon and well-defined set of coding standards for each development language used,MN,SW
+294,The system shall allow the administrator to remove equipment.,F,SW
+295,Prior to submitting the lead to the enterprise system the leads washing functionality will assign the lead to an admissions rep.,F,SW
+296,The system shall notify the realtor when a seller or buyer responds to an appointment request,F,SW
+297,Every user of the software is provided a unique login ID and a password which is stored in the database hashed by SHA2 algorithm.,SE,SW
+298,Detailed documentation of the code and SRS will enable easy maintenance of the Flea Market,MN,SW
+299,"A meeting scheduler system will inform the ""potential meeting participant"" of the meeting.",F,SW
+300,Programmers and application developers will have access to source code to address bugs or system enhancements as deemed necessary. Network Administrator and DBA support is also required to maintain a 24x7 system uptime.,A,SW
+301,The system shall allow users to search  for available distributed location templates(if any).,F,SW
+302,The estimator shall search for available recycled parts using damaged vehicle parts information.,F,SW
+303,PME Subsystem shall allow for a product to exist in more than one submenu,F,SW
+304,The product shall allow the player to position ships diagonally on their grid,F,SW
+305,The system should not leave any cookies on the customer's computer containing the user's password.,SE,SW
+306,The system shall validate the amount is a multiple of $20.,F,SW
+307,Responsible for informing administrator when any product item's stock goes under the minimum level.,F,SW
+308,The system shall meet regulations governing the use of data anonymization and pseudonymization techniques,L,SW
+309,Only registered realtors shall be able to access the system.,SE,SW
+310,The system should have a mechanism for license management,L,SW
+311,The software shall provide clear and up-to-date documentation including API references and user guides to aid in maintenance and troubleshooting,MN,SW
+312,The average number of recycled parts records per day shall be 50 000.,SC,SW
+313,The system shall be compatible with IIS6.0 and above or  Apache 2.0 and above.,PO,SW
+314,The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction.,F,SW
+315,The system shall have a well-defined software architecture with clear separation of concerns to facilitate maintainability,MN,SW
+316,The system should support integration with third-party software and APIs for expanded functionality,LF,SW
+317,The product shall have security.The product shall provide authentication  and authorization.,SE,SW
+318,The software should provide real-time alerts and notifications to users based on predefined conditions,PO,SW
+319,System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.,PE,SW
+320,Website shall allow customers to add their own movie review for a selected movie.,F,SW
+321,Promotional updates to the website should take a day to update,MN,SW
+322,A waiter that attempts to log into a second tablet while already logged into another tablet shall be rejected and notified through both tablets.,FT,SW
+323,The system should be able to scale up to 500 concurrent users (if there is a need in the future) by installing additional hardware components.,SC,SW
+324,The system shall allow users to view equipment information.,F,SW
+325,The system shall provide reliable message queuing with a delivery guarantee of 999%,PE,SW
+326,The software should have efficient data processing and analysis algorithms to handle real-time and historical data,PO,SW
+327,The software shall enforce secure file and resource permissions to prevent unauthorized access or modification.,SE,SW
+328,The system should be easy enough to maintain that someone else could do it with a manual and a few hours of training,MN,SW
+329,The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.,F,SW
+330,The meeting scheduler shall be accessed from the Web.,O,SW
+331,The system shall provide an automated software update mechanism with rollback capabilities in case of issues during updates,MN,SW
+332,The software should provide a modular architecture to facilitate component-based development and easy integration,PO,SW
+333,The software system shall have version control and rollback capabilities to revert to a stable state in case of software failures,FT,SW
+334,Users should only have to navigate through a maximum of 4 pages  to create an account with the website.,US,SW
+335,Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.,F,SW
+336,The system shall include actuators to control the temperature of heating or cooling systems,O,SW
+337,The system shall send an order confirmation to the user through email.,F,SW
+338,The system shall update or create new property listings in the MLS,F,SW
+339,The system shall search for available recycled parts for the supplied vehicle parts and suppliers.,F,SW
+340,A list of available patients is displayed after login.,F,SW
+341,The system shall be responsive. At the DePaul TeleServices Center  when a supervisor uses the system to view a callers schedule  the system response time must be no more than 2 seconds 90% of the time and no more than 5 seconds the rest of the time.,PE,SW
+342,The software shall be available for download from the manufacturer's website,A,SW
+343,Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system  identified by start month and year.,F,SW
+344,The website shall not be offensive to religious or ethnic groups.,LF,SW
+345,Website shall allow customers to view reviews of selected movies by other customers.,F,SW
+346,The product shall allow a player to end a game at any time during the game.,F,SW
+347,The System shall generate Inventory Quantity Adjustment document based on product daily sales data and product formulas.,F,SW
+348,For each shot  the product shall notify the players whether the shot was a hit or miss.,F,SW
+349,A failed login will alert the physician/pharmacist.,F,SW
+350,New branches/complexes/districts/regions and revenue/expense accounts added to the BDW  must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end  will be loaded into the RFS system  prior to the budget start process.,MN,SW
+351,The estimator shall search for available recycled parts using a list of preferred parts suppliers.,F,SW
+352,The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.,US,SW
+353,"The software shall implement mechanisms to securely store and handle sensitive user data, such as passwords or personal information.",SE,SW
+354,100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.,US,SW
+355,The product must make use of web/application server technology.  Open source examples include Apache web server  Tomcat  and the JBoss application server.,O,SW
+356,The product shall be intuitive and self-explanatory.  Nine out ten users shall be able to successfully complete a game with no training.,US,SW
+357,Only authorized user shall access the RFS system. ONLY users that exist in the UAS system  with the RFS system assigned to their role(s)  shall access the RFS system and use it.,SE,SW
+358,For estimators  the product shall be able to be operated in a repair facility during dirty and noisy conditions.,O,SW
+359,System shall let administrator add/remove movies on the website in under 5 minutes.  Entered movie information will be stored in the database and will now be available on the website.,PE,SW
+360,A correct combination of username and password is required for a user to login.,SE,SW
+361,The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.,SE,SW
+362,The software should offer data visualization and reporting capabilities for users to understand and act upon the collected data,PO,SW
+363,The product shall be available 24 hours per day  seven days per week.,A,SW
+364,The system shall allow the initiator to send and receive messages from users.,F,SW
+365,The system shall include actuators to open the gates,O,SW
+366,The software should be scalable in terms of supporting multiple concurrent users and accommodating increased user interactions and requests,SC,SW
+367,The software system shall undergo rigorous testing and validation to ensure fault tolerance,FT,SW
+368,If the leads score falls within the low average then it will be returned to the supplying vendor,F,SW
+369,When the hit results in sinking a ship  the product shall indicate the type of ship sunk on the defensive grid of the defensive player.,F,SW
+370,For each shot  the product shall mark the shot as a hit or miss on the offensive grid of the offensive player.,F,SW
+371,The notification of the game ending will include the reason the game is ended (i.e.  a player has won the game or a player has ended the game).,F,SW
+372,The Disputes System shall provide update access capability for authorized users of the application.,F,SW
+373,The system will use a single password per user to login to the E-Store System.,SE,SW
+374,The software should have robust error handling and graceful recovery mechanisms to handle unexpected scenarios,US,SW
+375,User authentication and privileges are defined outside the scope of the sytem by the Microsoft Active Directroy Server.,SE,SW
+376,The system will notify affected parties when changes occur affecting cohorts  including but not limited to changes to the sequence for a cohort\92s program of study and changes to a given week\92s schedule (lab cancelled this week due to instructor illness).,F,SW
+377,The product shall be easy to learn by Adjusters and Collision Estimators.  The product shall be learned with two days onsite training,US,SW
+378,The software system shall employ error logging and reporting mechanisms to facilitate debugging and fault analysis,FT,SW
+379,The system should have the ability to provide system logs for debugging purposes,MN,SW
+380,All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available),US,SW
+381,The IoT software must undergo thorough security testing and code reviews to identify vulnerabilities.,SE,SW
+382,The system shall meet software quality and safety standards to minimize the risk of errors or malfunctions,L,SW
+383,The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second.,PE,SW
+384,No lead evaluation will complete in a time period longer than 25 seconds for 97% of all leads processed.,PE,SW
+385,The system shall allow the mediator to negotiate a meeting date.,F,SW
+386,The WCS system shall be run in a Windows environment. The WCS shall be accessed by users through the Internet on an IBM computer running a Windows 2000 or above operating system.,O,SW
+387,The system should offer fault-tolerant and resilient software components to handle failures and maintain system availability,SC,SW
+388,The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.,FT,SW
+389,The communication system should have a licensing mechanism for third-party software and components,L,SW
+390,Defect reports will be available to technical units on a 24x7 basis.,A,SW
+391,The website shall continue to operate if the streaming server goes down.,FT,SW
+392,The product shall operate with every platform.The product shall accommodate any new technology without any change in its architecture.,MN,SW
+393,Normal users can just read information but they cannot edit or modify anything except their personal and some other information.,SE,SW
+394,The system shall maintain customer email information as a required part of customer profile.,F,SW
+395,The product shall adhere to regulations governing the use of open-source software components,L,SW
+396,Can purchase any product through valid credit card.,F,SW
+397,The user shall enter new ratings based on the audit report,SE,SW
+398,The Disputes System must be accessible by both internal and external users.,F,SW
+399,The IoT sensors shall have self-healing capabilities to automatically recover from minor software or connectivity issues,MN,SW
+400,The physical sensors should have a compact design for easy installation in various environments,LF,SW
+401,The realtor shall be notified of new client appointments after automatic synchronization with office system,F,SW
+402,The product shall notify building personnel of equipment transport requests.,F,SW
+403,The System shall not require additional third party licenses resulting in royalty fees.,O,SW
+404,The estimator shall apply selected recycled parts to the collision estimate.,F,SW
+405,Maintenance releases will be offered to customers once a year.  The releases shall take no longer than 5 minutes for 80% of the customer base to install.,MN,SW
+406,The application should be connected to the GPS device.,A,SW
+407,The software should have mechanisms for continuous deployment and rolling updates to ensure scalability while minimizing service disruptions,SC,SW
+408,The system should provide real-time visualizations and monitoring capabilities to enable users to track and analyze IoT data in a scalable manner,SC,SW
+409,The software shall have efficient resource utilization to minimize memory and CPU usage,PE,SW
+410,The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.,SE,SW
+411,The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.,F,SW
+412,The system shall include a data visualization tool for creating custom dashboards and reports,O,SW
+413,The product shall conform to industry-specific regulations for interoperability with other IoT devices,L,SW
+414,The product shall synchronize contacts and appointments in an acceptable time.,PE,SW
+415,The software shall have mechanisms to detect and report software anomalies or crashes that may indicate a security breach.,SE,SW
+416,Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.,SE,SW
+417,The system will notify affected parties when changes occur affecting classes  including but not limited to class cancellations  class section detail changes  and changes to class offerings for a given quarter.,F,SW
+418,Regular software updates and patches should be applied to address security vulnerabilities.,SE,SW
+419,The software should provide flexible APIs and SDKs for developers to integrate with different IoT platforms and services,PO,SW
+420,The software shall have built-in performance monitoring and profiling tools to identify and optimize resource-intensive components,MN,SW
+421,Product formulas shall allow use of semi-products  which have own formulas.,F,SW
+422,The product shall adhere to regulations regarding the transparency and control of user data collection and processing,L,SW
+423,The software should have a user-friendly onboarding process for easy device setup and configuration,US,SW
+424,The software shall support machine learning algorithms for predictive analysis of sensor data,O,SW
+425,The system shall include a mobile application for users to monitor and control IoT devices on the go,F,SW
+426,The system shall allow the mediator to send and receive messages from users.,F,SW
+427,When a game is ended  the product shall allow each player to identify himself or herself as an available player in the list of players.,F,SW
+428,Vendors must take permission from the Administrator for selling their products under the site. Administrator will test product's quality according to its market price to permit vendor for selling purpose.,F,SW
+429,The system shall be able to call the seller or buyer to schedule an appointment,F,SW
+430,When the hit results in sinking a ship  the product shall mark the ship as sunk on the offensive grid of the offensive player.,F,SW
+431,When the hit results in sinking a ship  the product shall notify the players that the ship was sunk.,F,SW
+432,The software architecture should be designed to support distributed processing and parallel computing for scalable analysis of IoT data,SC,SW
+433,A clinical class shall specify the course name  lecture room requirements  clinical site needs  lecture instructor needs  and clinical lab instructor needs.,F,SW
+434,The software should support historical data analysis and visualization for trend identification,US,SW
+435,The website shall be capable of supporting 100 000 customers.,SC,SW
+436,The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions.,US,SW
+437,The software should provide customizable alerts and notifications for important events or thresholds,US,SW
+438,The product shall provide Portals.The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators),US,SW
+439,The software is available for use from the supermarket opening time to the closing time.,A,SW
+440,Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site  including the clinical site name  site contact person  contact information  and address.,F,SW
+441,Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes,F,SW
+442,The system shall prevent malicious attacks including denial of service.,SE,SW
+443,The system shall allow the mediator to solve a location conflict.,F,SW
+444,Only authorized personnel can access sales information.,SE,SW
+445,The software shall implement secure access controls to restrict access and actions based on user roles and privileges.,SE,SW
+446,Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds.,F,SW
+447,The system shall meet industry-specific cybersecurity regulations including vulnerability management and incident response procedures,L,SW
+448,The software should offer data analytics and visualization capabilities for real-time insights and decision-making,PO,SW
+449,The system shall allow users to view other users' information.,F,SW
+450,The product shall continue to operate during upgrade change or new resource addition,MN,SW
+451,98% of the user workstations shall meet the minimum hardware requirements prior to implementation. Minimum Hard Disk Space:  400MB.,O,SW
+452,The system shall use the organization\92s standard virus protection software to help monitor threats to itself.,SE,SW
+453,The product shall be installed by an untrained realtor without recourse to separately-printed instructions.,US,SW
+454,The system shall provide an analytics module for real-time data processing and anomaly detection,F,SW
+455,The system shall offer an API (Application Programming Interface) for integrating with external systems and services,F,SW
+456,The software should implement secure input validation to prevent common attack vectors.,SE,SW
+457,Users should be able to access their streaming movies in under 2 clicks after logging into the website.,US,SW
+458,The meeting scheduler system may (optionally) automatically propose another meeting if current meeting is canceled by an important participant.,F,SW
+459,The software shall provide real-time analytics and monitoring dashboards to track system availability and performance,A,SW
+460,The software should have secure remote access capabilities for monitoring and control from anywhere,US,SW
+461,The system shall integrate with cloud-based analytics software for advanced data processing,O,SW
+462,The leads washing functionality will insert all leads captured by the web service.,F,SW
+463,The software shall provide a secure authentication mechanism for user access,PE,SW
+464,System will allow customers to pay for a streaming movie with a pre-paid card.,F,SW
+465,When a game is ended  the product shall allow each player to remove himself or herself from the list of players.,F,SW
+466,The product shall end a game when a hit by the offensive player results in sinking the last of the defensive player\92s ships  which had not been previously marked as sunk.,F,SW
+467,The message board shall contain the 5 most recently posted messages on the league page. The messages will contain up to the first 150 characters of the message.,LF,SW
+468,The user must be able to add photos from his/her photo library to his/her medical record.,F,SW
+469,The software system shall have redundant software modules or microservices to ensure fault tolerance and system availability,FT,SW
+470,The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.,PE,SW
+471,Only authorized users shall have access to clinical site information.,SE,SW
+472,The system must be operable by non-technical users,F,SW
+473,A secure server will be required to ensure confidentiality of customer's credit card and other details.,SE,SW
+474,Website shall allow the Izogn administrator to approve a review posted by a customer.,F,SW
+475,The system shall support over-the-air software updates for seamless device maintenance,O,SW
+476,Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.,F,SW
+477,The system should have the ability to scale horizontally as the number of devices increases,SC,SW
+478,The product shall meet regulatory requirements for the control and operation of actuators,L,SW
+479,Since the software must run on several popular hardware platforms and the goal is to achieve a reasonable level of platform independence.,PO,SW
+480,The system should provide mechanisms for auto-scaling based on workload and resource utilization to ensure optimal performance,SC,SW
+481,At the start of each turn  the product shall notify each player of his or her status.,F,SW
+482,The system shall allow users to view information concerning the available distributed location templates(if any).,F,SW
+483,The software architecture should be designed for distributed computing and parallel processing to scale with the growing workload,SC,SW
+484,The leads washing functionality will store any potential lead duplicates returned by the enterprise system.,F,SW
+485,The software shall analyze sensor data in real-time and trigger automated actions within 100 milliseconds,PE,SW
+486,The search results shall be returned no later 30 seconds  after the user has entered the search criteria,F,SW
+487,The product shall provide Multi-threading and Load Balancing.The product shall provide multi-threading technology as well as load balancing to overcome data load spikes and traffic.,PE,SW
+488,It should generate a report about registered complaint to the admin and response report to the user who has submitted his queries.,F,SW
+489,The application should be easy to extend,MN,SW
+490,The Disputes System shall accurately provide a list of possible reason codes for a given transaction.  The list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs to  according to the business rules defined for the Disputes System.,F,SW
+491,The System shall allow generation of Inventory Quantity Adjustment documents on demand.,F,SW
+492,The system shall authenticate users at the beginning each session.,F,SW
+493,The system's back-end databases shall be encrypted.,F,SW
+494,The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.,PE,SW
+495,The product shall operate with every platform,MN,SW
+496,The performance shall depend upon hardware components of the client/customer.,PE,SW
+497,The software used in the IoT system shall comply with licensing agreements including open-source software licenses,L,SW
+498,The software should support remote debugging and diagnostics for efficient troubleshooting and maintenance,PO,SW
+499,The software system shall provide error handling and graceful degradation in case of component failures,FT,SW
+500,The product must support Internet Explorer 5.5 and above.,O,SW
+501,The Disputes application shall ensure that only authorized users are allowed to logon to the application.,SE,SW
+502,The product shall be supported using the corporate support center.,O,SW
+503,The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.,F,SW
+504,The product shall be capable of handling up to 1 000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.,SC,SW
+505,The meeting scheduler system shall be able to select a participant as an important participant.,F,SW
+506,The software shall have a mechanism to prioritize and manage system resources to ensure critical functions are always available,A,SW
+507,Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem.,F,SW
+508,Actuators should have physical protection against environmental damage or manipulation.,SE,SW
+509,The system shall include software for data processing and analysis,O,SW
+510,The software shall provide a user-friendly API for seamless integration with third-party applications,PE,SW
+511,Only collision estimators shall search for recycled parts.  Users without the collision estimator role shall not have access to the search for recycled parts.,SE,SW
+512,Users shall feel satisfied using the product.  85% of all users will be satisfied with the product.,F,SW
+513,Vendor will submit a credit validation record to be applied to the enterprise billing system.,F,SW
+514,The leads washing functionality will have an interface in which lead data parameters can be maintained.,LF,SW
+515,The system shall integrate with cloud-based analytics platforms for advanced processing,O,SW
+516,All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides,SC,SW
+517,The adjuster shall request a recycled parts audit of the collision estimate.,F,SW
+518,Classes for a given cohort shall not conflict with regards to the time and day that they are offered.,F,SW
+519,The software shall have an intuitive and modular plugin system to allow for easy integration of new features or functionalities,MN,SW
+520,The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.,A,SW
+521,The system should have the ability to integrate with third-party security tools,F,SW
+522,The Disputes System will provide the user the ability to create or initiate a ticket retrieval request.   As part of ticket retrieval creation process the system must prompt the user to enter all the required information to create the ticket retrieval request.  The ticket retrieval request is a document that is sent to merchant inquiring the validity of a transaction.,F,SW
+523,The software should support over-the-air (OTA) updates to ensure easy software maintenance and feature enhancements,PO,SW
+524,The system shall support remote software updates to deploy bug fixes security patches and new features seamlessly,MN,SW
+525,The System shall meet all applicable accounting standards.  The final version of the System must successfully pass independent audit performed by a certified auditor.,L,SW
+526,For each shot  the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.,F,SW
+527,The software shall handle concurrent user requests with a response time of less than 500 milliseconds,PE,SW
+528,The software system shall have redundant software components to ensure fault tolerance and system stability,FT,SW
+529,The product shall comply with regulations governing software quality testing and validation processes,L,SW
+530,If the shot was marked as a miss  the product shall change the status of the offensive player to defensive,F,SW
+531,The software shall undergo regular code reviews and security testing to identify and fix potential security vulnerabilities.,SE,SW
+532,The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications,PE,SW
+533,The system shall have a web-based interface for users to monitor and control IoT devices,F,SW
+534,Once a game has been initiated  the product shall make the players assigned to the game unavailable for selection from the list of players.,F,SW
+535,Washing parameters will be updated during scheduled maintenance hours.,MN,SW
+536,The client should agree to EULA before using our software.,L,SW
+537,Product formula ingredients shall allow defining substitutionary ingredients.,F,SW
+538,The software shall have an error handling mechanism to recover from failures within 5 seconds,A,SW
+539,The software should support different programming languages for application development  such as Java  Cpp and Python,PO,SW
+540,Sensors should have physical protection against environmental damage or manipulation.,SE,SW
+541,A non-clinical class shall specify the course name  lecture room requirements  and instructor needs.,F,SW
+542,The software shall have a built-in monitoring system to detect and alert in case of performance degradation,A,SW
+543,The system shall run on Windows Server 2003.,PO,SW
+544,Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.,F,SW
+545,The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers,F,SW
+546,The IoT software should be platform-independent and compatible with major operating systems such as Windows  Linux  and macOS,PO,SW
+547,The product must be designed using Design Patterns and coding best practices,LF,SW
+548,The system should have the ability to diagnose and report errors and failures,MN,SW
+549,The system should have the ability to perform real-time data processing,PE,SW
+550,The product shall be easy for customers with novice skills on the  Internet to purchase and watch streaming movies.  Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.,US,SW
+551,The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.,US,SW
+552,The system shall be capable of restoring itself to its previous state in the event of failure (e.g. a system crash or power loss).,FT,SW
+553,The system shall offer a mobile application for remote monitoring and control of IoT devices,F,SW
+554,The sensors must have a mechanism to ensure availability in case of power outages,A,SW
+555,The product must support Mozilla Firefox 1.0 and above.,O,SW
+556,All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z.,L,SW
+557,The system shall include actuators to control the opening and closing of blinds or shutters,O,SW
+558,The software shall be designed with fault tolerance to minimize service disruptions in case of component failures,A,SW
+559,The product shall allow for intuitive searching of available conference rooms.,US,SW
+560,The product shall send a meeting confirmation to the meeting organizer.,F,SW
+561,The system shall incorporate a software for anomaly detection mechanisms for identifying abnormal patterns,O,SW
+562,The software solution should provide scalable data processing pipelines and workflows for efficient analysis of streaming IoT data,SC,SW
+563,The system shall include actuators to control the adjustment of heating or cooling systems,F,SW
+564,The users should be able to easily use the system to successfully complete their budgets  within the stipulated time for completion. With a week of training prior to product implementation  98% of the users shall complete their budgets within the stipulated time.,US,SW
+565,The software shall undergo regular vulnerability assessments and penetration testing to identify and address security vulnerabilities.,SE,SW
+566,Pre-paid cards shall be distributed via email or via a printed paper card.,F,SW
+567,The software shall provide detailed documentation and user guides to facilitate troubleshooting and minimize downtime,A,SW
+568,An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.,A,SW
+569,The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds,F,SW
+570,Information recorded must include an optional field for context.,F,SW
+571,The system shall include actuators to control the opening and closing of valves,O,SW
+572,The software shall support high availability clustering to ensure seamless failover in case of server or network failures,A,SW
+573,The search for recycled parts shall take no longer than 15 seconds.  The search results shall be returned in under 15 seconds.,F,SW
+574,The product shall continue to assign turns until the game is ended.,F,SW
+575,A clinical lab section shall include the clinical site name  the class  instructor  day and time of the lab.,F,SW
+576,Once a game is initiated  the product shall allow each player to position their 5 ships on their respective defensive grids.,F,SW
+577,The product shall be internet browser independent.The product must run using Internet Explorer and Netscape Navigator.,MN,SW
+578,The software solution should support modular and extensible components to facilitate scalability and ease of system integration,SC,SW
+579,Enable the admin to generate reports which contains all the posts and their corresponding replies.,F,SW
+580,"A meeting scheduler system will temporarily reserve the ""time slots"" for the proposed meeting.",F,SW
+581,All source code and development-related documents shall be controlled under a version control system,MN,SW
+582,The system will notify affected parties for routine communication purposes  including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.,F,SW
+583,If the shot was marked as a hit  the product shall allow the offensive player to define a shot.,F,SW
+584,The product shall be based on web and has to be run from a web server.,O,SW
+585,The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.,F,SW
+586,The vendor will verify the invalid lead.,F,SW
+587,The software system shall have fault injection capabilities for testing fault tolerance and resilience under controlled conditions,FT,SW
+588,The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.,PE,SW
+589,Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort.,F,SW
+590,All letter requests must be formatted according to guidelines specified by the Print Letter Utility system.,F,SW
+591,A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.,F,SW
+592,The product shall retain user preferences in the event of a failure.,FT,SW
+593,The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.,F,SW
+594,The system should ensure that all software and hardware components used in the network are up-to-date and secure,MN,SW
+595,The Disputes application must conform to the legal requirements as specified by the Merchant Operating Regulations.,MN,SW
+596,The meeting scheduler system shall reschedule a meeting to support conflict resolutions.,F,SW
+597,The system shall allow users to send and receive messages.,F,SW
+598,The system shall facilitate over-the-air firmware updates for devices in the field,F,SW
+599,The software system shall have fault detection and recovery mechanisms to ensure system availability,FT,SW
+600,The software system shall have fault prediction mechanisms to anticipate potential software failures and take preventive actions,FT,SW
+601,Movies shall be encoded for 56k and 256k streams.,O,SW
+602,The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.,US,SW
+603,The product shall have a conservative and professional appearance.,LF,SW
+604,The software should have multi-user support with role-based access control to ensure data privacy and security,US,SW
+605,The product shall adhere to regulations governing the use of encryption algorithms and cryptographic protocols,L,SW
+606,The software shall have an automated testing framework to ensure continuous availability during updates or changes,A,SW
+607,The adjuster shall be able to override the preferred repair facitlity on the estimate assignment.,F,SW
+608,The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.,F,SW
+609,The software shall implement secure session management to prevent session hijacking or session fixation attacks.,SE,SW
+610,The software should have modular architecture to facilitate easy integration of additional functionalities and components,PO,SW
+611,The product shall synchronize with the office system every hour.,PE,SW
+612,The owner shall have free access to all of the streaming movies.,SE,SW
+613,The system shall include actuators to open the doors,O,SW
+614,Actuators shall have built-in diagnostic features to identify and report potential issues or failures,F,SW
+615,The product shall continue to operate during upgrade  change or new resource addition.The product shall be able to continue to operate with no interruption in service due to new resource additions.,MN,SW
+616,The system shall include actuators to control the temperature of heating devices,O,SW
+617,The system shall employ machine learning algorithms for data analysis and prediction,O,SW
+618,The system shall support complex event processing to identify patterns and anomalies in sensor data,PE,SW
+619,The system shall include actuators to control the intensity of lights,O,SW
+620,The product shall remove players who have been inactive for 24 hours from the list of players.,F,SW
+621,The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.,MN,SW
+622,The system shall be used by realtors with no training.,US,SW
+623,The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.,PE,SW
+624,Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.,PE,SW
+625,The software shall have robust error handling and exception management mechanisms to prevent system crashes and facilitate debugging,MN,SW
+626,The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users.,F,SW
+627,Flea Market system will interface with the web server and RDBMS software using APIs provided by the implementation language,O,SW
+628,The actuators should have a compact and unobtrusive design to minimize their visual impact,LF,SW
+629,Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.,MN,SW
+630,The maintenance of the product will fall within the established corporate maintenance windows.,O,SW
+631,All movies shall be streamed on demand  at any time of the day.,A,SW
+632,The meeting scheduler system shall cancel a meeting due to canceling of an important participant.,F,SW
+633,Formula substitutionary ingredients shall be kept in persisted order,F,SW
+634,The Disputes System shall allow the user to create or initiate a chargeback request.  The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.,F,SW
+635,The system shall include actuators to switch on and off electrical devices,O,SW
+636,The system should support horizontal scaling of computational resources enabling distributed processing and parallel execution of IoT workloads,SC,SW
+637,The system shall give the mediator privileges to schedule location and equipment resources.,F,SW
+638,The system shall operate on Unix and Windows operating systems.,PO,SW

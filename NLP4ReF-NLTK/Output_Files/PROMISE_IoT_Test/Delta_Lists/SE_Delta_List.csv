@@ -1,0 +1,202 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system should have a mechanism for tracking and reporting device location,US,SE
+2,The streaming server will have anti-virus software to prevent infection of malicious viruses.,SE,SE
+3,The system shall include gas sensors to detect the presence of harmful gases,O,SE
+4,The system should be able to monitor the health of all devices connected to the network,MN,SE
+5,The system shall include a proximity sensor to detect the presence of objects or individuals in a specified range,O,SE
+6,The streaming server will support 50 simultaneous streaming connections.,SC,SE
+7,The sensor should have a fast response time to capture real-time changes in the environment,US,SE
+8,The sensor shall have built-in error correction mechanisms to compensate for measurement errors,FT,SE
+9,The sensor devices shall have mechanisms to detect and prevent signal interference or jamming.,SE,SE
+10,The sensor devices shall have mechanisms to verify the integrity and authenticity of firmware and software updates.,SE,SE
+11,The sensor should provide real-time calibration or self-calibration capabilities to maintain accuracy,US,SE
+12,The system must provide a mechanism to monitor and control device power consumption,F,SE
+13,The humidity sensor shall measure relative humidity with an accuracy of 2%,PE,SE
+14,The sensor's casing should be weatherproof and durable for outdoor applications,LF,SE
+15,Sensor data should be encrypted during transmission to protect its confidentiality.,SE,SE
+16,The system shall include motion sensors to detect movement within a specified area,O,SE
+17,The system shall include radiation sensors to detect radiation levels,O,SE
+18,The system shall include a gas sensor to monitor air quality and detect harmful gases in industrial settings,O,SE
+19,The system shall include a CO2 sensor to monitor and control indoor air quality,F,SE
+20,The temperature sensor shall provide accurate readings within 5 degrees Celsius,PE,SE
+21,The system should be energy-efficient to reduce power consumption,A,SE
+22,The sensor devices shall have mechanisms to authenticate and authorize communication with the central monitoring system.,SE,SE
+23,The sensor should have adjustable mounting options to accommodate various installation scenarios,LF,SE
+24,The sensor communication protocols should be standardized and interoperable,PO,SE
+25,The system shall include noise sensors to monitor sound levels,O,SE
+26,The sensor network should be able to accommodate an increasing number of sensor devices without affecting the overall system performance,SC,SE
+27,The IoT devices shall meet safety regulations for sensor placement and installation,L,SE
+28,The system shall include temperature sensors to monitor room temperature,O,SE
+29,The system shall include a sound sensor to detect and analyze noise levels in a smart city environment,O,SE
+30,The IoT devices shall conform to safety regulations for sensor installation maintenance and disposal,L,SE
+31,The system must be able to monitor the health and status of IoT devices in real-time,MN,SE
+32,The sensor shall provide redundant measurements to ensure accuracy and fault tolerance,FT,SE
+33,The sensor devices should have the ability to dynamically adjust their sensing capabilities to handle varying levels of data volume,SC,SE
+34,The water level sensor shall be available 24/7 to monitor water levels,A,SE
+35,The system shall include an infrared sensor to detect and measure temperature variations in industrial processes,F,SE
+36,The system should provide real-time monitoring of device performance,MN,SE
+37,The sensor devices should be compatible with different IoT platforms,PO,SE
+38,The system shall include pH sensors to monitor the acidity or alkalinity of a solution,O,SE
+39,The sensor should have a wide operating temperature range to function in various environmental conditions,US,SE
+40,The CO2 sensor shall be available 24/7 to monitor CO2 levels,A,SE
+41,The system should be able to scale the sensor network to support thousands of sensor devices distributed across different locations,SC,SE
+42,The sensor devices must undergo regular security audits to identify vulnerabilities.,SE,SE
+43,The system should have the ability to monitor device health and detect hardware failures,SC,SE
+44,The light sensor shall detect light intensity variations with a resolution of 1 lux,PE,SE
+45,The sensor devices should be scalable to support higher data resolution and accuracy as the system expands,SC,SE
+46,The sensor modules should support a wide range of physical stimuli detection including temperature humidity pressure sound and vibration,PO,SE
+47,The sensor devices shall have built-in redundancy to ensure continuous monitoring in case of device failure.,FT,SE
+48,The system shall include a centralized dashboard for real-time monitoring of sensor data,O,SE
+49,The system shall include moisture sensors to detect moisture content,O,SE
+50,The motion sensor shall detect movement within a range of 10 meters,PE,SE
+51,Sensors shall have self-monitoring capabilities to detect and report any deviations or anomalies in their performance,MN,SE
+52,The sensor should provide a clear indication when its battery is low or needs replacement,US,SE
+53,The system shall include humidity sensors to measure and monitor humidity levels,O,SE
+54,The system shall include proximity sensors to detect the presence of objects,O,SE
+55,The system should allow for easy installation and setup of devices,US,SE
+56,The sensor devices shall enforce strong authentication and authorization mechanisms to ensure only authorized users can access and control them.,SE,SE
+57,The sensor should have adjustable sensitivity settings to cater to different application requirements,US,SE
+58,The sensor network should support seamless integration of third-party sensor devices to expand functionality and coverage,SC,SE
+59,The system shall provide real-time analytics and insights based on sensor data,PE,SE
+60,The sensor devices shall enforce secure communication protocols to protect the confidentiality and integrity of data transmitted to and from the devices.,SE,SE
+61,The system shall include smoke detectors to detect the presence of smoke,O,SE
+62,The gas sensor shall detect specific gases with a sensitivity of 10 parts per million (ppm),PE,SE
+63,The product shall adhere to regulations governing the use of hazardous materials in sensor manufacturing,O,SE
+64,Sensor firmware updates shall be easily deployed to improve performance or address any issues,MN,SE
+65,The system should be able to detect and mitigate potential interference with other wireless devices,FT,SE
+66,The system's actuators should provide redundancy for critical components to ensure at least 85% availability,FT,SE
+67,The system must provide a mechanism for monitoring and analyzing sensor data in real-time,MN,SE
+68,The sensor shall provide real-time monitoring of sensor health to detect faults and anomalies,PE,SE
+69,The sensor devices should provide real-time data streaming capabilities for immediate monitoring and analysis,LF,SE
+70,The system shall include vibration sensors to detect and measure vibrations in industrial machinery,F,SE
+71,The sensor devices should support interoperability with third-party sensor modules for expanded functionality,PO,SE
+72,The sensor should have a built-in self-calibration mechanism to ensure accurate readings over time,US,SE
+73,"The sensor devices shall have mechanisms to detect and prevent physical tampering, such as intrusion sensors or seal monitoring.",SE,SE
+74,The system shall include soil moisture sensors to measure the moisture content in soil,O,SE
+75,The sensor devices shall have a mechanism to detect and report any tampering or physical damage.,SE,SE
+76,The sensor should have a sleek and modern design that complements its surroundings,LF,SE
+77,The system shall include a soil moisture sensor to monitor the moisture level in agricultural fields,O,SE
+78,The humidity sensor shall be available 24/7 to monitor humidity levels,A,SE
+79,The sensor network should support the addition of new sensor types seamlessly without requiring extensive modifications,SC,SE
+80,The system shall include humidity sensors to measure the humidity levels,O,SE
+81,The system should have the ability to detect and report device failures,FT,SE
+82,The light sensor shall detect illuminance levels with a resolution of 1 lux,PE,SE
+83,The sensor devices should have self-calibration capabilities to maintain accuracy over time,US,SE
+84,The system's sensors should have a backup power source in case of power outages,A,SE
+85,The sensor's appearance should be unobtrusive and blend seamlessly with the surroundings,LF,SE
+86,The sensor devices should be able to operate in diverse environmental conditions including indoor and outdoor settings,PO,SE
+87,The temperature sensor shall provide accurate readings within 05 degrees Celsius,PE,SE
+88,The sensor should have a wide operating temperature range to function reliably in extreme conditions,US,SE
+89,The system should be able to operate in a low-power mode to conserve energy,A,SE
+90,The system shall include pressure sensors to monitor and control pressure levels in pipelines,F,SE
+91,The system should provide redundancy for critical components,FT,SE
+92,The sensor network should be able to accommodate an increasing number of sensor nodes without compromising data accuracy and reliability,SC,SE
+93,The sensor devices must implement secure communication protocols to transmit data.,SE,SE
+94,"The sensor devices shall have mechanisms to securely store sensitive data, such as encryption keys or calibration parameters.",SE,SE
+95,The gas sensor shall be available 24/7 to detect gas leaks,A,SE
+96,Sensor firmware should be regularly updated to patch security vulnerabilities.,SE,SE
+97,The system should be able to monitor the health of all devices in the network and alert the user of any issues,MN,SE
+98,The system shall include pressure sensors to measure atmospheric pressure,O,SE
+99,The sensor response time for detecting physical stimuli shall be less than 100 milliseconds,PE,SE
+100,The motion sensor shall be available 24/7 to detect movement,A,SE
+101,The system shall include gas sensors to detect and monitor air quality for harmful gases,O,SE
+102,The proximity sensor shall detect nearby objects within a range of 50 centimeters,PE,SE
+103,The sensor's interface should provide intuitive and user-friendly controls for configuration and calibration,LF,SE
+104,The system should have mechanisms to dynamically adjust the sampling rate and frequency of sensor readings based on changing requirements,SC,SE
+105,The sensor modules should have built-in calibration mechanisms to ensure accurate and reliable measurements,US,SE
+106,The system shall support real-time streaming of sensor data to a central repository,O,SE
+107,The sensor should have a low sensitivity to external interference or noise,US,SE
+108,The system shall provide a mechanism to calibrate and fine-tune sensor readings to maintain accuracy over time,MN,SE
+109,The system shall include humidity sensors to monitor humidity levels,O,SE
+110,The sensor devices shall have built-in mechanisms to detect and prevent data falsification or spoofing.,SE,SE
+111,The sensor shall have self-calibration mechanisms to compensate for drift and maintain accuracy,FT,SE
+112,The sensor devices shall have encrypted communication protocols to protect data during transmission.,SE,SE
+113,The system should provide real-time device status monitoring,MN,SE
+114,The system should be able to provide self-diagnosis and troubleshooting,MN,SE
+115,The humidity sensor shall measure humidity levels with an accuracy of 3%,PE,SE
+116,The system should be able to detect and respond to device failures in real-time,FT,SE
+117,The light sensor shall be available 24/7 to detect ambient light levels,A,SE
+118,The system should be able to provide consistent performance under heavy loads,PE,SE
+119,The sound sensor shall be available 24/7 to detect sound levels,A,SE
+120,The occupancy sensor shall be available 24/7 to detect human presence,A,SE
+121,The system shall include occupancy sensors to determine the presence of people in a room,F,SE
+122,The sensor network should be scalable to support a wide range of environmental conditions and physical locations,SC,SE
+123,The GPS sensor shall provide location coordinates with an accuracy of 5 meters,PE,SE
+124,"The sensor devices shall have mechanisms to detect and report abnormal or suspicious sensor behavior, such as unexpected readings or patterns.",SE,SE
+125,The system shall include temperature sensors to measure and monitor room temperature,F,SE
+126,The humidity sensor should measure humidity levels with an accuracy of 5%,US,SE
+127,The system should have a mechanism to monitor device performance,O,SE
+128,The sensors used in the IoT system shall comply with industry standards for accuracy and precision,L,SE
+129,The pressure sensor shall be available 24/7 to monitor air pressure,A,SE
+130,The sensor shall have built-in redundancy to continue operating in case of sensor failure,FT,SE
+131,The sensor should have clear and visible indicators to show its operational status,LF,SE
+132,The system shall include vibration sensors to detect vibrations in the environment,O,SE
+133,The system should be able to handle high traffic volumes and maintain a low latency for sensor data,PE,SE
+134,The system shall include motion sensors to detect movement,O,SE
+135,The system should have the ability to monitor power consumption and optimize energy usage,A,SE
+136,The system shall include a proximity sensor to detect the presence of objects or individuals in a defined area,O,SE
+137,The system shall include a pH sensor to measure and monitor the acidity or alkalinity of water in aquaculture systems,O,SE
+138,The sensor's response time to environmental stimuli should be less than 100 milliseconds,US,SE
+139,The system shall include motion sensors to detect movement in the vicinity,O,SE
+140,The system shall include gas sensors to monitor air quality,O,SE
+141,The system should provide real-time device location tracking,US,SE
+142,The sensor modules should provide accurate and reliable measurements within specified operating ranges,US,SE
+143,The system shall include water level sensors to monitor the level of water in tanks or reservoirs,O,SE
+144,The sensor should have a high level of accuracy in measuring the target parameter,US,SE
+145,The system should provide mechanisms for sensor self-calibration and self-configuration to maintain accurate measurements,US,SE
+146,The sensor should have a long communication range to support remote monitoring and control,US,SE
+147,The system shall include a pressure sensor to measure and monitor water pressure in plumbing systems,O,SE
+148,The sensor devices shall implement mechanisms to mitigate the risk of sensor spoofing or replay attacks.,SE,SE
+149,The system will develop a security system that will reduce to the minimum the possibility of corruption from systems and/or humans.,SE,SE
+150,The system should provide device health monitoring,MN,SE
+151,The system shall include sound sensors to measure sound levels,O,SE
+152,The system shall meet industry standards for sensor accuracy precision and response time,L,SE
+153,The sensor shall have environmental protection measures to withstand harsh conditions and minimize sensor failures,FT,SE
+154,The system shall include proximity sensors to detect the proximity of objects,O,SE
+155,The system shall have a comprehensive sensor inventory management system to track sensor installations replacements and maintenance,MN,SE
+156,The light sensor should detect changes in ambient light with a sensitivity of 1 lux,US,SE
+157,The system should be able to handle an increasing number of sensor devices without degradation in data collection and processing,SC,SE
+158,Sensor devices must have mechanisms to detect and report physical tampering attempts. The sensor devices shall be tamper-proof to prevent unauthorized access or interference.,FT,SE
+159,The system shall include GPS sensors to track the location of devices,O,SE
+160,The system shall include sound sensors to detect and analyze audio patterns for security purposes,F,SE
+161,The sensor should have a wide dynamic range to accommodate different levels of the measured parameter,US,SE
+162,The sensor should be resistant to external interference and able to filter out noise signals,US,SE
+163,The sensor modules should support plug-and-play functionality for easy integration,PO,SE
+164,The sensor network should have the flexibility to adapt to changing environmental conditions and sensor placement requirements,SC,SE
+165,The system shall comply with calibration standards and procedures for maintaining sensor accuracy,L,SE
+166,The sensor shall provide real-time health monitoring to detect faults and anomalies,FT,SE
+167,The sensor measurements shall be accurate within an acceptable tolerance level.,SE,SE
+168,The sensor devices shall employ secure boot mechanisms to ensure that only trusted and verified software is executed.,SE,SE
+169,Actuators should have mechanisms to detect and prevent unauthorized physical access.,SE,SE
+170,The temperature sensor shall be available 24/7 to monitor ambient temperature,A,SE
+171,The system shall include light sensors to detect ambient light intensity,O,SE
+172,Sensors should have built-in mechanisms to detect and report abnormal behavior or anomalies.,SE,SE
+173,The system should provide real-time monitoring and alerting for critical device failures,A,SE
+174,System use shall not cause any harm to human users.,SE,SE
+175,The sensor devices should have low power consumption to extend battery life and minimize energy usage,PO,SE
+176,The pressure sensor shall provide accurate readings within 1% of the measured pressure,PE,SE
+177,The system shall include moisture sensors to measure the moisture content in the soil,O,SE
+178,The sensor devices should be compatible with different communication protocols  such as MQTT  CoAP  and HTTP,PO,SE
+179,The system shall include a rules engine for defining and executing complex automation rules based on sensor inputs,O,SE
+180,The system shall include a CO2 sensor to detect and measure carbon dioxide levels in indoor environments,F,SE
+181,The sensor battery life shall last for a minimum of 1 year before requiring replacement,PE,SE
+182,The sensor devices should be compatible with commonly used communication protocols such as MQTT and CoAP,PO,SE
+183,The system should have a built-in redundancy to ensure continuous operation in case of device failure,FT,SE
+184,The system should support the addition of new sensor types and models seamlessly  without requiring significant modifications,SC,SE
+185,The system should be able to detect and respond to changes in environmental conditions,FT,SE
+186,The system shall provide real-time alerts and notifications based on sensor data,PE,SE
+187,The system shall include a moisture sensor to monitor soil moisture levels for efficient irrigation in smart agriculture,O,SE
+188,The system shall include light sensors to detect and respond to changes in ambient light,F,SE
+189,The sensor network should scale to accommodate additional sensor nodes distributed across different geographical locations,SC,SE
+190,The sensors used in the IoT system shall adhere to industry standards for accuracy and calibration,L,SE
+191,The sensor shall have failover mechanisms to switch to backup sensors in case of failure,FT,SE
+192,The sensor devices should have the ability to adapt their sampling rates and data transmission frequencies based on network load and scalability requirements,SC,SE
+193,The system should support automatic sensor discovery and configuration to simplify the process of adding new sensors to the network,SC,SE
+194,The sensor's LED indicators should be visible and easily distinguishable,LF,SE
+195,The sensor data shall be securely transmitted to the central monitoring system.,SE,SE
+196,The sensor modules should be compact and lightweight for easy deployment and installation,US,SE
+197,The system should be able to perform regular security audits and vulnerability assessments,MN,SE
+198,The system shall include occupancy sensors to detect the presence of individuals in a space,O,SE
+199,The system should be able to limit the frequency and duration of data transmissions to conserve energy,PE,SE
+200,The sensor should have a self-cleaning mechanism to prevent performance degradation due to environmental factors,US,SE
+201,The system use SSL (secured socket layer) in all transactions that include any confidential customer information.,SE,SE

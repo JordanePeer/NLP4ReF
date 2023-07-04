@@ -1,0 +1,8 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The actuator devices should have the ability to scale their actuation precision and response time based on changing system requirements,SC,AC
+2,The system should provide secure and reliable firmware updates to all devices,F,AC
+3,The system should support dynamic actuator grouping and orchestration to perform coordinated actions across multiple devices,SC,AC
+4,The system should have the ability to prevent malware infections from future devices,SC,AC
+5,The system shall store firmware and software updates for remote device management and updates,F,AC
+6,The system should be able to dynamically allocate resources and prioritize actuator actions based on real-time demands,LF,AC
+7,The system shall include a motorized camera system for tracking and monitoring movements in a surveillance application,F,AC

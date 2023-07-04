@@ -1,0 +1,257 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The preferred repair facility shall be returned to the user.,F,UI
+2,The realtor shall be able to retrieve a map showing property locations for a specified area,F,UI
+3,The user interface shall provide contextual help and tooltips to guide users and address common questions or issues,A,UI
+4,The system shall allow the user to register for an account from any page in the system.,F,UI
+5,The product will be able to delete conference rooms.,F,UI
+6,The system shall use symbols and words that are naturally understandable by the user community.,US,UI
+7,The user must be able to set an option to hide information based on who has tagged it.,F,UI
+8,The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.,US,UI
+9,Registered User must be able to maintain his/her session information for at least 60 minutes of inactive session before the system prompts him to log out of the system. The registered user must be provided with all the options of the E-store regardless of the time when he/she logs in.,F,UI
+10,Responses to queries shall take no longer than 7 seconds to load onto the screen after the user submits the query.,PE,UI
+11,The system shall display the orders that are eligible to change.,F,UI
+12,The product shall have a customizable Look and Feel.,LF,UI
+13,A display shall not require a user to log in.,SE,UI
+14,The stystem interface should have a clean and intuitive design that enables users to easily navigate and interact with the system,LF,UI
+15,The system will provide a 24 hour 800 toll free number for support to its customers.,A,UI
+16,The system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes.,US,UI
+17,The user shall be able to get driving directions to a selected property,F,UI
+18,The system shall display all the available financing options.,F,UI
+19,A new user must be able to be added to the system within 10 minutes. 90% of new users are able to log into the system within 10 minutes.,US,UI
+20,It should not take more than 90 seconds for a registered user to place an order.,US,UI
+21,The website design should be modern  clean  and concise.,LF,UI
+22,The system's interface should follow the branding standards of IBM and CCR  including the display of their logos and adherence to nomenclature,L,UI
+23,System shall let customers register on the website as a \93unlimited movie subscriber\94 user in under 10 minutes.,PE,UI
+24,Provide an interface for the admin to approve posts so that posts are not visible without admin approval.,F,UI
+25,The system shall allow the user to modify the date exclusion set of an already submitted meeting response.,F,UI
+26,The product shall use symbols and words that are naturally understandable by users familiar with websites,US,UI
+27,The system must be available for use between 7:00AM and 11:59PM all days of the year.,A,UI
+28,The font will be larger enough for easy reading.,F,UI
+29,Can give feedback to the 24X7 Customer Care Service center about their impression for the site and services.,F,UI
+30,System will have different types of users and every user has access constraints.,SE,UI
+31,The system shall enable user to add one or more component to the configuration.,F,UI
+32,The current repair facility ratings shall be displayed to the user.,F,UI
+33,The product shall allow the player to position ships vertically on their grid.,F,UI
+34,System shall let customers cancel their account  process shall take no longer than 2 minutes.  Database will mark the account as inactive  and user will not be able to log into the website.,PE,UI
+35,The RMS System shall have Windows XP look and feel and use GUI futures making its use intuitive.,LF,UI
+36,The menus of the system must be easily navigable by the users with buttons that are easy to understand.,MN,UI
+37,The product shall comply with regulations governing the use of voice and gesture-based user interfaces,L,UI
+38,The product shall allow for customization of start page and views preferences.,US,UI
+39,The system shall allow the user to view pending meetings.,F,UI
+40,The system shall provide use of icons and toolbars.,US,UI
+41,The system shall provide charts for the Activity or Event actual versus assumed time.,F,UI
+42,Once a game is initiated  the product shall display a defensive grid to each player,F,UI
+43,Can only visit the site without registration.,F,UI
+44,Each entry is shown in full.,F,UI
+45,The system shall display and embed in each message a date/timestamp of when the message was sent.,F,UI
+46,The system's back-end servers shall never display a customer's password.  The customer's password may be reset but never shown.,SE,UI
+47,The system shall provide a way to return to the startup screen.,US,UI
+48,The system should allow for customization of the user interface,LF,UI
+49,Each page shall contain a navigation menu which shows the index into which the current page is contained.,LF,UI
+50,The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.,F,UI
+51,The system shall display the FAQ's upon request.,F,UI
+52,Every user of the system shall be authenticated and authorized.,SE,UI
+53,The user interface shall have standard menus buttons for navigation,LF,UI
+54,The customer's web browser shall never display a customer's password.  It shall always be echoed with special characters representing typed characters.,SE,UI
+55,The calculations performed by the system must comply according to the norms set by the user and should not vary unless explicitly changed by the user.,L,UI
+56,The user interface of the IoT system shall comply with accessibility standards to ensure equal access for all users,L,UI
+57,The product shall be intuitive and self-explanatory. 90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.,US,UI
+58,Any page of the application should not take more than 6 seconds to load on a DSL broadband connection.,PE,UI
+59,The website shall be attractive to all audiences.  The website shall appear to be fun and the colors should be bright and vibrant.,LF,UI
+60,The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications,F,UI
+61,The system shall allow user to choose their preferable topping.,F,UI
+62,The system shall display both the active and completed order history in the customer profile.,F,UI
+63,It should not take more than 120 seconds for a new user to register for an account.,US,UI
+64,The system must be easy to use by both managers and chefs such that they do not need to read an extensive amount of manuals.,US,UI
+65,The system shall provide browsing options to see product details.,US,UI
+66,The system shall support user interface theming and branding to align with the branding guidelines of different organizations or users,MN,UI
+67,The system shall validate the amount is available in the user's account before releasing funds to the user.,A,UI
+68,The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use. The interface should adhere to IBM usability standards.,US,UI
+69,"The online registration system is ""self-service style"" system that shall initially address the student registration needs.",F,UI
+70,Selected or specified patient's information is loaded.,F,UI
+71,The product shall display a map of the company building showing conference room locations.,LF,UI
+72,The system shall allow user to enter the customer and product information for the support.,F,UI
+73,The application shall ask the user to confirm dropping a player or trading a player before performing the action.,US,UI
+74,The product shall be able to display calendar dates and times according to the user\92s locale.  90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.,US,UI
+75,The application shall match the color of the schema set forth by Department of Homeland Security,LF,UI
+76,The system shall display the detailed information about the selected order.,F,UI
+77,The product shall comply with corporate color scheme,LF,UI
+78,Every registered user will have access to the product\92s support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.,US,UI
+79,The system shall query the user for the amount of money.,F,UI
+80,All of the users shall be able to use the system after one day of training.,US,UI
+81,The system shall allow user to select available promotion.,F,UI
+82,The user shall easily locate instructions while using the product.  User help can be found within 90% of the system.,US,UI
+83,The system should provide the user with an option to customize the look and feel of the user interface,LF,UI
+84,The top 1/4 of the table will hold events that are to occur sequentially.,F,UI
+85,The system shall allow user to select the payment method for order.,F,UI
+86,Users shall be required to log in to the Cafeteria Ordering System for all operations except viewing a menu.,F,UI
+87,The system shall be able to display a printable summary for individual clinical sites  which will include information on labs being held at that site for the given quarter (Clinical site  general information on labs held at that location  dates and times of all labs held there).,F,UI
+88,The system shall be able to display a printable summary for individual nursing students  which will include (but not be limited to) student name  student ID  admission date  classes  credits  GPA  and the cohort that the student is enrolled in.,F,UI
+89,The system must be intuitive and simple in the way it displays all relevant data and relationships.,US,UI
+90,The product shall use a standard navigation menu familiar to most web users.,US,UI
+91,The system shall be displayable on any work computer a CCR user may have. The system interface shall be formatted to display at 800 by 600 pixel resolution.,LF,UI
+92,The product shall comply with corporate User Interface Guidelines,LF,UI
+93,The system shall allow the user to change the password.,F,UI
+94,System shall automatically update the main page of the website every Friday  and show the 4 latest movies that have been added to the website.,F,UI
+95,95% of users will not need to read the user manual to be able to use the application.,US,UI
+96,The system shall allow the user to modify the equipment requirement set of an already submitted meeting response.,F,UI
+97,Logout must be automatic after 1 hour of inactivity.,SE,UI
+98,The system should have a visually appealing indicator  for the user  to show the status of connectivity with other devices,LF,UI
+99,The system shall display detailed product categorization to the user.,F,UI
+100,The system shall provide data visualization tools,O,UI
+101,A user must be logged on to be able to view or edit any medical information.,F,UI
+102,The product shall use symbols and words that are naturally understandable by the realtor community.,US,UI
+103,The system shall provide a digital image for each product in the product catalog.,US,UI
+104,The system shall display Events in a vertical table by time.,F,UI
+105,The system shall refresh the display every 60 seconds.,F,UI
+106,If a user account is revoked  it can only be re-instantiated by the System Administrator.,SE,UI
+107,The system shall authenticate user credentials to view the profile.,F,UI
+108,The system shall allow user to add/remove products in the shopping cart.,F,UI
+109,The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.,US,UI
+110,While streaming a movie  buffering should only occur if there is latency in the user\92s connection.,PE,UI
+111,The product shall have an intuitive user interface.,US,UI
+112,Enable a user to view questions and their corresponding answers.,F,UI
+113,The system shall display tax information for the order.,F,UI
+114,The system shall query the user for the account type.,F,UI
+115,The system should provide visual cues or representations to indicate the available storage capacity and usage for the user,LF,UI
+116,Only managers are able to perform search queries for reservations by user.  100% of all search queries for reservations by user shall be from logons of only management logons.,SE,UI
+117,The application must log the user out when it is exited.,SE,UI
+118,2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.,US,UI
+119,Contact with the vendors and give permission to sell their product under the site after testing the product's quality.,F,UI
+120,The system shall allow a user to define the time segments,F,UI
+121,All additions of new users and modifications to user\92s access shall be recorded on the User Report.,SE,UI
+122,The campus map shall have a pause/resume button. The pause and resume button will allow the user to scroll and select other buildings without being interrupted by the automatic search and announce feature.,LF,UI
+123,System shall let existing customers log into the website with their email address and password in under 5 seconds.,PE,UI
+124,The system shall allow user to enter the contact number for support personnel to call.,F,UI
+125,The website design should be modern  clean  and concise  ensuring a seamless and user-friendly browsing experience,LF,UI
+126,The display shall have two regions:  left 2/3 of the display is graphical  right 1/3 of the display is a data table,F,UI
+127,The product shall be available to players who understand English  Spanish and French.  The product shall allow the user to select the language upon accessing the product.,US,UI
+128,The system shall allow user to enter the order information for tracking.,F,UI
+129,The system shall show a tabbed display (or equivalent functionality) with the campus map on one tab and info on the most recently announced building on the other.,LF,UI
+130,The bottom 3/4 of the table will hold events that occur according to its relevance to current time.,F,UI
+131,Customer must logout of the site after purchasing products.,F,UI
+132,Enable new users to register to the tech support system.,F,UI
+133,The system shall offer a display of all the Events in the exercise.,F,UI
+134,100% of saved user preferences shall be restored when system comes back online.,F,UI
+135,The system shall allow user to register for newsletters and surveys in the profile.,F,UI
+136,The system shall allow user to confirm the completion of current configuration.,F,UI
+137,The system shall display the Events in a graph by time.,F,UI
+138,Velkat staff will be available for phone support between 7am-7pm  M-F to provide technical support to the Izogn administrators.,A,UI
+139,Authenticate and Login user to the web app.,F,UI
+140,The system shall display only 10 matching result on the current screen.,F,UI
+141,The system shall display the most frequently searched items by the user in the profile.,F,UI
+142,The system shall be able to display a menu at all times to facilitate manual order taking should the need arise.,LF,UI
+143,The system shall meet privacy regulations for the collection and processing of user interface interaction data,L,UI
+144,The system shall display all the matching products based on the search.,F,UI
+145,The website shall be available for use 24 hours per day  365 days per year.,A,UI
+146,The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.,US,UI
+147,The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use.,US,UI
+148,The system shall provide handicap access.,US,UI
+149,The product will display an available status for unreserved conference rooms.,F,UI
+150,An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms.,US,UI
+151,User access should be limited to the permissions granted to their role(s) Each level in the PCG hierarchy will be assigned a role and users will be assigned to these roles. Access to functionality within RFS system is dependent on the privileges/permission assigned to the role..,SE,UI
+152,The customer's web browser shall never display a customer's credit card number after retrieving from the database.  It shall always be shown with just the last 4 digits of the credit card number.,SE,UI
+153,The system shall display all the products that can be configured.,F,UI
+154,The system shall allow user to select the financing option.,F,UI
+155,The interface shall have a simple look. In the interface and usability survey  90% of beta testers must report that the interface is adequately simple.,LF,UI
+156,The product shall allow a user to identify himself or herself as a player.,F,UI
+157,The system shall be easy to use by the Program Administrators/Nursing Staff Members.,US,UI
+158,The response shall be fast enough to avoid interrupting the user\92s flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.,PE,UI
+159,The Operational Interface shall have a Mean Time Between Failures of no less than 7 days.,FT,UI
+160,The user shall search for the preferred repair facility using vehicle  vehicle location  and radius in miles,F,UI
+161,The system shall enable user to select the shipping method during payment process.,F,UI
+162,Navigation to each selected tab.,LF,UI
+163,The product shall allow the user to view previously downloaded search results CMA reports  and appointments.,F,UI
+164,The system will display a blank set of ratings if there are not ratings yet defined.,F,UI
+165,The product shall display each type of ship in a grid using an image of the specific type of ship.,LF,UI
+166,The website should use Flash to provide animation on the home page.,O,UI
+167,The system shall display different shipping options provided by shipping department.,F,UI
+168,The system shall notify the user about any conflict in the current configuration.,F,UI
+169,The system shall allow user to select the order to be changed.,F,UI
+170, The system shall allow the user to modify the location preference set of an already submitted meeting response.,F,UI
+171,The system shall notify the user about any changes made to the order.,F,UI
+172,The system shall allow the user to view their schedule.,F,UI
+173,The system shall calculate tax for the order.,F,UI
+174,The system shall optionally allow user to print the invoice.,F,UI
+175,The system shall display clear property images in the search results,F,UI
+176,The system shall show the meetings to the user in ascending time order by default.,F,UI
+177,The product shall display room equipment according to search parameters.,F,UI
+178,The system shall be able to issue a specific amount of money to the user.,F,UI
+179,The product shall display the grids within a circle as a view from a periscope.,LF,UI
+180,The look and feel of the system shall conform to the user interface standards of the smart device.,LF,UI
+181,The system shall allow user to cancel the order.,F,UI
+182,The intranet pages should display appropriately in all resolutions  from 800x600 and higher. The display of all the pages will be correct in 95% of the resolutions  prior to implementation. The remaining 5% will be corrected within a week of notification of the incorrect display.,LF,UI
+183,Each page shall contain a similar format with action items in one location and navigation buttons in a different location.,LF,UI
+184,The system shall allow user to specify custom meeting locations.,F,UI
+185,The system shall enable user to enter the search text on the screen.,F,UI
+186,The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.,A,UI
+187,The user interface of the system should be very user friendly. ,US,UI
+188,The system shall be intuitive and self explanatory.,US,UI
+189,The system shall display the current tracking information about the order.,F,UI
+190,The product shall have a consistent color scheme and fonts.,LF,UI
+191,The system shall display the customer support contact numbers on the screen.,F,UI
+192,The system shall allow modification of the display.,F,UI
+193,The system interface will use CCR nomenclature. The system must use the same nomenclature used in the existing WCS system and reports,LF,UI
+194,The website should have an African feel  but should not alienate non-Africans.  The website should use animation on pages which are describing the services  to grab the users attention and encourage them to sign up.,LF,UI
+195,The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system.  A detailed history of the actions taken on the case  including the date and the user that performed the action must be maintained for auditing purposes.,F,UI
+196,Most of the system functions will be controlled using the administrative interface.,LF,UI
+197,The system shall allow user to select the order from the order history.,F,UI
+198,System shall let customers register on the website as a \93pay as you go\94 user in under 5 minutes.,PE,UI
+199,View the personal details of the customer.,F,UI
+200,To prevent attacks the system should generate random word and ask the user to enter it correctly for multiple tryings.,SE,UI
+201,A tablet shall require a user to log in using a username and password.,SE,UI
+202,Enable a logged in user to ask questions.,F,UI
+203,Can view all available products and can compare them and make a choice for purchasing products.,F,UI
+204,The entire website must be user-friendly and easily navigable. The website must be provided with a site map for quick access to a particular link according to the requirement specification. The user must be able to find what he/she wants from the site without any difficulty. The website must adhere to branding schemes and the layout of the web pages must be uniform throughout  ,US,UI
+205,The system shall display Events or Activities.,F,UI
+206,The system should have a user-friendly interface for ease of use,LF,UI
+207,Backspace/reset capability is implemented for typing errors.,PO,UI
+208,The system shall display confirmation messages to users within 4 seconds after the user submits information to the system.,F,UI
+209,The system should require the user to state time when should the doughnut be delivered,F,UI
+210,New and Delete buttons will allow the physician/pharmacist to add a notation to the patient's file.,F,UI
+211,The user interface of the IoT system shall comply with accessibility standards for equal access and usability,L,UI
+212,The user shall select to save the preferred repair facility ratings.,F,UI
+213,The table side of the display shall be split into 2 regions: sequential and temporal.,F,UI
+214,A list of all disputes cases that meet the entered search criteria must be provided to the user.  The list of cases must differentiate the type and/or status of the case by color -coding the line item in the list.  For example all open cases will be yellow and all closed cases will be gray.,F,UI
+215,The IoT system shall adhere to privacy regulations to ensure the proper handling and safeguarding of user information,L,UI
+216,It must allow a user to logout.,F,UI
+217,The interface must summarize the data in a fashion that\92s appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface,LF,UI
+218,The system shall enable the user to enter their reviews and ratings.,F,UI
+219,The system shall allow the user to view past attended meetings.,F,UI
+220,All the functions of the system must be available to the user every time the system is turned on.,A,UI
+221,When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the user\92s connection.),PE,UI
+222,The system should ask the user to key in the pickup date.,US,UI
+223,The system should require the user to state time when should the doughnut be delivered.,F,UI
+224,The system shall allow user to create profile and set his credential.,F,UI
+225,It must allow a user to login.,F,UI
+226,If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100,US,UI
+227,The text and time/date of a note that has been entered is displayed starting with most recent.,F,UI
+228,The product shall be easy for a realtor to learn.,US,UI
+229,The system shall use IBM and CCR branding standards. The interface must have one IBM logo and one CCR logo.,LF,UI
+230,The system shall allow the user to modify the date preference set of an already submitted meeting response.,F,UI
+231,The system shall be able to display a printable summary for individual clinical labs  which will include (but not be limited to) class name  class number  lab section  listing of students enrolled  instructor  day(s)  time  and location.,F,UI
+232,A surface computer shall not require a user to log in.,SE,UI
+233,The website will provide a help section with answers and solutions to common problems.,US,UI
+234,A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.,US,UI
+235,Responses to view information shall take no longer than 5 seconds to appear on the screen.,F,UI
+236,The product shall allow the user to select a chosen language from one of the target market countries.,US,UI
+237,The product shall display conference rooms according to search parameters.,F,UI
+238,The product must comply with the intranet page standards and requirements of ENET Securities. 95% of the product look & feel will be approved by the Architecture group  prior to implementation. The remaining 5% will be corrected and approved within one month of product release.,LF,UI
+239,The website should not contain any content that is offensive to religious or ethnic groups,LF,UI
+240,The Disputes System shall provide view access capability for authorized users of the application.,F,UI
+241,The website shall make its user aware of its information practices before collection data from them via a Privacy Policy  accessible on all pages of the website.,SE,UI
+242,The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members\92 planning purposes.,F,UI
+243,The system shall provide multi language support.,US,UI
+244,The system will support mobile users in some way.,PO,UI
+245,The system shall be able to display a printable summary of the system log.,F,UI
+246,An end-user may use this system on any OS; either it is Windows or Linux.,US,UI
+247,The system will fully function in major browsers.,PO,UI
+248,The system shall allow user to view detailed sitemap.,F,UI
+249,viewing a movie details the website will display the movies description actor and director entered in by the administrator.,F,UI
+250,The system should be simple to use,LF,UI
+251,The system shall allow user to update the profile information.,F,UI
+252,The appearance of the product shall appear professional,LF,UI
+253,Once a game is initiated  the product shall display an offensive grid to each player.,F,UI
+254,The system shall display the online help upon request.,F,UI
+255,Enable a logged in user to up vote and down vote answers.,F,UI
+256,The user shall select to view the preferred repair facility ratings.,F,UI

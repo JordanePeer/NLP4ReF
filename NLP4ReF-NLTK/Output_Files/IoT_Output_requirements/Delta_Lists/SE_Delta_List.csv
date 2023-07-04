@@ -1,0 +1,11 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The sensor devices should be scalable to support higher data resolution and accuracy as the system expands,SC,SE
+2,The system should allow for easy installation and setup of devices,US,SE
+3,The system should support automatic sensor discovery and configuration to simplify the process of adding new sensors to the network,SC,SE
+4,The sensor devices should provide real-time data streaming capabilities for immediate monitoring and analysis,LF,SE
+5,The system should have mechanisms to dynamically adjust the sampling rate and frequency of sensor readings based on changing requirements,SC,SE
+6,The system should provide real-time monitoring of device performance,MN,SE
+7,The sensor network should be scalable to support a wide range of environmental conditions and physical locations,SC,SE
+8,The system must be able to monitor the health and status of IoT devices in real-time,MN,SE
+9,The system shall have a comprehensive sensor inventory management system to track sensor installations replacements and maintenance,MN,SE
+10,The system should support the addition of new sensor types and models seamlessly  without requiring significant modifications,SC,SE

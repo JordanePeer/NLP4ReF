@@ -1,0 +1,41 @@
+Requirement Number,Requirement,System Class,FR/NFR Category
+1,The system should provide real-time monitoring of machine health to detect issues promptly,SE,MN
+2,The software should support integration with various sensors capable of capturing relevant machine data,SW,PO
+3, It should be capable of collecting and aggregating data from multiple sensors across different machines,DS,SC
+4,The system should offer intuitive and visually appealing dashboards to present machine health data,UI,LF
+5,The software should send proactive alerts and notifications in case of anomalies or potential failures,SW,FT
+6, It should leverage machine learning algorithms to provide predictive analytics for early detection of machine failures,SW,F
+7,"The system should allow remote access to machine health data, enabling monitoring from anywhere",DS,US
+8, It should store historical machine health data for trend analysis and long-term performance assessment,DS,F
+9,The software should be capable of integrating with existing factory management systems for seamless data exchange,SW,PO
+10,The system should be scalable to accommodate a growing number of machines and sensors in the factory,CO,SC
+11,Robust security measures should be implemented to protect the data and prevent unauthorized access,DS,SE
+12,"The software should leverage cloud computing for data storage, processing, and scalability",DS,SC
+13,"The system should have an intuitive and user-friendly interface, making it easy for operators to navigate and interact with the software",UI,US
+14,It should allow users to customize and configure dashboards according to their specific monitoring needs,UI,F
+15,"The software should provide advanced data analytics capabilities to identify patterns, correlations, and anomalies in machine health data",SW,PO
+16,The system should integrate with maintenance management systems to schedule and track maintenance activities based on machine health insights,SW,MN
+17,"The software should be compatible with mobile devices, enabling users to access machine health data on the go",SW,PO
+18, It should offer diagnostic tools to aid in identifying the root causes of machine failures or abnormalities,SW,LF
+19,The system should maintain comprehensive logs and audit trails of machine health data and user activities,DS,MN
+20,The software should provide APIs and support for easy integration with third-party applications and services,SW,PO
+21,The system should have a minimum uptime of 99% to ensure continuous monitoring of machine health,SW,SC
+22,"The software should have a mean time between failures (MTBF) of at least 10,000 hours to minimize system downtime",SW,A
+23,"The system should support a minimum of 10,000 connected machines simultaneously without significant degradation in performance",SW,PE
+24,The software should provide real-time data updates with a maximum response time of 500 milliseconds,SW,PE
+25,"The system should be able to handle a minimum of 1,000 sensor data updates per second for efficient data processing",DS,SC
+26,The software should support a minimum of 1 terabyte (TB) of data storage for long-term machine health data retention,DS,PO
+27,The system should retain machine health data for a minimum of 5 years to facilitate historical analysis,DS,MN
+28,The software should achieve a minimum compression ratio of 10:1 to optimize storage space and reduce bandwidth requirements,DS,US
+29,The system should use Advanced Encryption Standard (AES) with a minimum key length of 256 bits to secure data transmission and storage,DS,US
+30,The software should operate efficiently within a maximum bandwidth consumption of 1 megabit per second (Mbps) per connected machine,SW,PO
+31,The system should support a minimum of 95% of commonly used industrial sensors and IoT devices available in the market,CO,A
+32,The software should have a maximum MTTR of 2 hours to minimize downtime in case of system failures,SW,A
+33,The system should achieve a minimum accuracy rate of 95% in detecting machine health issues and anomalies,SE,PE
+34,The software should provide measurements with a minimum precision of 0.1% to ensure accurate machine health monitoring,SW,MN
+35,The system should be capable of handling a minimum of 500 concurrent user requests without significant performance degradation,SW,PE
+36,"The software should be compatible with at least 90% of commonly used operating systems, including Windows, Linux, and macOS",SW,PO
+37,The system should support software updates with a maximum frequency of once per month to ensure stability and compatibility,SW,A
+38,The software should have a maximum MTTD of 30 minutes to rapidly identify machine health issues,SW,MN
+39,"The system should be interoperable with standard industrial protocols such as OPC UA, MQTT, and Modbus for seamless integration with other factory systems",CO,LF
+40,The software should have a minimum of 2 redundant servers to ensure high availability and fault tolerance,SW,SC

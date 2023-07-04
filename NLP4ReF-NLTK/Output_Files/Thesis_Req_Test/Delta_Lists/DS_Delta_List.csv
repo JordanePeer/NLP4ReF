@@ -1,0 +1,3 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The RFS system should be able to easily interface with the BDW environment  in order to load the data. \95	7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year. The data will be as of October month-end. 	Test files (7) shall be loaded up to 5 times throughout the year  from the BDW.,O,DS
+2,The system shall store fault logs and error reports for troubleshooting and maintenance purposes,F,DS

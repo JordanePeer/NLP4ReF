@@ -1,0 +1,2 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system should support automatic sensor discovery and configuration to simplify the process of adding new sensors to the network,SC,SE

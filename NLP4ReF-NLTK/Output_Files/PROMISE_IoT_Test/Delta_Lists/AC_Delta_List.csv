@@ -1,0 +1,201 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The actuator shall have redundant actuation mechanisms to ensure fault tolerance and reliable operation,FT,AC
+2,The system should have a mechanism for automatic failover in case of system failure,FT,AC
+3,The system shall include actuators to control the movement of motors,O,AC
+4,Actuator devices must have mechanisms to detect and report physical tampering attempts.,SE,AC
+5,The actuator modules should have built-in safety features to prevent damage or accidents during operation,US,AC
+6,The actuator should have built-in safety features to prevent damage or injury during operation,US,AC
+7,The system shall include a valve actuator that regulates the flow of water in irrigation systems,F,AC
+8,The actuator devices should have the ability to scale their actuation precision and response time based on changing system requirements,SC,AC
+9,The actuator mechanisms shall have modular designs to facilitate easy replacement and maintenance,MN,AC
+10,The system should provide secure and reliable firmware updates to all devices,F,AC
+11,The actuators used in the IoT system shall comply with safety regulations to prevent harm or injury to users,L,AC
+12,The system shall include an actuator that adjusts the tilt angle of solar panels for optimal energy capture,O,AC
+13,The system shall include actuators to regulate the flow of liquids,O,AC
+14,The system should have a mechanism to replace failed devices easily,MN,AC
+15,The pump actuator shall be available 24/7 to control liquid flow,A,AC
+16,The system shall store firmware and software updates for remote device management and updates,F,AC
+17,The system shall include actuators to control the movement of drones,O,AC
+18,The system should have the ability to gracefully handle power outages and other disruptions,SC,AC
+19,The actuator devices should support bidirectional communication for synchronization with other IoT components,PO,AC
+20,The actuator devices shall implement mechanisms to verify the integrity and authenticity of received commands.,SE,AC
+21,The actuator devices shall enforce strict access controls to limit physical access and prevent tampering.,SE,AC
+22,The actuator's movement or action should be visually represented on the interface,LF,AC
+23,The actuator system should be capable of controlling a growing number of actuators without significant delays or performance degradation,SC,AC
+24,The system should have a mechanism for the users to update device configurations easily,MN,AC
+25,The system shall include an automatic door opener/closer that operates based on the proximity of individuals,O,AC
+26,The system shall include a firmware update mechanism for remotely updating IoT device software,O,AC
+27,The system should have the ability to remotely turn off or restart devices,O,AC
+28,The damper actuator shall be available 24/7 to control air flow,A,AC
+29,The system shall include an actuator for controlling the opening and closing of windows in a smart home,O,AC
+30,The system should provide fault-tolerance mechanisms to ensure continuous actuator operation and minimize downtime,SC,AC
+31,The system should have a mechanism for automatically updating device firmware,MN,AC
+32,The system should provide secure firmware upgrades for all servers,F,AC
+33,The actuator shall provide real-time feedback on its operational status to detect faults or malfunctions,FT,AC
+34,The actuator devices shall have mechanisms to detect and prevent unauthorized access or control.,SE,AC
+35,The actuator system should be scalable to control a diverse range of actuator devices including different power ratings and physical configurations,SC,AC
+36,The system should support device-level power management for increased energy efficiency,MN,AC
+37,Sensors should be tamper-proof to prevent unauthorized physical access.,SE,AC
+38,The system's actuator should have a fail-safe mechanism that prevents unauthorized access to data,US,AC
+39,The motor actuator shall achieve a torque of 10 Nm,PE,AC
+40,The actuator devices shall log and timestamp all command executions for auditing and accountability purposes.,SE,AC
+41,Actuator firmware should be regularly updated to patch security vulnerabilities.,SE,AC
+42,The system shall include an actuator for adjusting the temperature and humidity levels in a climate control system,O,AC
+43,The system shall include valve actuators to regulate the flow of liquids or gases in industrial systems,F,AC
+44,The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.,A,AC
+45,The actuator devices shall have mechanisms to authenticate and authorize commands from the central control system.,SE,AC
+46,The system should have a mechanism to troubleshoot device problems remotely,O,AC
+47,The actuator should have low power consumption to optimize energy efficiency,US,AC
+48,The system should have the ability to prevent malware infections from future devices,SC,AC
+49,The system shall include actuators to control the position of robotic arms,O,AC
+50,The system shall include actuators to adjust the angle of solar panels,O,AC
+51,The system should have a mechanism for managing and configuring device permissions,MN,AC
+52,The actuator devices should have fail-safe mechanisms to handle unexpected errors or malfunctions,US,AC
+53,The system shall include a motorized gate actuator for secure access control in residential or commercial premises,F,AC
+54,The actuator shall have redundant mechanisms to ensure fault tolerance and continuous operation,FT,AC
+55,The system shall include actuators to control the movement of robotic vehicles or drones,O,AC
+56,The actuator's motion should be reversible to allow for both opening and closing actions,US,AC
+57,The actuator devices shall have mechanisms to prevent unauthorized modification or replacement of critical components.,SE,AC
+58,The system should be able to provide secure over-the-air updates,MN,AC
+59,The actuators must be highly configurable for use with various database management systems for the end users,MN,AC
+60,The system shall provide automated actuator maintenance routines to periodically inspect and maintain actuator mechanisms,MN,AC
+61,The actuator shall have failover mechanisms to switch to backup actuators in case of actuator failures,FT,AC
+62,The valve actuator shall be available 24/7 to control fluid flow,A,AC
+63,The actuator modules should support configurable control parameters for flexible adaptation to various scenarios,US,AC
+64,The actuator should have a self-locking mechanism to maintain position without continuous power supply,US,AC
+65,The actuator devices should support various types of physical actions such as motor control valve operation and switch activation,PO,AC
+66,The actuator should be able to handle different load capacities based on specific use cases,US,AC
+67,The system shall include door lock actuators that can be locked and unlocked remotely,O,AC
+68,The actuator shall respond to control signals within 50 milliseconds,PE,AC
+69,The system should support remote device management,O,AC
+70,The system shall include actuators to turn on and off electrical devices,O,AC
+71,The actuator shall have fail-safe mechanisms to prevent hazardous or unintended actions in case of failure,FT,AC
+72,The actuator modules should support synchronized actions for coordinated operations in a network,SC,AC
+73,The valve actuator shall open or close within 1 second of receiving a control signal,PE,AC
+74,The system shall include CO2 sensors to measure carbon dioxide levels,O,AC
+75,The actuator shall have self-monitoring capabilities to detect and report actuator failures,FT,AC
+76,The actuator shall provide a linear motion with a speed of 1 meter per second,PE,AC
+77,The system shall include a robotic arm for performing pick and place operations in a warehouse or manufacturing setting,F,AC
+78,The actuator shall have fail-safe mechanisms to prevent unintended actions in case of failure,FT,AC
+79,The system should have the ability to automatically adjust device settings based on environmental conditions,MN,AC
+80,The system should provide fault detection and recovery mechanisms to ensure continuous actuator operation in the event of failures or malfunctions,SC,AC
+81,When a shot is marked as a miss  the product shall simulate the sound of a shot missing its target.,LF,AC
+82,The system should have the ability to update device firmware remotely,MN,AC
+83,The actuator's controls and indicators should be easily accessible and understandable,US,AC
+84,The system should provide secure firmware updates,F,AC
+85,The actuator should rotate a motor at a speed of 1000 RPM,US,AC
+86,The actuator's casing should be resistant to dust moisture and other environmental factors,LF,AC
+87,The actuator's controls should be intuitive and require minimal effort to use,LF,AC
+88,The actuator's casing should be tamper-proof and secure against unauthorized access,LF,AC
+89,The actuators used in the IoT system shall meet safety standards to prevent injury or damage during operation,L,AC
+90,The actuator should have low power consumption during standby or idle modes,US,AC
+91,The system shall include actuators to control the movement of robotic arms in manufacturing processes,O,AC
+92,The actuator should have an ergonomic design for easy handling and operation,LF,AC
+93,The system should provide secure firmware storage,F,AC
+94,The actuator should have a durable and corrosion-resistant construction for long-term reliability,US,AC
+95,The IoT devices shall conform to regulations regarding actuator energy efficiency and power consumption,US,AC
+96,The actuator system should have mechanisms in place to manage and coordinate the synchronization of multiple actuator devices,SC,AC
+97,The system shall include actuators to adjust the intensity of lights,O,AC
+98,The system should allow for secure firmware verification and validation,F,AC
+99,The system should have a mechanism to prevent 1000 simultaneous replay attacks,SC,AC
+100,The system shall include actuators to adjust the position of tracking systems for solar panels,O,AC
+101,The actuator should have a high degree of reliability to ensure consistent performance over time,US,AC
+102,The system should provide alerts for abnormal device or actuators behavior,MN,AC
+103,The system shall include a smart lock actuator that can be controlled remotely using a mobile application,F,AC
+104,The actuator devices shall have fail-safe mechanisms to prevent unintended actions or malfunctions.,SE,AC
+105,The actuator modules should support standard communication protocols for seamless integration,PO,AC
+106,The actuator's power consumption should be minimized to conserve energy,US,AC
+107,The actuator devices shall only respond to commands from authorized sources.,PE,AC
+108,The actuator devices shall have mechanisms to detect and prevent replay attacks or unauthorized command execution.,SE,AC
+109,The actuator devices should provide backward compatibility with legacy control systems or protocols,US,AC
+110,The system should support the integration of new actuator types and functionalities without impacting existing actuator operations,SC,AC
+111,The system should have the ability to customize and configure device behavior,MN,AC
+112,The actuator system should be capable of handling complex actuation scenarios involving hierarchical control and feedback loops,SC,AC
+113,The actuator devices should be compatible with different IoT platforms,PO,AC
+114,The system shall include an irrigation system actuator that adjusts water flow based on weather conditions,F,AC
+115,The actuator shall have redundant control mechanisms to ensure fault tolerance in case of control system failures,FT,AC
+116,The system should have a backup power source to maintain functionality during power outages,FT,AC
+117,The system software should be able to provide secure firmware updates to devices in the field,MN,AC
+118,The actuator should have precise positioning or control capabilities for accurate and fine-grained actions,US,AC
+119,The actuator devices should provide reliable and precise control over physical actions,LF,AC
+120,When a ship is sunk  the product shall simulate the sound of a sinking ship.,LF,AC
+121,The system shall include an actuator for controlling the flow of liquid or gas in an industrial process,O,AC
+122,The actuator devices should have built-in fault detection and recovery mechanisms for enhanced reliability,PO,AC
+123,The actuator devices shall have physical locks or access control mechanisms to prevent unauthorized physical access.,SE,AC
+124,Actuators must implement strong access control measures to restrict unauthorized access.,SE,AC
+125,The actuator shall have a minimum lifespan of 100000 cycles,PE,AC
+126,The system should implement secure firmware updates for all devices,F,AC
+127,The system shall include a motorized lock system for secure access control in smart buildings,F,AC
+128,The system shall include actuators to turn on the emergency lights,O,AC
+129,The motor actuator shall be available 24/7 to control mechanical movement,A,AC
+130,The system shall adhere to noise emission regulations related to actuator operations,L,AC
+131,The system shall include motorized curtains that can be opened or closed automatically based on ambient light levels,F,AC
+132,The system should have a mechanism to ensure that firmware updates are securely deployed,SE,AC
+133,The actuator devices shall have mechanisms to enforce safe operating limits and prevent actions that could result in harm or damage.,SE,AC
+134,The actuator shall support predictive maintenance to detect early signs of actuator degradation or impending failures,FT,AC
+135,The actuator devices should have the ability to scale their precision and response time based on the system's growing needs,SC,AC
+136,The actuator's motion or action should be smooth and precise  providing low noise disturbance,LF,AC
+137,The actuator devices shall have mechanisms to securely communicate status updates or feedback to the central control system.,SE,AC
+138,The system should have the ability to monitor and optimize energy consumption,A,AC
+139,The system shall include actuators to adjust the position of adjustable furniture or fixtures,O,AC
+140,The system shall include actuators to adjust the position of blinds or curtains,O,AC
+141,The actuator devices shall enforce strong authentication and authorization mechanisms to prevent unauthorized control or manipulation.,SE,AC
+142,The system should be able to encrypt all data transmitted between the gateway and actuator devices,F,AC
+143,The system's devices should be designed with redundancy to prevent single points of failure,FT,AC
+144,The system shall include motorized blinds that can be controlled remotely for adjusting sunlight,F,AC
+145,The system shall include actuators to adjust the position of surveillance cameras,O,AC
+146,The actuator modules should offer real-time feedback on the status of physical actions for monitoring purposes,LF,AC
+147,The IoT devices shall conform to safety regulations for actuator control and maintenance procedures,L,AC
+148,The actuator devices should be scalable to handle larger loads or more complex physical actions as the system expands,SC,AC
+149,The system shall include weight sensors to measure the weight of objects or containers,O,AC
+150,The actuator devices should support bidirectional communication to receive feedback on their actions,PO,AC
+151,When the offensive player takes a shot  the product shall simulate the sound of a ship at sea.,LF,AC
+152,The actuator modules should have configurable settings for adjustable actuation parameters,US,AC
+153,The solenoid actuator shall be available 24/7 to control fluid or gas flow,A,AC
+154,The system should be able to dynamically allocate resources to actuator devices based on changing operational demands,SC,AC
+155,The system must have a fail-safe mechanism in place to prevent unauthorized access to critical devices or systems,FT,AC
+156,The system should warn ECA users about the malfunction of the system.,FT,AC
+157,The system shall provide mechanisms for actuator self-diagnosis and reporting of any malfunctions or failures,US,AC
+158,The system should provide a mechanism for users to control and customize device settings,MN,AC
+159,The valve actuator shall open or close a valve within 2 seconds,PE,AC
+160,The actuator devices should be scalable to handle more complex and diverse physical actions as the system grows,SC,AC
+161,The actuator shall provide real-time status feedback to detect actuator faults or deviations from expected behavior,PE,AC
+162,The actuator should open or close a valve within 2 seconds of receiving a signal,US,AC
+163,The actuator's motion or action should be smooth quiet and precise,LF,AC
+164,The system should have the ability to provide remote firmware updates,MN,AC
+165,The actuator devices shall implement mechanisms to prevent unauthorized firmware or software updates.,SE,AC
+166,The actuator shall be capable of adjusting its position within 5 milliseconds,PE,AC
+167,The system shall include motorized blinds that adjust their position based on the intensity of sunlight,F,AC
+168,The actuator devices shall have built-in redundancy to ensure continuous operation in case of device failure.,FT,AC
+169,The system should have the ability to automatically update device firmware and security patches,MN,AC
+170,The IoT devices shall comply with regulations for energy consumption and efficiency,L,AC
+171,The actuator devices shall log and report all actions performed for auditing and accountability purposes.,SE,AC
+172,The system should have a mechanism for alerting users to device malfunctions or failures,MN,AC
+173,The actuator should have a compact size for easy integration into various devices or systems,US,AC
+174,The fan actuator shall be available 24/7 to control air flow,A,AC
+175,The servo actuator shall be available 24/7 to control precise movement,A,AC
+176,The system should have a mechanism to recover from system crashes,FT,AC
+177,The system should be able to dynamically allocate resources and prioritize actuator actions based on real-time demands,LF,AC
+178,The actuator shall move with a precision of 1 millimetre,PE,AC
+179,The system shall include actuators to adjust the position of mirrors in solar power systems,O,AC
+180,The actuator devices shall have mechanisms to detect and prevent signal interference or jamming.,SE,AC
+181,The actuator should have a failsafe mechanism to prevent accidental or unauthorized operations,US,AC
+182,The system shall include actuators to lock the doors,O,AC
+183,The actuator shall withstand environmental conditions such as temperature and humidity variations,PE,AC
+184,The system shall include actuators to control the movement of robotic arms,O,AC
+185,The actuator shall have redundant control signals to ensure fault tolerance,FT,AC
+186,The product shall comply with regulations governing the energy efficiency of actuator devices,L,AC
+187,The system shall include a motorized camera system for tracking and monitoring movements in a surveillance application,F,AC
+188,The product shall simulate the look of ships at sea.,LF,AC
+189,The actuator should provide feedback signals to confirm successful execution of actions,US,AC
+190,The system should support firmware rollback in case of failure,F,AC
+191,The system should support dynamic actuator grouping and orchestration to perform coordinated actions across multiple devices,SC,AC
+192,The actuator system should be scalable to support complex actuation scenarios involving interactions between multiple actuators and sensors,SC,AC
+193,The actuator should have low noise emission to minimize disruption in noise-sensitive environments,US,AC
+194,The system should have a mechanism for automatic failover in case of network failure,FT,AC
+195,The system should be able to recover from failures without human intervention,MN,AC
+196,The system shall include an actuator for adjusting the angle and position of solar panels for maximum energy production,O,AC
+197,Actuator devices must implement secure communication protocols to receive commands.,SE,AC
+198,The actuator should provide feedback on its current position or status,US,AC
+199,The actuator shall have self-diagnostic capabilities to detect and report actuator malfunctions or performance issues,PE,AC
+200,The actuator devices shall have mechanisms to detect and report abnormal or unexpected actuator behavior.,SE,AC

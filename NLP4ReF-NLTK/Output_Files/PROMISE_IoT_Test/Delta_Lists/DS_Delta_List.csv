@@ -1,0 +1,311 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system shall store sensor data in a structured database for further analysis,O,DS
+2,The system should support easy migration of data between different storage systems,PO,DS
+3,The data storage system shall have mechanisms to securely delete or dispose of data when no longer needed.,SE,DS
+4,The data storage system shall enforce access controls and role-based permissions to restrict data access.,SE,DS
+5,Data storage systems must implement strong encryption mechanisms to protect data at rest.,SE,DS
+6,Data backups should be performed regularly to ensure data availability and recovery in case of failures.,SE,DS
+7,The system should have a mechanism to ensure compliance with data protection and privacy laws,L,DS
+8,The system should provide users with the ability to recover data in case of system failure,FT,DS
+9,The product shall prevent its data from incorrect data being introduced.,SE,DS
+10,The audit report shall include the percentage of available recycled parts used in the estimate ,F,DS
+11,The data storage system shall have mechanisms to detect and prevent unauthorized data modifications or deletions.,SE,DS
+12,The system shall provide data compression techniques to optimize storage utilization,PE,DS
+13,The product shall record meeting entries.,F,DS
+14,The system should have data integrity checks to ensure the accuracy and consistency of stored data,US,DS
+15,The data server should be able to recover from power outages or other disruptions,FT,DS
+16,The data storage system should support data partitioning and sharding for efficient data distribution and retrieval,PO,DS
+17,The data storage interface should have an organized and visually appealing layout,LF,DS
+18,The data storage system shall have mechanisms to ensure data integrity and prevent data corruption.,SE,DS
+19,It should give a drill-down view of all data in the medical record after logging in.,LF,DS
+20,The data storage system should ensure data redundancy and fault tolerance to prevent data loss in case of failures,PO,DS
+21,The system shall support data replication across multiple storage nodes for data redundancy,O,DS
+22,The data storage interface should offer advanced search and filtering capabilities,LF,DS
+23,The data storage system should provide efficient indexing and querying mechanisms for quick data retrieval,PO,DS
+24,The system should have the ability to handle different data storage options,F,DS
+25,The System shall be able to automatically backup business data and restore them on demand.,O,DS
+26,The system should have scalable storage capacity to accommodate increasing data volumes over time,US,DS
+27,The system shall comply with data protection regulations for the secure storage and handling of user data,L,DS
+28,The system should have the ability to limit the amount of data transmitted between devices,SC,DS
+29,"The data storage system shall have mechanisms to detect and mitigate database vulnerabilities, such as injection or privilege escalation attacks.",SE,DS
+30,The system shall store inventory data for real-time tracking and automated restocking,F,DS
+31,The data server shall implement data compression techniques to optimize storage efficiency,O,DS
+32,The system shall support data retrieval with a latency of less than 500 milliseconds,PE,DS
+33,The IoT system should enable data synchronization between cloud-based and on-premises infrastructures,PO,DS
+34,The system shall store firmware updates for devices to enable remote software upgrades,F,DS
+35,The device shall be able to store data on a tape drive,A,DS
+36,The system shall provide data archival capabilities for long-term storage,O,DS
+37,The data storage interface should provide comprehensive search and retrieval functionalities,LF,DS
+38,The system shall store video surveillance footage in a secure cloud storage for later analysis,F,DS
+39,The device should allow users to export data in common formats CSV  or Excel for further analysis,US,DS
+40,The device shall be able to store data in a NoSQL database for flexible data storage,A,DS
+41,The data retrieval time for historical records shall be less than 1 second,PE,DS
+42,The system shall comply with regulations governing the use of biometric data in authentication processes,L,DS
+43,The system provides storage of all databases on redundant computers with automatic switchover.,O,DS
+44,The system should maintain correct schedules of labs and the documentation of all the lab equipment.,F,DS
+45,The data storage system shall have error correction and integrity checking mechanisms to ensure data reliability,FT,DS
+46,The system should comply with all relevant data protection laws and regulations,L,DS
+47,If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30,US,DS
+48,It must store the most recent copy of information in its application data folder.,F,DS
+49,The data storage system should support data migration between different storage platforms without data loss,PO,DS
+50,The system should be able to handle a large number of concurrent users,SC,DS
+51,The system shall support integration with popular cloud platforms (eg AWS Azure) for data storage and analysis,O,DS
+52,The system should be able to encrypt all data stored on the network,F,DS
+53,The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.,MN,DS
+54,The system shall store location data in a geodatabase for geospatial analysis and tracking applications,F,DS
+55,The system should support data partitioning and sharding techniques to distribute data across multiple storage nodes for improved scalability,SC,DS
+56,The system must be quickly accessible by both managers and chefs.,US,DS
+57,The system should be able to handle multiple types of sensors and data formats,SC,DS
+58,The data storage interface should have an organized and user-friendly layout for easy access and retrieval of stored data,LF,DS
+59,The system shall store sensor data in a cloud-based database for historical analysis,O,DS
+60,The IoT system should support different data storage technologies  including cloud storage and local databases,PO,DS
+61,The device should provide data backup and restoration mechanisms for seamless recovery,US,DS
+62,The data storage solution shall provide redundancy and fault tolerance for data integrity,PE,DS
+63,The data storage system shall have access controls to restrict data access based on user roles and permissions.,SE,DS
+64,The system shall store sensor data in a time-series database for efficient retrieval and analysis,O,DS
+65,The system should comply with data privacy and security regulations,L,DS
+66,The system communications must comply with all relevant data protection laws and regulations,L,DS
+67,The system should have a mechanism for managing and securing users access to sensitive data,SE,DS
+68,The system shall store health monitoring data in a HIPAA-compliant database for secure storage and access,F,DS
+69,The system shall store energy consumption data for energy monitoring and optimization,F,DS
+70,Keep track of each product item's stocks for selling purpose.,F,DS
+71,The system's data server should be able to handle a large number of concurrent users without affecting performance,PE,DS
+72,The system should be able to manage all the information incoming from the database and the catalogue.,O,DS
+73,The system should be able to handle large amounts of data generated by sensors and devices,SC,DS
+74,The data storage settings should allow users to define retention policies for data archiving,LF,DS
+75,The data storage system shall have regular data backups to prevent data loss in case of system failure.,FT,DS
+76,The data servers should comply with all relevant legal and licensing requirements for data privacy and security,L,DS
+77,"The RFS system should be able to easily interface with the BDW environment  in order to load the data. \95	7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year. The data will be as of October month-end. 	Test files (7) shall be loaded up to 5 times throughout the year  from the BDW.",O,DS
+78,The data storage system should be scalable to support real-time analytics and decision-making based on streaming IoT data,SC,DS
+79,The system shall provide backup and recovery mechanisms for data resilience,O,DS
+80,The system should support automatic data synchronization across multiple storage locations,LF,DS
+81,All the passwords that are generated or accepted must be stored in database in an encrypted form.,SE,DS
+82,The system should support data archiving and retention policies for compliance and regulatory purposes,US,DS
+83,The data storage system shall perform regular data backups to prevent data loss in case of failure,FT,DS
+84,The device should encrypt stored data to ensure data security,US,DS
+85,The system shall support data synchronization between edge devices and cloud storage,O,DS
+86,The device should have efficient data compression algorithms to optimize storage space utilization,US,DS
+87,The system should provide efficient data indexing and retrieval mechanisms for quick data access,US,DS
+88,It must only update the parts that have changed when connecting to the server.,O,DS
+89,The data storage system shall provide automatic recovery and self-healing capabilities in case of failures,FT,DS
+90,The system should have the ability to recover from cyberattacks quickly and efficiently,FT,DS
+91,The system shall adhere to data retention requirements specified by applicable laws and regulations,L,DS
+92,The product shall comply with regulations governing the secure storage and encryption of sensitive data,L,DS
+93,The system shall integrate with big data platforms for processing and analysis of large datasets,O,DS
+94,The product shall record the transportation status of equipment reserved.,F,DS
+95,The system shall store fault logs and error reports for troubleshooting and maintenance purposes,F,DS
+96,The device shall be able to store data locally,A,DS
+97,The system should have a mechanism to ensure data is only collected for valid purposes,L,DS
+98,The system must ensure data privacy and confidentiality by encrypting all data transmissions,US,DS
+99,The product shall record different meeting types.,F,DS
+100,The system shall implement data archiving and purging mechanisms to optimize storage capacity and performance,MN,DS
+101,The audit report shall be available to other adjusters at later points in time.,A,DS
+102,The product shall be able to store new room equipment.,F,DS
+103,The system shall store sensor data in a distributed database for high scalability and fault tolerance,O,DS
+104,The system should comply with all relevant data protection and privacy laws and regulations,L,DS
+105,The data storage system should support data anonymization and privacy preservation techniques,PO,DS
+106,The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes.,SE,DS
+107,The system should support data encryption at rest to ensure data privacy and confidentiality,US,DS
+108,The system's data servers should comply with standard and regulatory requirements,L,DS
+109,The system shall adhere to data retention and deletion regulations including the ability to anonymize or delete user data upon request,L,DS
+110,The data storage system shall enforce secure logging and auditing mechanisms to track data access and modifications for forensic purposes.,SE,DS
+111,All credit card information will be secured on the server  and only accessible by authorized Izogn administrators.  Information will be encrypted in the database.,SE,DS
+112,A secondary database will be used to store historical statistics and data.,O,DS
+113,The data storage system should support data replication and synchronization across multiple geographically distributed locations,PO,DS
+114,One insurance company shall not be able to view another insurance companys claim data.,SE,DS
+115,The data storage system should have built-in data backup and disaster recovery mechanisms for data protection,PO,DS
+116,The device shall be able to store sensor data in a time-series database,A,DS
+117,The data server shall have a backup power supply to sustain operations for 5 minutes during prolonged power outages,A,DS
+118,The system should have a mechanism to ensure data is only retained for a valid duration,L,DS
+119,The device shall be able to store data in a fault-tolerant distributed file system,A,DS
+120,The audit report shall include the total number of recycled parts used in the estimate.,F,DS
+121,The data storage system shall have automated backup and restore processes to prevent data loss and facilitate recovery,MN,DS
+122,The data server shall implement data lifecycle management for efficient data handling,O,DS
+123,The data storage system shall implement strong encryption algorithms to protect data at rest.,SE,DS
+124,The data storage system shall have automated data recovery procedures to restore data integrity in case of storage failures,FT,DS
+125,The data storage system should provide data synchronization features for seamless data replication across multiple locations,PO,DS
+126,The data server shall support data replication for fault tolerance and high availability,O,DS
+127,The system shall store sensor data in a centralized database with a response time of less than 100 milliseconds,PE,DS
+128,The system should be fault-tolerant with the ability to automatically detect and recover from failures,FT,DS
+129,The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.,SE,DS
+130,The data storage system should scale horizontally to accommodate exponential data growth without sacrificing performance,SC,DS
+131,The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.,SC,DS
+132,The data storage system should scale vertically and horizontally to handle the growing volume and variety of IoT data,SC,DS
+133,The system should have the ability to scale vertically to handle more data,SC,DS
+134,The data storage system should be scalable across multiple storage tiers including edge cloud and hybrid storage architectures,SC,DS
+135,The system should have the ability to automatically back up data and configurations,MN,DS
+136,The system shall provide data purging mechanisms to manage storage space,O,DS
+137,The data server should have a backup and recovery plan in case of security breaches,FT,DS
+138,The data storage system should be scalable to accommodate large volumes of sensor data,PO,DS
+139,The data storage system shall have data replication mechanisms for fault tolerance,FT,DS
+140,The system shall store health monitoring data in a HIPAA-compliant cloud storage service for privacy and compliance,F,DS
+141,The system should have mechanisms for data replication and synchronization to ensure data integrity and fault tolerance,SC,DS
+142,The data storage system should support scalable and distributed storage architectures for handling large volumes of sensor data,PO,DS
+143,The data storage system shall implement backup and disaster recovery mechanisms to ensure data availability and integrity.,SE,DS
+144,The product shall adhere to regulations governing the use of personal data and privacy rights,L,DS
+145,The data server shall facilitate data retrieval and query capabilities,O,DS
+146,The system should have robust data backup and recovery mechanisms to prevent data loss,US,DS
+147,The system data storage must comply with all relevant data protection laws and regulations,L,DS
+148,The data storage solution should provide mechanisms for efficient data indexing and retrieval to enable fast and scalable data querying,SC,DS
+149,The system shall implement data aggregation techniques to reduce storage requirements,O,DS
+150,Data storage systems must have mechanisms to detect and prevent unauthorized access or modification.,SE,DS
+151,The data backup process shall be completed within 1 hour to ensure data integrity,PE,DS
+152,The system shall store energy consumption data in a blockchain-based ledger for transparency and auditability,F,DS
+153,The system's software should be able to handle large volumes of data with low latency,PE,DS
+154,The system shall store energy consumption data in a centralized database for billing and energy management purposes,F,DS
+155,Sensors should have mechanisms to detect and prevent data tampering or spoofing.,SE,DS
+156,The data storage system shall have mechanisms to detect and prevent unauthorized data exfiltration or leakage.,SE,DS
+157,The system must be able to handle large amounts of data collected from multiple sensors,SC,DS
+158,The system shall store sensor data in a time-series database for efficient querying,O,DS
+159,The system should provide real-time visualization of data storage capacity and usage,LF,DS
+160,The system shall implement data compression techniques to optimize storage efficiency,O,DS
+161,The data storage solution should provide advanced indexing and query optimization techniques for efficient data retrieval at scale,SC,DS
+162,The data server shall ensure data integrity and reliability through backup mechanisms,O,DS
+163,The data storage system shall have mechanisms to encrypt sensitive data during transmission or synchronization between storage nodes.,SE,DS
+164,The data servers should be able to limit the amount of data each device can send or receive to prevent denial-of-service attacks,PE,DS
+165,The system should be able to handle increasing computational requirements as the number of connected devices and data volume grow,SC,DS
+166,The recycled parts audit report shall be returned to the user within 10 seconds.  The audit report shall be returned within 10 seconds.,F,DS
+167,"The data storage system shall implement mechanisms to detect and prevent unauthorized data access, modification, or deletion.",SE,DS
+168,It must be able to change and update information on the server.,O,DS
+169,A primary database will be used to store cached data for active users.,O,DS
+170,The system should provide users with the ability to delete their data,MN,DS
+171,The system shall store geolocation data in a geospatial database for mapping and location-based services,O,DS
+172,Keep track of all the payment transactions made by the customers and update the payment information.,F,DS
+173,The data storage interface should have visually appealing data visualization and charting options,LF,DS
+174,The system shall store sensor data in a structured database for future analysis,O,DS
+175,The system shall provide data deduplication and compression techniques to optimize storage capacity and reduce maintenance efforts,MN,DS
+176,The system shall provide data encryption at rest to ensure data security,PE,DS
+177,The system should handle an increasing number of sensor data streams without impacting real-time data processing and analysis,SC,DS
+178,The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users,MN,DS
+179,The device shall be able to store data in a relational database for structured data storage,A,DS
+180,The device shall be able to store data on a USB drive,A,DS
+181,The data storage system shall have secure access logs to track and monitor data access activities.,SE,DS
+182,The product shall ensure that the database\92s data corresponds to the data entered by the user.  Each conference room reservation in the system will contain the same information as was entered by the user.,SE,DS
+183,The data storage system shall comply with applicable data protection and privacy regulations.,SE,DS
+184,The data storage system shall have backup power and uninterruptible power supply (UPS) to prevent data loss during power outages,FT,DS
+185,The system should be able to handle multiple types of data including structured and unstructured data,SC,DS
+186,The data storage system shall enforce secure protocols for data transfer and synchronization between storage nodes.,SE,DS
+187,The audit report shall include the number of available recycled parts from the original search results.,F,DS
+188,The data servers should have the ability to automatically restart in case of system failure,FT,DS
+189,The system should be able to handle large amounts of data without sacrificing performance,SC,DS
+190,The system should have the ability to store large volumes of data,PE,DS
+191,Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.,O,DS
+192,The software shall have a backup and restore mechanism to recover data in case of data loss or corruption,A,DS
+193,The system shall store energy consumption data in a centralized database for historical analysis and reporting,F,DS
+194,The data storage system should have mechanisms for data compression and deduplication to optimize storage resources,SC,DS
+195,Secure protocols and mechanisms should be used for transferring data to and from storage systems.,SE,DS
+196,The system should have real-time data replication or synchronization for data redundancy and disaster recovery,US,DS
+197,The IoT system shall adhere to encryption standards and protocols for protecting stored data,L,DS
+198,User passwords will be stored in the database in an encrypted format.,SE,DS
+199,Data retention and deletion policies should be implemented to comply with privacy regulations.,SE,DS
+200,The system should support real-time data ingestion and processing to handle the increasing velocity of incoming data streams,SC,DS
+201,The device should support cloud storage services for backup and remote access,US,DS
+202,The device shall be able to store data in a geographically distributed storage system,A,DS
+203,The system must have a mechanism to prevent data loss during power outages,A,DS
+204,The system shall conform to regulations regarding data backup disaster recovery and business continuity,MN,DS
+205,The product shall retain the customer\92s buying preferences and information.,US,DS
+206,The system shall store historical sensor data for a minimum of 5 years,PE,DS
+207,The system should implement data backup and disaster recovery mechanisms,MN,DS
+208,The data storage system shall have built-in redundancy and fault-tolerant features to ensure data integrity and availability,FT,DS
+209,The data storage system should provide data indexing and querying capabilities for fast and flexible data retrieval,PO,DS
+210,The device should support data retrieval and analysis for historical data trends,US,DS
+211,The system should have the ability to handle different types of data,F,DS
+212,The system shall store health data from wearable devices for personal health tracking,F,DS
+213,The system shall accommodate large data items without fault.,FT,DS
+214,The audit report shall include the total score of the audit which sums the indivual line items.,F,DS
+215,Data storage systems must have built-in mechanisms for data integrity checks.,PO,DS
+216,The system shall include data analytics capabilities for identifying patterns and insights from sensor data,O,DS
+217,The IoT sensors shall have local storage capabilities to store and forward data during network outages,O,DS
+218,The system should be able to encrypt all data transmitted between sensors and the gateway,F,DS
+219,The audit report shall be displayed to the user.,F,DS
+220,The system shall allow data retrieval and query capabilities for user access,O,DS
+221,The device shall be able to store data in a secure encrypted format,A,DS
+222,The software shall support automated backups and replication to prevent data loss and ensure data availability,A,DS
+223,All customer information will be stored on a secure database  accessible only to authorized personnel.,SE,DS
+224,The device should provide data compression algorithms to optimize storage usage,US,DS
+225,The system should support data partitioning and sharding techniques to distribute data across multiple storage nodes for improved performance,SC,DS
+226,The system servers should have a fail-safe mechanism to ensure that critical data is not lost in the event of a power outage,FT,DS
+227,"The data storage system shall implement mechanisms to ensure compliance with data protection regulations and standards, such as GDPR or HIPAA.",SE,DS
+228,The system should support horizontal scaling  allowing for the addition of more storage nodes to increase data storage capacity,SC,DS
+229,The system should have configurable data retention policies to comply with legal or regulatory requirements,US,DS
+230,The device should support data encryption both during transmission and storage to protect user privacy,US,DS
+231,All streaming movie sales will be logged in the database  and accessible by the administrator.,F,DS
+232,The product shall comply with data protection laws and regulations to ensure the security and privacy of stored data,L,DS
+233,The data storage system shall implement mechanisms to securely delete or anonymize data when it is no longer needed.,SE,DS
+234,The device shall be able to store data on an external hard drive,A,DS
+235,The device should have backup power or data buffering capabilities to prevent data loss during power outages,A,DS
+236,The washing process must use a non binding  neutral data format  such as xml  when receiving and processing lead data.,O,DS
+237,The system shall store sensor data in a time-series database for real-time monitoring and trend analysis,O,DS
+238,The system shall support historical data storage for trend analysis,O,DS
+239,Access to stored data should be restricted to authorized users only.,SE,DS
+240,The device should have onboard storage capacity of at least 1GB for data logging,US,DS
+241,The system should provide data compression algorithms to reduce storage space and bandwidth requirements,US,DS
+242,The data storage system should have data backup and disaster recovery mechanisms to ensure data integrity and availability,PO,DS
+243,The data server should have a backup power source in case of power outages,A,DS
+244,The device shall be able to store data on a distributed file system,A,DS
+245,The product shall conform to industry-specific regulations for data storage and archival processes,US,DS
+246,The device shall be able to store data on an SD card,A,DS
+247,The product shall record updated meeting agendas.,F,DS
+248,The system should have a mechanism for managing and securing access to personal data,SE,DS
+249,The software should provide data aggregation and fusion capabilities to combine data from multiple sensors,PO,DS
+250,The system should have a mechanism to encrypt all data stored in the cloud,F,DS
+251,The system must be able to process large volumes of data in real-time,PE,DS
+252,The system should support automatic data backup and recovery mechanisms,LF,DS
+253,The system should support data partitioning and distribution techniques to ensure optimal storage and retrieval performance,SC,DS
+254,The vehicle data shall include vehicle year make and model,F,DS
+255,The IoT system shall meet industry-specific regulations for data integrity accuracy and auditability,L,DS
+256,The system should have the ability to recover from device failures without data loss,FT,DS
+257,The data storage system shall have data replication across geographically distributed locations for fault tolerance and disaster recovery,FT,DS
+258,The device shall be able to store data in a redundant storage configuration for data resilience,A,DS
+259,The system shall utilize distributed file systems for scalable and fault-tolerant data storage,O,DS
+260,The data storage system shall have data replication across multiple locations for fault tolerance and disaster recovery,FT,DS
+261,The device shall be able to store data on a blockchain,A,DS
+262,The IoT data server shall adhere to energy efficiency standards and regulations to minimize power consumption and environmental impact,L,DS
+263,The product shall store new conference rooms.,F,DS
+264,Data storage systems must have logging and auditing capabilities for security monitoring.,SE,DS
+265,Customized information is displayed.,SE,DS
+266,The product shall be able to delete room equipment.,F,DS
+267,Daily usage statistics should be logged  and accessible by the administrator.,SE,DS
+268,The data server should have the ability to handle high traffic volumes,PE,DS
+269,The system shall store GPS location data for tracking and mapping purposes,F,DS
+270,The system should provide data deduplication and compression techniques to optimize storage efficiency,US,DS
+271,The system should be able to filter and prioritize data based on user-defined criteria,US,DS
+272,The data storage system should have data archiving capabilities for long-term data retention and compliance,PO,DS
+273,The data storage solution should be able to handle high data ingestion rates and provide efficient data retrieval capabilities,SC,DS
+274,The device shall be able to store data on a cloud server,A,DS
+275,System will use secured database,O,DS
+276,The data storage system shall enforce secure backup and recovery mechanisms to ensure data availability and integrity.,SE,DS
+277,The data storage system should provide data archival capabilities for long-term data preservation and compliance,PO,DS
+278,The device shall be able to store data on a RAID array,A,DS
+279,The system should support horizontal scaling allowing for the addition of more storage nodes to increase data storage capacity,SC,DS
+280,The product shall record all the equipment that has been reserved.,F,DS
+281,The data storage solution should provide efficient data ingestion and retrieval capabilities for high data throughput,SC,DS
+282,The data retrieval time for real-time data shall be less than 100 milliseconds,PE,DS
+283,All registered customer information shall be stored and maintained in the database  even after the customer cancels their account.,SE,DS
+284,The system should offer built-in data archiving and retention policies to manage data storage costs and compliance requirements,SC,DS
+285,the data server shall have less than one minute of downtime a week,A,DS
+286,The system shall store user preferences and settings for personalized experiences,F,DS
+287,The system should have a mechanism for collecting and analyzing device usage data,MN,DS
+288,The IoT platform shall perform daily backups of system data to prevent data loss and facilitate recovery,A,DS
+289,The data storage system shall have mechanisms to detect and respond to data breaches or unauthorized access attempts,SE,DS
+290,Sensitive data will be encrypted before being sent over insecure connections like the internet.,SE,DS
+291,The data storage system shall enforce access controls and permissions to restrict data access based on user roles or privileges.,SE,DS
+292,Unauthorised users can only read data without modifying anything.,SE,DS
+293,Data storage systems shall support seamless migration or expansion without disrupting data availability or system functionality,MN,DS
+294,The system shall comply with regulations governing the cross-border transfer of data,L,DS
+295,The data storage system should be scalable to handle exponentially growing volumes of data generated by IoT devices,SC,DS
+296,The system should be able to encrypt all data transmitted between the gateway and data storage devices,F,DS
+297,The data storage system shall provide data integrity checks and error correction mechanisms to ensure data reliability,FT,DS
+298,The device shall be able to store data in a compressed format to optimize storage capacity,A,DS
+299,The system shall support WebSocket protocol for real-time data streaming,O,DS
+300,The reliability of the overall program depends on the reliability of the separate components. The main pillar of reliability of the system is the backup of the database which is continuously maintained and updated to reflect the most recent changes.,FT,DS
+301,The system should be able to provide secure and reliable data backup and recovery,MN,DS
+302,The system shall comply with data privacy regulations and ensure user consent,O,DS
+303,The same hardware supporting the current website will be used to support the new system.,O,DS
+304,The System shall utilize currently owned computer equipment.,O,DS
+305,Each account must have a separate identifying account number.,F,DS 
+306,Each account must securely store all of its data.,SE,DS 
+307,The system should have to keep the location where the doughnut will be send.,O,DS 
+308,The system should keep the customer contact number.,F,DS 
+309,Full data backups must be created daily.,SE,DS 
+310,The system should keep the customer email.,F,DS 

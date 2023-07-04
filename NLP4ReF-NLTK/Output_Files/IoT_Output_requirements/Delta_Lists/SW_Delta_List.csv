@@ -1,0 +1,9 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system shall provide proactive notifications to users in case of planned maintenance or downtime,A,SW
+2,The software architecture should be modular and scalable allowing for easy integration of new features and functionalities as the system evolves,SC,SW
+3,The system should be able to analyze data in real-time to identify any trends or patterns,F,SW
+4,The system should support integration with third-party software and APIs for expanded functionality,LF,SW
+5,The system should be able to scale up to 500 concurrent users (if there is a need in the future) by installing additional hardware components.,SC,SW
+6,The system shall be compatible with the Microsoft Windows Operating System.,PO,SW
+7,The system SW should have a failover mechanism to ensure uninterrupted operation in the event of a failure,FT,SW
+8,The product shall be capable of handling up to 1 000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.,SC,SW

@@ -1,0 +1,14 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system shall integrate with big data platforms for processing and analysis of large datasets,O,DS
+2,The device should support data retrieval and analysis for historical data trends,US,DS
+3,The data server should have a backup and recovery plan in case of security breaches,FT,DS
+4,The device should support data encryption both during transmission and storage to protect user privacy,US,DS
+5,The software should provide data aggregation and fusion capabilities to combine data from multiple sensors,PO,DS
+6,The system servers should have a fail-safe mechanism to ensure that critical data is not lost in the event of a power outage,FT,DS
+7,The system shall store historical sensor data for a minimum of 5 years,PE,DS
+8,The system should be able to handle multiple types of data including structured and unstructured data,SC,DS
+9,The device should allow users to export data in common formats CSV  or Excel for further analysis,US,DS
+10,The system's software should be able to handle large volumes of data with low latency,PE,DS
+11,The data servers should be able to limit the amount of data each device can send or receive to prevent denial-of-service attacks,PE,DS
+12,The data retrieval time for real-time data shall be less than 100 milliseconds,PE,DS
+13,Data backups should be performed regularly to ensure data availability and recovery in case of failures.,SE,DS

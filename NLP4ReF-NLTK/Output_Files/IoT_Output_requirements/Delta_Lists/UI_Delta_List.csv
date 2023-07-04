@@ -1,0 +1,7 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system should provide customizable themes and color schemes to allow users to personalize the interface according to their preferences,LF,UI
+2,The system should provide tools for monitoring and analyzing user performance,PE,UI
+3,The system should have a user-friendly and intuitive interface for configuring device settings and viewing data,LF,UI
+4,The system should provide logs and alerts for system events and errors,MN,UI
+5,The system should have a clear and user-friendly interface for managing connected devices and networks,LF,UI
+6,The system should provide support for users with disabilities,SC,UI

@@ -1,0 +1,9 @@
+Requirement Number,Requirement,FR/NFR Category,System Class
+1,The system should support responsive design principles to ensure the user interface adapts to different screen sizes and devices,SC,UI
+2,The stystem interface should have a clean and intuitive design that enables users to easily navigate and interact with the system,LF,UI
+3,The system should provide visual cues or representations to indicate the available storage capacity and usage for the user,LF,UI
+4,The system shall allow user to enter the customer and product information for the support.,F,UI
+5,The system shall be able to issue a specific amount of money to the user.,F,UI
+6,The IoT system shall adhere to privacy regulations to ensure the proper handling and safeguarding of user information,L,UI
+7,The system shall provide real-time notifications and alerts to the user within 1 second,PE,UI
+8,The system shall allow user to select the payment method for order.,F,UI

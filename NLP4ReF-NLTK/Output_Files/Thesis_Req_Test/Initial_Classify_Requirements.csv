@@ -1,0 +1,28 @@
+Requirement Number,Requirement,System Class,FR/NFR Category
+1,The system shall implement a requirement classification module to classify requirements into the 12 FR and NFR classes accurately.,SW,F
+2,The system shall incorporate a requirement classification module to classify requirements into the 6 systems classes accurately.,SW,F
+3,The system shall incorporate a requirement generation module to create new requirements as close as possible to the dataset's requirements.,SW,F
+4,The system shall be developed using the Python programming language as the primary development platform.,SW,O
+5,The Promise dataset shall be utilized for testing and comparing the algorithms with previous studies.,SW,PE
+6,A new set of at least 1000 requirements in IoT shall be created to enhance the training dataset and improve algorithm performance.,SW,MN
+7,The systems processes shall rely on ML techniques and NLP methods.,SW,O
+8,"The system shall provide comprehensive documentation, and user guides to assist users in understanding and utilizing the system effectively.",UI,US
+9,The system should support the uploading and generating of CSV files in Excel format.,SW,O
+10,"The generated CSV file should adhere to a predefined template structure, including requirement number, requirement text, FR/NFR category, and system classes.",SW,SC
+11,The systems' users shall be able to decide the output file path and destination.,SW,O
+12,The system shall include a feedback mechanism to allow users to review and validate the accuracy of the generated requirements.,SW,F
+13,"The system should utilize 20% of the dataset for verification purposes, evaluating the classification functions' accuracy, F1 score, and recall.",SW,F
+14,The system should facilitate a comparison between the newly generated requirements and the existing database by using the Precision metrics.,DS,O
+15,The system shall employ the NLTK library to develop a method for simplifying requirements.,SW,O
+16,"The system shall incorporate data preprocessing techniques to handle noise, outliers, and missing values in the requirement dataset.",DS,SC
+17,The system shall utilize the TF-IDF technique for vectorizing requirements to enable further classification.,HW,O
+18,The system shall leverage the Sklearn and TensorFlow libraries to develop classification and generation models.,SW,F
+19,The system shall implement a method based on SVM to classify requirements into FR/NFR and System Classes Labels.,SW,SE
+20,The NLP4ReF-NLTK method should involve NLP techniques for input text analysis and employ ML tools for generating new requirements.,SW,F
+21,The systems shall be split into development systems and production systems.,SW,F
+22,"The development systems shall facilitate training, testing, and saving vectorizer and ML models.",SW,MN
+23,The production systems shall only include the final functions necessary for end-user utilization.,SW,F
+24,"The system shall incorporate a method based on ChatGPT's API to facilitate requirement simplification, vectorization, classification, and generation.",SW,F
+25,Users of the system shall have the ability to input their OpenAI ID and personal code for accessing ChatGPT's API.,SW,F
+26,The systems shall have just a production system.,SW,O
+27,The production systems shall only include the final functions necessary for end-user utilization.,SW,F
