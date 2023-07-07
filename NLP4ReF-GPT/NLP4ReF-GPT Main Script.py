@@ -240,13 +240,17 @@ def main():
     # Step 10: Loop through each system class
     for system_class, requirements in system_class_lists.items():
         # Step 11: Ask the OpenAI API for a Delta List of requirements
-        question = f"Please generate Delta List of relevant requirements for System Class: {system_class}"
-        # Step 12: Ask the GPT API to answer the question
+        question = f"""please generate 2 new relevant requirements for each requirement for System Class: {system_class}. 
+        Here is the list of Requirements:"""
+        # Step 12: Append all the requirements from the current system class to the question
+        for requirement in requirements:
+            question += f"\n{requirement}"
+        # Step 13: Ask the GPT API to answer the question
         response = GPT_interface(question, api_key)
-        # Step 13: Create a Delta List for this specific system_class
+        # Step 14: Create a Delta List for this specific system_class
         delta_lists_creation_module(response, system_class, requirements)
 
-    # Step 7: Present the Delta List to the Systems Engineers
+    # Step 15: Present the Delta List to the Systems Engineers
     print('The delta_list for each system is under the Delta Lists Files Directory: delta_list_dir ')
 
 
