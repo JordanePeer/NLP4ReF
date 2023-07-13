@@ -431,7 +431,7 @@ filtered_requirements = normalization_module(requirements)
 X_train, X_test = get_splits(filtered_requirements, frnfr_categories)
 
 # Step 5: Vectorize the training data
-dtm, vectorizer = vectorization_module(X_train)
+dtm, vectorizer = vectorization_module(filtered_requirements)
 label_FRNFR_encoder = Encoder_Y_module(['F', 'A', 'L', 'LF', 'MN', 'O', 'PE', 'SC', 'SE', 'US', 'FT', 'PO'], 'FRNFR_Labels_Encoder.pkl')
 label_Sys_encoder = Encoder_Y_module(['SE', 'AC', 'CO', 'DS', 'SW', 'UI'], 'System_Labels_Encoder.pkl')
 
