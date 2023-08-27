@@ -1,28 +1,22 @@
 Requirement Number,Requirement,FR/NFR Category,System Class
 1,"Classify requirements into the 12 FR and NFR classes accurately",F,SW
 2,"Classify requirements into the 6 systems classes accurately",F,SW
-3,"The system shall incorporate a requirement generation module to create new requirements as close as possible to the dataset’s requirements",F,SW
-4,"The system shall support the Python programming language for development and application",O,SW
-5,"Use the PROMISE_exp dataset for testing and comparison of the algorithms with previous studies",PE,SW
-6,"Use an enhanced PROMISE requirements dataset base on IoT",MN,DS
-7,"The systems processes shall rely on ML techniques and NLP methods",O,SW
-8,"The system shall provide comprehensive documentation, and user guides to assist users in understanding and utilizing the system effectively",US,UI
-9,"The implementation phase shall not take more than 1 hour for any user",O,SW
-10,"The system time processing shall be lower than 1 hour",SC,SW
-11,"The algorithm shall be modular and easy to update",O,SW
-12,"The system shall be capable to upload and generate Excel-format CSV files",F,SW
-13,"Upload Unique template format, including requirement number, requirement text, FR/NFR category, and system classes",MN,SW
-14,"Ability to specify the desired input and output files path and destination",F,SW
-15,"The system shall be able to process a list of at least 2000 requirements",F,SW
-16,"The system performance shall excel:Precision – 80%, Recall – 80%, F1 Score – 80%, Authenticity – 100%, Bleau Score – 25%, Self Bleu Score – 25%",O,SW
-17,"The system should be able to perform as well or better than the results from previous research",O,SW
-18,"The system must compare between the newly generated requirements and the existing database",O,SW
-19,"The system shall minimize noise, outliers, and missing values in the requirement dataset",O,SW
-20,"The system shall be able to normalize and vectorize the data",F,SW
-21,"The system’s generative model shall be based on the Sklearn and TensorFlow libraries",F,SW
-22,"The NLP4ReF-NLTK method should be able to perform offline",MN,SW
-23,"The Developer (the researcher) shall be able to develop and implement their models",F,SW
-24,"The development phase shall facilitate training, testing, and saving vectorizer and ML models",F,SW
-25,"The system’s classification and generation functions shall be based on the ChatGPT's API",US,UI
-26,"System’s users shall have the ability to input their OpenAI ID and personal code",F,SW
-27,"The system’s computer shall be connected to the internet",US,SW
+3,"Generate new requirements that capture the input requirements meaning",F,SW
+4,"Perform the Algorithms main functions automatically",O,SW
+5,"Ensure modularity and ease of updating for the algorithm",SC,SW
+6,"Use the PROMISE_exp dataset to test and compare the algorithms with previous studies",O,DS
+7,"Create an enhanced PROMISE requirements dataset base on IoT for testing",MN,DS
+8,"Provide comprehensive documentation, and user guides to assist users in understanding and utilizing the system effectively",US,UI
+9,"Take users less than 1 hour to implement / install the software",FT,SW
+10,"Ensure that the system's time processing remains under 1 hour",FT,SW
+11,"Upload and generate Excel-format CSV files",O,SW
+12,"Keep a unique template format of 4 columns; (1) requirement number, (2) requirement text, (3) FR/NFR category, and (4) system classes",O,SW
+13,"Allow users to define preferred input and output file paths and destinations",US,DS
+14,"Enable the system to handle a minimum input of 0 to 2000 requirements",SC,SW
+15,"Match or surpass the FR/NFR performance results from prior research",PE,SW
+16,"Achieve the following levels of system performance: Precision 80%, Recall 80%, F1 Score 80%, Authenticity 100%, Bleau Score 25%, Self Bleu Score 25%",PE,SW
+17,"Perform all the Algorithms main functions",O,SW
+18,"Operate the NLP4ReF-NLTK method without the need of internet connection",A,CO
+19,"Perform all the Algorithms main functions",O,SW
+20,"Allow users to insert their OpenAI ID and personal code in the software",US,SW
+21,"Operate the NLP4ReF-GPT Method while always being connected to internet connection",A,CO
